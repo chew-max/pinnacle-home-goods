@@ -2,13 +2,17 @@
   <div class="page-width site-header__inner">
 
     <a href="{{ '/' | relative_url }}" class="site-header__brand">
-      {% if site.data.store.brand.logo %}
-        <span class="site-header__brand-name">
-          {{ site.data.store.brand.name }}
-        </span>
-      {% else %}
-        {{ site.data.store.brand.name }}
-      {% endif %}
+	{% if site.data.store.brand.logo %}
+	  <img
+		src="{{ site.data.store.brand.logo | relative_url }}"
+		alt="{{ site.data.store.brand.name }}"
+		class="site-header__logo"
+	  >
+	{% else %}
+	  <span class="site-header__brand-name">
+		{{ site.data.store.brand.name }}
+	  </span>
+	{% endif %}
     </a>
 
     <button

@@ -191,6 +191,14 @@ p {
   display: inline-block;
 }
 
+.site-header__logo {
+  display: block;
+  width: auto;
+  height: 52px;
+  max-width: 280px;
+  object-fit: contain;
+}
+
 .main-navigation {
   justify-self: center;
 }
