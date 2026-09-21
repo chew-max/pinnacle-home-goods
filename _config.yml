@@ -3,11 +3,11 @@
 # Update these values when cloning the storefront.
 # =========================================================
 
-title: "Jekyll Commerce"
-description: "A modern storefront built with Jekyll"
+title: "Pinnacle Home Goods"
+description: "Practical home goods, apparel, and everyday essentials with personality."
 
 url: "https://chew-max.github.io"
-baseurl: "/jekyll-commerce-starter"
+baseurl: "/pinnacle-home-goods"
 
 logo: "/assets/images/logo.svg"
 

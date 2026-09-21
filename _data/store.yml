@@ -1,6 +1,6 @@
 brand:
-  name: "Jekyll Commerce"
-  tagline: "A modern storefront built with Jekyll"
+  name: "Pinnacle Home Goods"
+  tagline: "Home goods with personality."
   logo: "/assets/images/logo.svg"
 
 theme:
@@ -18,13 +18,13 @@ announcement:
   text: "Free shipping on orders over $50"
 
 contact:
-  email: "support@example.com"
+  email: "info@mthpinnaclellc.com"
 
 social:
   instagram: ""
   facebook: ""
   tiktok: ""
-  
+
 commerce:
   provider: "global-payments"
   checkout_endpoint: "https://jekyll-commerce-api-sandbox.mth-commerce.workers.dev/api/checkout"
@@ -47,41 +47,41 @@ policies:
   - handle: "terms"
     title: "Terms of Service"
     enabled: true
-    
+
 collections:
+  - handle: honey-do
+    title: "Honey Do Collections"
+    description: "For the projects, the punch lists, and the people who somehow became the household expert."
+    image: "/assets/images/collections/honey-do.png"
+  
   - handle: shirts
     title: "Shirts"
     description: "Everyday tees and apparel."
     image: "/assets/images/collections/shirts.png"
 
-  - handle: drinkware
-    title: "Drinkware"
-    description: "Mugs, tumblers, and everyday drinkware."
-    image: "/assets/images/collections/drinkware.png"
-
   - handle: best-sellers
     title: "Best Sellers"
     description: "Customer favorites from across the collection."
     image: "/assets/images/collections/best-sellers.png"
-  
+
 homepage:
   hero:
-    eyebrow: "NEW COLLECTION"
-    heading: "Built for the Weekend."
-    text: "Everyday essentials designed for wherever the day takes you."
-    button_label: "Shop the Collection"
+    eyebrow: "INTRODUCING HONEY DO"
+    heading: "Same House. Different Mission."
+    text: "Everyday gear for the projects, personalities, and laughs that come with getting it done."
+    button_label: "Shop Honey Do"
     button_url: "/shop/"
     image: "/assets/images/home/hero.png"
 
   featured:
-    eyebrow: "SHOP THE LATEST"
+    eyebrow: "HONEY DO COLLECTIONS"
     heading: "Featured Products"
-    text: "A few of our current favorites."
+    text: "Gear for getting it done—or at least looking like you know what you're doing."
 
   promo:
-    eyebrow: "EVERYDAY ESSENTIALS"
-    heading: "Made for more than one kind of day."
-    text: "Simple, versatile pieces made to fit into everyday life."
+    eyebrow: "PINNACLE HOME GOODS"
+    heading: "Home goods with personality."
+    text: "Useful, wearable, giftable, and made for everyday life."
     button_label: "Shop All"
     button_url: "/shop/"
     image: "/assets/images/home/promo.png"
