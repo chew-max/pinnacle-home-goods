@@ -1,0 +1,97 @@
+brand:
+  name: "Jekyll Commerce"
+  tagline: "A modern storefront built with Jekyll"
+  logo: "/assets/images/logo.svg"
+
+theme:
+  primary: "#111111"
+  secondary: "#666666"
+  accent: "#111111"
+  background: "#ffffff"
+
+store:
+  currency: "USD"
+  currency_symbol: "$"
+
+announcement:
+  enabled: true
+  text: "Free shipping on orders over $50"
+
+contact:
+  email: "support@example.com"
+
+social:
+  instagram: ""
+  facebook: ""
+  tiktok: ""
+  
+commerce:
+  provider: "global-payments"
+  checkout_endpoint: "https://jekyll-commerce-api-sandbox.mth-commerce.workers.dev/api/checkout"
+  order_status_endpoint: "https://jekyll-commerce-api-sandbox.mth-commerce.workers.dev/api/order-status"
+  max_quantity: 10
+
+policies:
+  - handle: "shipping"
+    title: "Shipping"
+    enabled: true
+
+  - handle: "returns"
+    title: "Returns & Refunds"
+    enabled: true
+
+  - handle: "privacy"
+    title: "Privacy Policy"
+    enabled: true
+
+  - handle: "terms"
+    title: "Terms of Service"
+    enabled: true
+    
+collections:
+  - handle: shirts
+    title: "Shirts"
+    description: "Everyday tees and apparel."
+    image: "/assets/images/collections/shirts.png"
+
+  - handle: drinkware
+    title: "Drinkware"
+    description: "Mugs, tumblers, and everyday drinkware."
+    image: "/assets/images/collections/drinkware.png"
+
+  - handle: best-sellers
+    title: "Best Sellers"
+    description: "Customer favorites from across the collection."
+    image: "/assets/images/collections/best-sellers.png"
+  
+homepage:
+  hero:
+    eyebrow: "NEW COLLECTION"
+    heading: "Built for the Weekend."
+    text: "Everyday essentials designed for wherever the day takes you."
+    button_label: "Shop the Collection"
+    button_url: "/shop/"
+    image: "/assets/images/home/hero.png"
+
+  featured:
+    eyebrow: "SHOP THE LATEST"
+    heading: "Featured Products"
+    text: "A few of our current favorites."
+
+  promo:
+    eyebrow: "EVERYDAY ESSENTIALS"
+    heading: "Made for more than one kind of day."
+    text: "Simple, versatile pieces made to fit into everyday life."
+    button_label: "Shop All"
+    button_url: "/shop/"
+    image: "/assets/images/home/promo.png"
+
+  benefits:
+    - title: "Free Shipping"
+      text: "On orders over $50"
+    - title: "Secure Checkout"
+      text: "Safe and protected payments"
+    - title: "Made to Order"
+      text: "Produced just for you"
+    - title: "Customer Support"
+      text: "We're here when you need us"

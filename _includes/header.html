@@ -1,0 +1,65 @@
+<header class="site-header">
+  <div class="page-width site-header__inner">
+
+    <a href="{{ '/' | relative_url }}" class="site-header__brand">
+      {% if site.data.store.brand.logo %}
+        <span class="site-header__brand-name">
+          {{ site.data.store.brand.name }}
+        </span>
+      {% else %}
+        {{ site.data.store.brand.name }}
+      {% endif %}
+    </a>
+
+    <button
+      class="mobile-nav-toggle"
+      type="button"
+      aria-expanded="false"
+      aria-controls="main-navigation"
+      aria-label="Toggle navigation"
+    >
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+    <nav
+      id="main-navigation"
+      class="main-navigation"
+      aria-label="Main navigation"
+    >
+      <ul>
+        {% for item in site.data.navigation.main %}
+          <li>
+            <a href="{{ item.url | relative_url }}">
+              {{ item.title }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+
+    <div class="site-header__actions">
+      <button
+        class="header-icon-button"
+        type="button"
+        aria-label="Search"
+      >
+        <span aria-hidden="true">⌕</span>
+      </button>
+
+		<button
+		  class="header-icon-button cart-button"
+		  id="cart-button"
+		  type="button"
+		  aria-label="Shopping cart"
+		  aria-controls="cart-drawer"
+		  aria-expanded="false"
+		>
+        <span aria-hidden="true">Bag</span>
+        <span class="cart-count" id="cart-count">0</span>
+      </button>
+    </div>
+
+  </div>
+</header>

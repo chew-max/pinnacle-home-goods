@@ -1,0 +1,122 @@
+<footer class="site-footer">
+  <div class="page-width">
+
+    <div class="site-footer__grid">
+
+      <div class="site-footer__brand">
+        <h2>{{ site.data.store.brand.name }}</h2>
+        <p>{{ site.data.store.brand.tagline }}</p>
+      </div>
+
+      <div class="site-footer__column">
+        <h3>Shop</h3>
+
+        <ul>
+          <li>
+            <a href="{{ '/shop/' | relative_url }}">All Products</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="site-footer__column">
+        <h3>Information</h3>
+
+        <ul>
+          <li>
+            <a href="{{ '/about/' | relative_url }}">About</a>
+          </li>
+
+          <li>
+            <a href="{{ '/contact/' | relative_url }}">Contact</a>
+          </li>
+        </ul>
+      </div>
+	  
+{% assign has_social = false %}
+
+{% if site.data.store.social.instagram != "" %}
+  {% assign has_social = true %}
+{% endif %}
+
+{% if site.data.store.social.facebook != "" %}
+  {% assign has_social = true %}
+{% endif %}
+
+{% if site.data.store.social.tiktok != "" %}
+  {% assign has_social = true %}
+{% endif %}
+
+
+{% if has_social %}
+
+  <nav
+    class="site-footer__social"
+    aria-label="Social media"
+  >
+
+    {% if site.data.store.social.instagram != "" %}
+      <a
+        href="{{ site.data.store.social.instagram }}"
+        target="_blank"
+        rel="noopener"
+      >
+        Instagram
+      </a>
+    {% endif %}
+
+    {% if site.data.store.social.facebook != "" %}
+      <a
+        href="{{ site.data.store.social.facebook }}"
+        target="_blank"
+        rel="noopener"
+      >
+        Facebook
+      </a>
+    {% endif %}
+
+    {% if site.data.store.social.tiktok != "" %}
+      <a
+        href="{{ site.data.store.social.tiktok }}"
+        target="_blank"
+        rel="noopener"
+      >
+        TikTok
+      </a>
+    {% endif %}
+
+  </nav>
+
+{% endif %}
+
+<div class="site-footer__column">
+  <h3>Policies</h3>
+
+  <ul>
+    {% for policy in site.data.store.policies %}
+      {% if policy.enabled %}
+        <li>
+          <a href="{{ '/policies/' | append: policy.handle | append: '/' | relative_url }}">
+            {{ policy.title }}
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
+    </div>
+
+    <div class="site-footer__bottom">
+      <p>
+        &copy; {{ "now" | date: "%Y" }}
+        {{ site.data.store.brand.name }}.
+        All rights reserved.
+      </p>
+
+      <p class="site-footer__powered">
+        Powered by Jekyll.
+      </p>
+    </div>
+
+  </div>
+</footer>

@@ -1,0 +1,513 @@
+---
+layout: default
+title: Payment Not Completed
+---
+
+<style>
+  /* =====================================================
+     CHECKOUT FAILED
+     ===================================================== */
+
+  .checkout-failed {
+    min-height: 70vh;
+    padding: 96px 24px 120px;
+    background: #ffffff;
+  }
+
+  .checkout-failed__inner {
+    width: 100%;
+    max-width: 760px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+
+  /* -----------------------------------------------------
+     Status
+     ----------------------------------------------------- */
+
+  .checkout-failed__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 52px;
+    height: 52px;
+
+    margin: 0 auto 28px;
+
+    border: 2px solid #111111;
+    border-radius: 50%;
+
+    color: #111111;
+
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1;
+  }
+
+  .checkout-failed__eyebrow {
+    margin: 0 0 16px;
+
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+  }
+
+  .checkout-failed__title {
+    margin: 0;
+
+    font-size: clamp(42px, 6vw, 68px);
+    font-weight: 500;
+    line-height: 1.05;
+    letter-spacing: -0.04em;
+  }
+
+  .checkout-failed__lead {
+    max-width: 570px;
+
+    margin: 24px auto 0;
+
+    color: #555555;
+
+    font-size: 18px;
+    line-height: 1.7;
+  }
+
+
+  /* -----------------------------------------------------
+     Guidance
+     ----------------------------------------------------- */
+
+  .checkout-failed__guidance {
+    margin-top: 64px;
+
+    text-align: left;
+  }
+
+  .checkout-failed__guidance-heading {
+    margin: 0 0 28px;
+
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .checkout-failed__steps {
+    border-top: 1px solid #dddddd;
+  }
+
+  .checkout-failed__step {
+    display: grid;
+
+    grid-template-columns: 52px 1fr;
+
+    gap: 20px;
+
+    padding: 26px 0;
+
+    border-bottom: 1px solid #dddddd;
+  }
+
+  .checkout-failed__step-number {
+    color: #777777;
+
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+  }
+
+  .checkout-failed__step-content strong {
+    display: block;
+
+    margin-bottom: 6px;
+
+    color: #111111;
+
+    font-size: 17px;
+    font-weight: 600;
+  }
+
+  .checkout-failed__step-content p {
+    margin: 0;
+
+    color: #666666;
+
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+
+  /* -----------------------------------------------------
+     Important Note
+     ----------------------------------------------------- */
+
+  .checkout-failed__notice {
+    margin-top: 36px;
+
+    padding: 22px 24px;
+
+    border: 1px solid #dddddd;
+
+    color: #555555;
+
+    font-size: 14px;
+    line-height: 1.7;
+
+    text-align: left;
+  }
+
+  .checkout-failed__notice strong {
+    color: #111111;
+  }
+
+
+  /* -----------------------------------------------------
+     Actions
+     ----------------------------------------------------- */
+
+  .checkout-failed__actions {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    gap: 20px;
+
+    margin-top: 42px;
+  }
+
+  .checkout-failed__button {
+    box-sizing: border-box;
+
+    text-decoration: none;
+    text-transform: uppercase;
+
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+  }
+
+  .checkout-failed__button--primary {
+    display: inline-flex;
+
+    align-items: center;
+    justify-content: center;
+
+    min-width: 250px;
+    min-height: 58px;
+
+    padding: 16px 28px;
+
+    background: #111111;
+
+    border: 1px solid #111111;
+
+    color: #ffffff !important;
+
+    transition:
+      background 0.2s ease,
+      color 0.2s ease;
+  }
+
+  .checkout-failed__button--primary:hover {
+    background: #ffffff;
+
+    color: #111111 !important;
+
+    text-decoration: none;
+  }
+
+  .checkout-failed__button--secondary {
+    display: inline-block;
+
+    padding: 4px 0;
+
+    border-bottom: 1px solid #111111;
+
+    color: #111111 !important;
+  }
+
+  .checkout-failed__button--secondary:hover {
+    opacity: 0.6;
+
+    text-decoration: none;
+  }
+
+
+  /* -----------------------------------------------------
+     Responsive
+     ----------------------------------------------------- */
+
+  @media (max-width: 600px) {
+
+    .checkout-failed {
+      padding: 64px 20px 80px;
+    }
+
+    .checkout-failed__title {
+      font-size: 42px;
+    }
+
+    .checkout-failed__lead {
+      font-size: 16px;
+    }
+
+    .checkout-failed__guidance {
+      margin-top: 48px;
+    }
+
+    .checkout-failed__step {
+      grid-template-columns: 40px 1fr;
+
+      gap: 14px;
+    }
+
+    .checkout-failed__button--primary {
+      width: 100%;
+
+      min-width: 0;
+    }
+
+  }
+</style>
+
+
+<section class="checkout-failed">
+
+  <div class="checkout-failed__inner">
+
+    <div
+      class="checkout-failed__icon"
+      aria-hidden="true"
+    >
+      !
+    </div>
+
+
+    <p class="checkout-failed__eyebrow">
+      Checkout Incomplete
+    </p>
+
+
+    <h1 class="checkout-failed__title">
+      Payment not completed.
+    </h1>
+
+
+    <p
+      id="checkout-failed-message"
+      class="checkout-failed__lead"
+    >
+      Your checkout did not complete.
+      Your cart has been preserved so you can try again.
+    </p>
+
+
+    <div class="checkout-failed__guidance">
+
+      <h2 class="checkout-failed__guidance-heading">
+        What Should I Do?
+      </h2>
+
+
+      <div class="checkout-failed__steps">
+
+        <div class="checkout-failed__step">
+
+          <div class="checkout-failed__step-number">
+            01
+          </div>
+
+          <div class="checkout-failed__step-content">
+
+            <strong>
+              Your cart is safe
+            </strong>
+
+            <p>
+              The items in your cart have been preserved.
+              You do not need to add them again.
+            </p>
+
+          </div>
+
+        </div>
+
+
+        <div class="checkout-failed__step">
+
+          <div class="checkout-failed__step-number">
+            02
+          </div>
+
+          <div class="checkout-failed__step-content">
+
+            <strong>
+              Review your checkout
+            </strong>
+
+            <p>
+              Return to checkout and review your shipping
+              and payment information before trying again.
+            </p>
+
+          </div>
+
+        </div>
+
+
+        <div class="checkout-failed__step">
+
+          <div class="checkout-failed__step-number">
+            03
+          </div>
+
+          <div class="checkout-failed__step-content">
+
+            <strong>
+              Try again when ready
+            </strong>
+
+            <p>
+              You can restart checkout without rebuilding
+              your cart.
+            </p>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <div class="checkout-failed__notice">
+
+      <strong>
+        Already received an order confirmation?
+      </strong>
+
+      If you received an order confirmation email,
+      do not submit another payment. Use the order-status
+      link in that email to check your order instead.
+
+    </div>
+
+
+    <div class="checkout-failed__actions">
+
+      <a
+        class="
+          checkout-failed__button
+          checkout-failed__button--primary
+        "
+        href="{{ '/checkout/' | relative_url }}"
+      >
+        Return to Checkout
+      </a>
+
+
+      <a
+        class="
+          checkout-failed__button
+          checkout-failed__button--secondary
+        "
+        href="{{ '/' | relative_url }}"
+      >
+        Return Home
+      </a>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<script>
+(function () {
+  "use strict";
+
+
+  /*
+   * IMPORTANT:
+   *
+   * Do NOT clear the cart on this page.
+   * Failed or incomplete checkout must preserve
+   * the customer's cart for another attempt.
+   */
+
+
+  const params =
+    new URLSearchParams(
+      window.location.search
+    );
+
+
+  const reason =
+    params.get("reason");
+
+
+  const message =
+    document.getElementById(
+      "checkout-failed-message"
+    );
+
+
+  /*
+   * Keep customer-facing messaging intentionally
+   * generic. Provider or internal error details
+   * should never be exposed here.
+   */
+
+  switch (reason) {
+
+    case "declined":
+
+      message.textContent =
+        "Your payment was declined. No order was completed. " +
+        "Your cart has been preserved so you can review your " +
+        "payment information and try again.";
+
+      break;
+
+
+    case "cancelled":
+
+    case "canceled":
+
+      message.textContent =
+        "Checkout was canceled before payment was completed. " +
+        "Your cart has been preserved so you can continue when ready.";
+
+      break;
+
+
+    case "error":
+
+      message.textContent =
+        "We couldn't confirm your payment at this time. " +
+        "Your cart has been preserved. Before trying again, " +
+        "check your email for an order confirmation.";
+
+      break;
+
+
+    default:
+
+      message.textContent =
+        "Your checkout did not complete. " +
+        "Your cart has been preserved so you can try again.";
+
+      break;
+
+  }
+
+})();
+</script>

@@ -1,0 +1,238 @@
+---
+layout: default
+---
+
+{% assign commerce_product = site.data.commerce-catalog[page.product_id] %}
+
+{% unless commerce_product %}
+
+<section class="product-page">
+  <div class="page-width">
+    <p>
+      Product configuration could not be found for
+      {{ page.product_id }}.
+    </p>
+  </div>
+</section>
+
+{% else %}
+
+<section class="product-page">
+  <div class="page-width">
+
+    <div class="product-page__grid">
+
+      <div class="product-gallery">
+
+        {% if page.images and page.images.size > 0 %}
+
+          <div class="product-gallery__main">
+            <img
+              id="product-main-image"
+              src="{{ page.images[0] | relative_url }}"
+              alt="{{ page.title }}"
+            >
+          </div>
+
+          {% if page.images.size > 1 %}
+
+            <div class="product-gallery__thumbs">
+
+              {% for image in page.images %}
+
+                <button
+                  class="product-gallery__thumb {% if forloop.first %}is-active{% endif %}"
+                  type="button"
+                  data-image="{{ image | relative_url }}"
+                >
+
+                  <img
+                    src="{{ image | relative_url }}"
+                    alt="{{ page.title }} image {{ forloop.index }}"
+                  >
+
+                </button>
+
+              {% endfor %}
+
+            </div>
+
+          {% endif %}
+
+        {% endif %}
+
+      </div>
+
+
+      <div class="product-info">
+
+        {% if page.badge %}
+          <p class="product-info__badge">
+            {{ page.badge }}
+          </p>
+        {% endif %}
+
+        <h1>{{ page.title }}</h1>
+
+
+        <div class="product-info__price">
+
+          <span
+            id="product-current-price"
+            class="product-info__price-current"
+          >
+            {{ site.data.store.store.currency_symbol }}
+            {{ commerce_product.price }}
+          </span>
+
+          {% if page.compare_at_price %}
+            <span class="product-info__price-compare">
+              {{ site.data.store.store.currency_symbol }}
+              {{ page.compare_at_price }}
+            </span>
+          {% endif %}
+
+        </div>
+
+
+        {% if page.short_description %}
+          <div class="product-info__short-description">
+            {{ page.short_description }}
+          </div>
+        {% endif %}
+
+
+        {% for option_name in commerce_product.option_names %}
+
+          {% assign option_values = commerce_product.option_values[option_name] %}
+
+          <div
+            class="product-option"
+            data-product-option="{{ option_name }}"
+          >
+
+            <div class="product-option__header">
+
+              <span>
+                {{ option_name | capitalize }}
+              </span>
+
+              <span
+                class="product-option__selected"
+                data-selected-option="{{ option_name }}"
+              >
+                Select {{ option_name }}
+              </span>
+
+            </div>
+
+
+            <div class="product-option__values">
+
+              {% for option_value in option_values %}
+
+                <button
+                  type="button"
+                  class="variant-button product-option-value"
+                  data-option="{{ option_name }}"
+                  data-value="{{ option_value }}"
+                >
+                  {{ option_value }}
+                </button>
+
+              {% endfor %}
+
+            </div>
+
+          </div>
+
+        {% endfor %}
+
+
+        <div class="quantity-selector">
+
+          <label for="product-quantity">
+            Quantity
+          </label>
+
+          <div class="quantity-selector__controls">
+
+            <button
+              type="button"
+              id="quantity-minus"
+              aria-label="Decrease quantity"
+            >
+              −
+            </button>
+
+            <input
+              id="product-quantity"
+              type="number"
+              value="1"
+              min="1"
+              max="{{ site.data.store.commerce.max_quantity }}"
+            >
+
+            <button
+              type="button"
+              id="quantity-plus"
+              aria-label="Increase quantity"
+            >
+              +
+            </button>
+
+          </div>
+
+        </div>
+
+
+        <script
+          type="application/json"
+          id="product-commerce-data"
+        >
+          {{ commerce_product | jsonify }}
+        </script>
+
+
+        <button
+          id="add-to-cart"
+          class="button product-info__add"
+          type="button"
+          data-product-id="{{ page.product_id }}"
+          data-product-title="{{ page.title }}"
+          data-product-url="{{ page.url | relative_url }}"
+          data-product-image="{{ page.images[0] | relative_url }}"
+        >
+          Add to Bag
+        </button>
+
+
+        <p
+          id="product-message"
+          class="product-message"
+          aria-live="polite"
+        ></p>
+
+
+        {% if page.description %}
+
+          <div class="product-info__description">
+
+            <h2>Details</h2>
+
+            <p>
+              {{ page.description }}
+            </p>
+
+          </div>
+
+        {% endif %}
+
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+{% endunless %}

@@ -1,0 +1,116 @@
+---
+layout: home
+title: Home
+---
+
+{% assign home = site.data.store.homepage %}
+
+<section
+  class="home-hero"
+  {% if home.hero.image %}
+    style="--hero-image: url('{{ home.hero.image | relative_url }}');"
+  {% endif %}
+>
+  <div class="home-hero__overlay"></div>
+
+  <div class="page-width home-hero__content">
+    <p class="home-eyebrow">
+      {{ home.hero.eyebrow }}
+    </p>
+
+    <h1>{{ home.hero.heading }}</h1>
+
+    <p class="home-hero__text">
+      {{ home.hero.text }}
+    </p>
+
+    <a
+      href="{{ home.hero.button_url | relative_url }}"
+      class="button home-hero__button"
+    >
+      {{ home.hero.button_label }}
+    </a>
+  </div>
+</section>
+
+
+<section class="home-section featured-products">
+  <div class="page-width">
+
+    <header class="home-section__header">
+      <div>
+        <p class="home-eyebrow">
+          {{ home.featured.eyebrow }}
+        </p>
+
+        <h2>{{ home.featured.heading }}</h2>
+
+        <p>{{ home.featured.text }}</p>
+      </div>
+
+      <a
+        href="{{ '/shop/' | relative_url }}"
+        class="home-text-link"
+      >
+        View All
+      </a>
+    </header>
+
+    <div class="product-grid">
+      {% assign featured_products = site.products | slice: 0, 4 %}
+
+      {% for product in featured_products %}
+        {% include product-card.html product=product %}
+      {% endfor %}
+    </div>
+
+  </div>
+</section>
+
+
+<section class="home-promo">
+  <div class="home-promo__media">
+    {% if home.promo.image %}
+      <img
+        src="{{ home.promo.image | relative_url }}"
+        alt="{{ home.promo.heading }}"
+        loading="lazy"
+      >
+    {% endif %}
+  </div>
+
+  <div class="home-promo__content">
+    <div class="home-promo__inner">
+
+      <p class="home-eyebrow">
+        {{ home.promo.eyebrow }}
+      </p>
+
+      <h2>{{ home.promo.heading }}</h2>
+
+      <p>{{ home.promo.text }}</p>
+
+      <a
+        href="{{ home.promo.button_url | relative_url }}"
+        class="button"
+      >
+        {{ home.promo.button_label }}
+      </a>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="home-benefits">
+  <div class="page-width home-benefits__grid">
+
+    {% for benefit in home.benefits %}
+      <div class="home-benefit">
+        <h3>{{ benefit.title }}</h3>
+        <p>{{ benefit.text }}</p>
+      </div>
+    {% endfor %}
+
+  </div>
+</section>

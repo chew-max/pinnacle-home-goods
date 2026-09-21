@@ -1,0 +1,509 @@
+---
+layout: default
+title: Order Confirmed
+---
+
+<style>
+  /* =====================================================
+     CHECKOUT SUCCESS
+     ===================================================== */
+
+  .checkout-success {
+    min-height: 70vh;
+    padding: 96px 24px 120px;
+    background: #ffffff;
+  }
+
+  .checkout-success__inner {
+    width: 100%;
+    max-width: 760px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+
+  /* -----------------------------------------------------
+     Status
+     ----------------------------------------------------- */
+
+  .checkout-success__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 52px;
+    height: 52px;
+    margin: 0 auto 28px;
+    border: 2px solid #111111;
+    border-radius: 50%;
+    color: #111111;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1;
+  }
+
+  .checkout-success__eyebrow {
+    margin: 0 0 16px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+  }
+
+  .checkout-success__title {
+    margin: 0;
+    font-size: clamp(42px, 6vw, 68px);
+    font-weight: 500;
+    line-height: 1.05;
+    letter-spacing: -0.04em;
+  }
+
+  .checkout-success__lead {
+    max-width: 560px;
+    margin: 24px auto 0;
+    color: #555555;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+
+
+  /* -----------------------------------------------------
+     Order Reference
+     ----------------------------------------------------- */
+
+  .checkout-success__reference {
+    display: none;
+    margin: 40px auto 0;
+    padding: 22px 0;
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+  }
+
+  .checkout-success__reference-label {
+    display: block;
+    margin-bottom: 8px;
+    color: #666666;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .checkout-success__reference-value {
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    word-break: break-word;
+  }
+
+
+  /* -----------------------------------------------------
+     Next Steps
+     ----------------------------------------------------- */
+
+  .checkout-success__next {
+    margin-top: 64px;
+    text-align: left;
+  }
+
+  .checkout-success__next-heading {
+    margin: 0 0 28px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .checkout-success__steps {
+    border-top: 1px solid #dddddd;
+  }
+
+  .checkout-success__step {
+    display: grid;
+    grid-template-columns: 52px 1fr;
+    gap: 20px;
+    padding: 26px 0;
+    border-bottom: 1px solid #dddddd;
+  }
+
+  .checkout-success__step-number {
+    color: #777777;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+  }
+
+  .checkout-success__step-content strong {
+    display: block;
+    margin-bottom: 6px;
+    color: #111111;
+    font-size: 17px;
+    font-weight: 600;
+  }
+
+  .checkout-success__step-content p {
+    margin: 0;
+    color: #666666;
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+
+  /* -----------------------------------------------------
+     Email Note
+     ----------------------------------------------------- */
+
+  .checkout-success__email-note {
+    max-width: 560px;
+    margin: 36px auto 0;
+    color: #666666;
+    font-size: 14px;
+    line-height: 1.7;
+    text-align: center;
+  }
+
+
+  /* -----------------------------------------------------
+     Actions
+     ----------------------------------------------------- */
+
+  .checkout-success__actions {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 42px;
+  }
+
+  .checkout-success__button {
+    box-sizing: border-box;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+  }
+
+  .checkout-success__button--primary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 250px;
+    min-height: 58px;
+    padding: 16px 28px;
+    background: #111111;
+    border: 1px solid #111111;
+    color: #ffffff !important;
+    transition:
+      background 0.2s ease,
+      color 0.2s ease;
+  }
+
+  .checkout-success__button--primary:hover {
+    background: #ffffff;
+    color: #111111 !important;
+    text-decoration: none;
+  }
+
+  .checkout-success__button--secondary {
+    display: inline-block;
+    padding: 4px 0;
+    border-bottom: 1px solid #111111;
+    color: #111111 !important;
+  }
+
+  .checkout-success__button--secondary:hover {
+    opacity: 0.6;
+    text-decoration: none;
+  }
+
+
+  /* -----------------------------------------------------
+     Responsive
+     ----------------------------------------------------- */
+
+  @media (max-width: 600px) {
+    .checkout-success {
+      padding: 64px 20px 80px;
+    }
+
+    .checkout-success__title {
+      font-size: 42px;
+    }
+
+    .checkout-success__lead {
+      font-size: 16px;
+    }
+
+    .checkout-success__next {
+      margin-top: 48px;
+    }
+
+    .checkout-success__step {
+      grid-template-columns: 40px 1fr;
+      gap: 14px;
+    }
+
+    .checkout-success__button--primary {
+      width: 100%;
+      min-width: 0;
+    }
+  }
+</style>
+
+
+<section class="checkout-success">
+
+  <div class="checkout-success__inner">
+
+    <div
+      class="checkout-success__icon"
+      aria-hidden="true"
+    >
+      ✓
+    </div>
+
+    <p class="checkout-success__eyebrow">
+      Order Confirmed
+    </p>
+
+    <h1 class="checkout-success__title">
+      Thank you for your order.
+    </h1>
+
+    <p class="checkout-success__lead">
+      Your order has been confirmed and we've
+      received your payment.
+    </p>
+
+
+    <div
+      id="order-reference"
+      class="checkout-success__reference"
+    >
+
+      <span class="checkout-success__reference-label">
+        Order Reference
+      </span>
+
+      <div
+        id="order-reference-value"
+        class="checkout-success__reference-value"
+      ></div>
+
+    </div>
+
+
+    <div class="checkout-success__next">
+
+      <h2 class="checkout-success__next-heading">
+        What Happens Next
+      </h2>
+
+      <div class="checkout-success__steps">
+
+        <div class="checkout-success__step">
+
+          <div class="checkout-success__step-number">
+            01
+          </div>
+
+          <div class="checkout-success__step-content">
+
+            <strong>
+              Order confirmation
+            </strong>
+
+            <p>
+              We'll send you an email confirming
+              your order details and payment.
+            </p>
+
+          </div>
+
+        </div>
+
+
+        <div class="checkout-success__step">
+
+          <div class="checkout-success__step-number">
+            02
+          </div>
+
+          <div class="checkout-success__step-content">
+
+            <strong>
+              Order preparation
+            </strong>
+
+            <p>
+              Your order will move into fulfillment
+              and preparation for shipment.
+            </p>
+
+          </div>
+
+        </div>
+
+
+        <div class="checkout-success__step">
+
+          <div class="checkout-success__step-number">
+            03
+          </div>
+
+          <div class="checkout-success__step-content">
+
+            <strong>
+              Shipping update
+            </strong>
+
+            <p>
+              Once your order ships, we'll send
+              another email with tracking information.
+            </p>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <p class="checkout-success__email-note">
+      Keep an eye on your inbox for your confirmation.
+      If you don't see it right away, check your spam
+      or promotions folder.
+    </p>
+
+
+    <div class="checkout-success__actions">
+
+      <a
+        id="view-order-status"
+        class="
+          checkout-success__button
+          checkout-success__button--primary
+        "
+        href="#"
+        hidden
+      >
+        View Order Status
+      </a>
+
+      <a
+        class="
+          checkout-success__button
+          checkout-success__button--secondary
+        "
+        href="{{ '/shop/' | relative_url }}"
+      >
+        Continue Shopping
+      </a>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<script>
+(function () {
+  "use strict";
+
+
+  /*
+   * A successful payment is the only point
+   * where the customer's local cart is cleared.
+   */
+
+  localStorage.removeItem(
+    "jekyllCommerceCart"
+  );
+
+
+  const params =
+    new URLSearchParams(
+      window.location.search
+    );
+
+
+  const orderReference =
+    params.get("order");
+
+
+  const token =
+    params.get("token");
+
+
+  /*
+   * Display the customer-facing order reference
+   * when one was supplied by the payment return.
+   */
+
+  if (orderReference) {
+
+    const wrapper =
+      document.getElementById(
+        "order-reference"
+      );
+
+
+    const value =
+      document.getElementById(
+        "order-reference-value"
+      );
+
+
+    value.textContent =
+      orderReference;
+
+
+    wrapper.style.display =
+      "block";
+  }
+
+
+  /*
+   * The status token is a capability credential.
+   *
+   * Do not display it on the page. It is used
+   * only to construct the customer's private
+   * order-status URL.
+   */
+
+  if (token) {
+
+    const statusButton =
+      document.getElementById(
+        "view-order-status"
+      );
+
+
+    const statusUrl =
+      new URL(
+        "{{ '/order-status/' | relative_url }}",
+        window.location.origin
+      );
+
+
+    statusUrl.searchParams.set(
+      "token",
+      token
+    );
+
+
+    statusButton.href =
+      statusUrl.toString();
+
+
+    statusButton.hidden =
+      false;
+  }
+
+})();
+</script>

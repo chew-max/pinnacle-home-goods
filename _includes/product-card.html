@@ -1,0 +1,63 @@
+<article class="product-card">
+
+  <a
+    href="{{ product.url | relative_url }}"
+    class="product-card__image-link"
+  >
+
+    <div class="product-card__image-wrap">
+
+      {% if product.badge %}
+        <span class="product-card__badge">
+          {{ product.badge }}
+        </span>
+      {% endif %}
+
+      {% if product.images and product.images.size > 0 %}
+        <img
+          src="{{ product.images[0] | relative_url }}"
+          alt="{{ product.title }}"
+          class="product-card__image"
+          loading="lazy"
+        >
+      {% endif %}
+
+    </div>
+
+  </a>
+
+  <div class="product-card__info">
+
+    <a href="{{ product.url | relative_url }}">
+      <h3 class="product-card__title">
+        {{ product.title }}
+      </h3>
+    </a>
+
+    <div class="product-card__price">
+
+      {% if product.compare_at_price %}
+        <span class="product-card__price-current">
+          {{ site.data.store.store.currency_symbol }}
+          {{ product.price }}
+        </span>
+
+        <span class="product-card__price-compare">
+          {{ site.data.store.store.currency_symbol }}
+          {{ product.compare_at_price }}
+        </span>
+
+      {% else %}
+
+        <span class="product-card__price-current">
+          {{ site.data.store.store.currency_symbol }}
+          {{ product.price }}
+        </span>
+
+      {% endif %}
+
+    </div>
+
+  </div>
+
+</article>

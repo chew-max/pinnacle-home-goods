@@ -1,0 +1,256 @@
+---
+layout: default
+title: Collections
+---
+
+<section class="collection-page">
+
+  <div class="page-width">
+
+    <header
+      id="collection-header"
+      class="collection-page__header"
+      hidden
+    >
+
+      <p class="collection-page__eyebrow">
+        Collection
+      </p>
+
+      <h1 id="collection-title"></h1>
+
+      <p
+        id="collection-description"
+        class="collection-page__description"
+      ></p>
+
+    </header>
+
+
+    <div
+      id="collection-grid"
+      class="product-grid"
+    >
+
+      {% for product in site.products %}
+
+        <div
+          class="collection-product"
+          data-collections="{{ product.collections | join: ',' }}"
+        >
+
+          {% include product-card.html product=product %}
+
+        </div>
+
+      {% endfor %}
+
+    </div>
+
+
+    <div
+      id="collection-empty"
+      class="collection-page__empty"
+      hidden
+    >
+
+      <h1>Collection not found.</h1>
+
+      <p>
+        The collection you're looking for isn't available.
+      </p>
+
+      <a
+        href="{{ '/shop/' | relative_url }}"
+        class="button"
+      >
+        Shop All Products
+      </a>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<script
+  id="store-collections-data"
+  type="application/json"
+>
+  {{ site.data.store.collections | jsonify }}
+</script>
+
+
+<script>
+(function () {
+  "use strict";
+
+
+  const params =
+    new URLSearchParams(
+      window.location.search
+    );
+
+
+  const requestedHandle =
+    String(
+      params.get("collection") || ""
+    )
+      .trim()
+      .toLowerCase();
+
+
+  const collectionsElement =
+    document.getElementById(
+      "store-collections-data"
+    );
+
+
+  const collections =
+    JSON.parse(
+      collectionsElement.textContent || "[]"
+    );
+
+
+  const collection =
+    collections.find(function (item) {
+
+      return String(item.handle || "")
+        .trim()
+        .toLowerCase() === requestedHandle;
+
+    });
+
+
+  const header =
+    document.getElementById(
+      "collection-header"
+    );
+
+
+  const title =
+    document.getElementById(
+      "collection-title"
+    );
+
+
+  const description =
+    document.getElementById(
+      "collection-description"
+    );
+
+
+  const grid =
+    document.getElementById(
+      "collection-grid"
+    );
+
+
+  const empty =
+    document.getElementById(
+      "collection-empty"
+    );
+
+
+  if (!collection) {
+
+    grid.hidden =
+      true;
+
+
+    empty.hidden =
+      false;
+
+
+    return;
+
+  }
+
+
+  title.textContent =
+    collection.title || collection.handle;
+
+
+  if (collection.description) {
+
+    description.textContent =
+      collection.description;
+
+  } else {
+
+    description.hidden =
+      true;
+
+  }
+
+
+  header.hidden =
+    false;
+
+
+  const products =
+    grid.querySelectorAll(
+      ".collection-product"
+    );
+
+
+  let visibleProducts =
+    0;
+
+
+  products.forEach(function (product) {
+
+    const productCollections =
+      String(
+        product.dataset.collections || ""
+      )
+        .split(",")
+        .map(function (value) {
+
+          return value.trim().toLowerCase();
+
+        })
+        .filter(Boolean);
+
+
+    const visible =
+      productCollections.includes(
+        requestedHandle
+      );
+
+
+    product.hidden =
+      !visible;
+
+
+    if (visible) {
+
+      visibleProducts += 1;
+
+    }
+
+  });
+
+
+  if (visibleProducts === 0) {
+
+    grid.hidden =
+      true;
+
+
+    empty.querySelector("h1").textContent =
+      collection.title;
+
+
+    empty.querySelector("p").textContent =
+      "There are no products in this collection yet.";
+
+
+    empty.hidden =
+      false;
+
+  }
+
+})();
+</script>

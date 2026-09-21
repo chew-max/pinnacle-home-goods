@@ -1,0 +1,495 @@
+{
+  "WWT-001": {
+    "product_id": "WWT-001",
+    "name": "Weekend Warrior Tee",
+    "price": 24.99,
+    "price_cents": 2499,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "Black",
+        "Navy",
+        "Heather Gray"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+      ]
+    },
+    "variant_index": {
+      "Black||S": {
+        "sku": "WWT-BLK-S",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Black",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Black||M": {
+        "sku": "WWT-BLK-M",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Black",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Black||L": {
+        "sku": "WWT-BLK-L",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Black",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Black||XL": {
+        "sku": "WWT-BLK-XL",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Black",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Black||2XL": {
+        "sku": "WWT-BLK-2XL",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Black",
+          "size": "2XL"
+        },
+        "available": true
+      },
+      "Black||3XL": {
+        "sku": "WWT-BLK-3XL",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Black",
+          "size": "3XL"
+        },
+        "available": true
+      },
+      "Navy||S": {
+        "sku": "WWT-NVY-S",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Navy",
+          "size": "S"
+        },
+        "available": false
+      },
+      "Navy||M": {
+        "sku": "WWT-NVY-M",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Navy",
+          "size": "M"
+        },
+        "available": false
+      },
+      "Navy||L": {
+        "sku": "WWT-NVY-L",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Navy",
+          "size": "L"
+        },
+        "available": false
+      },
+      "Navy||XL": {
+        "sku": "WWT-NVY-XL",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Navy",
+          "size": "XL"
+        },
+        "available": false
+      },
+      "Navy||2XL": {
+        "sku": "WWT-NVY-2XL",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Navy",
+          "size": "2XL"
+        },
+        "available": false
+      },
+      "Navy||3XL": {
+        "sku": "WWT-NVY-3XL",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Navy",
+          "size": "3XL"
+        },
+        "available": false
+      },
+      "Heather Gray||S": {
+        "sku": "WWT-HGR-S",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Heather Gray",
+          "size": "S"
+        },
+        "available": false
+      },
+      "Heather Gray||M": {
+        "sku": "WWT-HGR-M",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Heather Gray",
+          "size": "M"
+        },
+        "available": false
+      },
+      "Heather Gray||L": {
+        "sku": "WWT-HGR-L",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Heather Gray",
+          "size": "L"
+        },
+        "available": false
+      },
+      "Heather Gray||XL": {
+        "sku": "WWT-HGR-XL",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Heather Gray",
+          "size": "XL"
+        },
+        "available": false
+      },
+      "Heather Gray||2XL": {
+        "sku": "WWT-HGR-2XL",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Heather Gray",
+          "size": "2XL"
+        },
+        "available": false
+      },
+      "Heather Gray||3XL": {
+        "sku": "WWT-HGR-3XL",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Heather Gray",
+          "size": "3XL"
+        },
+        "available": false
+      }
+    },
+    "variants": [
+      {
+        "sku": "WWT-BLK-S",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Black",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWT-BLK-M",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Black",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWT-BLK-L",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Black",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWT-BLK-XL",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Black",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWT-BLK-2XL",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Black",
+          "size": "2XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWT-BLK-3XL",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Black",
+          "size": "3XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWT-NVY-S",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Navy",
+          "size": "S"
+        },
+        "available": false
+      },
+      {
+        "sku": "WWT-NVY-M",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Navy",
+          "size": "M"
+        },
+        "available": false
+      },
+      {
+        "sku": "WWT-NVY-L",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Navy",
+          "size": "L"
+        },
+        "available": false
+      },
+      {
+        "sku": "WWT-NVY-XL",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Navy",
+          "size": "XL"
+        },
+        "available": false
+      },
+      {
+        "sku": "WWT-NVY-2XL",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Navy",
+          "size": "2XL"
+        },
+        "available": false
+      },
+      {
+        "sku": "WWT-NVY-3XL",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Navy",
+          "size": "3XL"
+        },
+        "available": false
+      },
+      {
+        "sku": "WWT-HGR-S",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Heather Gray",
+          "size": "S"
+        },
+        "available": false
+      },
+      {
+        "sku": "WWT-HGR-M",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Heather Gray",
+          "size": "M"
+        },
+        "available": false
+      },
+      {
+        "sku": "WWT-HGR-L",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Heather Gray",
+          "size": "L"
+        },
+        "available": false
+      },
+      {
+        "sku": "WWT-HGR-XL",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Heather Gray",
+          "size": "XL"
+        },
+        "available": false
+      },
+      {
+        "sku": "WWT-HGR-2XL",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Heather Gray",
+          "size": "2XL"
+        },
+        "available": false
+      },
+      {
+        "sku": "WWT-HGR-3XL",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Heather Gray",
+          "size": "3XL"
+        },
+        "available": false
+      }
+    ]
+  },
+  "TMB-001": {
+    "product_id": "TMB-001",
+    "name": "Test Tumbler",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "color",
+      "capacity"
+    ],
+    "option_values": {
+      "color": [
+        "Black",
+        "White"
+      ],
+      "capacity": [
+        "20 oz",
+        "30 oz"
+      ]
+    },
+    "variant_index": {
+      "Black||20 oz": {
+        "sku": "TMB-BLK-20OZ",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "capacity": "20 oz"
+        },
+        "available": false
+      },
+      "Black||30 oz": {
+        "sku": "TMB-BLK-30OZ",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Black",
+          "capacity": "30 oz"
+        },
+        "available": false
+      },
+      "White||20 oz": {
+        "sku": "TMB-WHT-20OZ",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "capacity": "20 oz"
+        },
+        "available": false
+      },
+      "White||30 oz": {
+        "sku": "TMB-WHT-30OZ",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "White",
+          "capacity": "30 oz"
+        },
+        "available": false
+      }
+    },
+    "variants": [
+      {
+        "sku": "TMB-BLK-20OZ",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "capacity": "20 oz"
+        },
+        "available": false
+      },
+      {
+        "sku": "TMB-BLK-30OZ",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Black",
+          "capacity": "30 oz"
+        },
+        "available": false
+      },
+      {
+        "sku": "TMB-WHT-20OZ",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "capacity": "20 oz"
+        },
+        "available": false
+      },
+      {
+        "sku": "TMB-WHT-30OZ",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "White",
+          "capacity": "30 oz"
+        },
+        "available": false
+      }
+    ]
+  }
+}

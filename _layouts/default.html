@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1"
+  >
+
+  {% seo %}
+
+  <link
+    rel="stylesheet"
+    href="{{ '/assets/css/store.css' | relative_url }}"
+  >
+
+</head>
+
+<body>
+
+  {% include announcement.html %}
+
+  {% include header.html %}
+
+  <main id="main-content">
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+  
+<script>
+  window.JekyllCommerceConfig = {
+    checkoutEndpoint:
+      "{{ site.data.store.commerce.checkout_endpoint }}",
+
+    provider:
+      "{{ site.data.store.commerce.provider }}",
+
+    maxQuantity:
+      {{ site.data.store.commerce.max_quantity }}
+  };
+</script>
+
+<script
+  src="{{ '/assets/js/checkout.js' | relative_url }}"
+></script>
+
+<script
+  src="{{ '/assets/js/store.js' | relative_url }}"
+></script>
+
+
+{% include cart-drawer.html %}
+
+</body>
+
+</html>

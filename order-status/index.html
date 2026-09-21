@@ -1,0 +1,1402 @@
+---
+layout: default
+title: Order Status
+permalink: /order-status/
+---
+
+<meta name="referrer" content="no-referrer">
+
+
+<style>
+  .order-status-page {
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 48px 20px 72px;
+  }
+
+  .order-status-header {
+    text-align: center;
+    margin-bottom: 32px;
+  }
+
+  .order-status-header h1 {
+    margin-bottom: 10px;
+  }
+
+  .order-status-header p {
+    margin: 0;
+    color: #64748b;
+  }
+
+  .order-status-card {
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 14px;
+    padding: 28px;
+    margin-bottom: 24px;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05);
+  }
+
+  .order-status-loading,
+  .order-status-error {
+    text-align: center;
+    padding: 32px 20px;
+  }
+
+  .order-status-error h2 {
+    margin-top: 0;
+  }
+
+  .order-status-error-actions {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-top: 22px;
+  }
+
+  .order-status-reference {
+    font-family: monospace;
+    overflow-wrap: anywhere;
+  }
+
+  .order-status-summary {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+
+  .order-status-summary h2 {
+    margin-top: 0;
+    margin-bottom: 6px;
+  }
+
+  .order-status-badge {
+    display: inline-block;
+    padding: 7px 12px;
+    border-radius: 999px;
+    background: #eef2f7;
+    font-size: 0.9rem;
+    font-weight: 700;
+  }
+
+  .order-progress {
+    margin-top: 30px;
+  }
+
+  .order-progress-track {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+  }
+
+  .order-progress-step {
+    position: relative;
+    text-align: center;
+  }
+
+  .order-progress-dot {
+    width: 34px;
+    height: 34px;
+    margin: 0 auto 8px;
+    border-radius: 50%;
+    background: #e5e7eb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+  }
+
+  .order-progress-step.active .order-progress-dot {
+    background: #111827;
+    color: #ffffff;
+  }
+
+  .order-progress-label {
+    font-size: 0.84rem;
+    color: #64748b;
+  }
+
+  .order-progress-step.active .order-progress-label {
+    color: #111827;
+    font-weight: 700;
+  }
+
+  .order-status-section-title {
+    margin-top: 0;
+    margin-bottom: 18px;
+  }
+
+  .order-item {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 18px 0;
+    border-bottom: 1px solid #e5e7eb;
+  }
+
+  .order-item:first-of-type {
+    padding-top: 0;
+  }
+
+  .order-item:last-child {
+    border-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  .order-item-name {
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+
+  .order-item-options,
+  .order-item-quantity {
+    color: #64748b;
+    font-size: 0.92rem;
+  }
+
+  .order-item-price {
+    white-space: nowrap;
+    font-weight: 700;
+  }
+
+  .order-items-empty {
+    color: #64748b;
+    margin: 0;
+  }
+
+  .order-totals-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-bottom: 10px;
+  }
+
+  .order-totals-row.total {
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 1px solid #e5e7eb;
+    font-size: 1.1rem;
+    font-weight: 800;
+  }
+
+  .tracking-card {
+    display: none;
+  }
+
+  .tracking-details {
+    margin-bottom: 18px;
+  }
+
+  .tracking-details p {
+    margin: 6px 0;
+  }
+
+  .order-status-button {
+    display: inline-block;
+    padding: 12px 20px;
+    border-radius: 8px;
+    background: #111827;
+    color: #ffffff !important;
+    text-decoration: none;
+    font-weight: 700;
+    border: 0;
+    cursor: pointer;
+    font: inherit;
+  }
+
+  .order-status-button:hover {
+    opacity: 0.9;
+    text-decoration: none;
+  }
+
+  .order-status-button.secondary {
+    background: #ffffff;
+    color: #111827 !important;
+    border: 1px solid #d1d5db;
+  }
+
+  .order-status-button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+
+  .order-status-footer-actions {
+    text-align: center;
+    margin-top: 28px;
+  }
+
+  .order-status-date {
+    margin-top: 16px;
+    color: #64748b;
+    font-size: 0.9rem;
+  }
+
+  @media (max-width: 600px) {
+    .order-status-page {
+      padding-top: 32px;
+    }
+
+    .order-status-card {
+      padding: 22px;
+    }
+
+    .order-progress-label {
+      font-size: 0.72rem;
+    }
+
+    .order-progress-dot {
+      width: 30px;
+      height: 30px;
+    }
+
+    .order-status-error-actions {
+      flex-direction: column;
+    }
+
+    .order-status-error-actions .order-status-button {
+      width: 100%;
+      box-sizing: border-box;
+    }
+  }
+</style>
+
+<main class="order-status-page">
+  <header class="order-status-header">
+    <h1>Order Status</h1>
+
+    <p>
+      Follow your order from payment through delivery.
+    </p>
+  </header>
+
+  <div
+    id="order-status-loading"
+    class="order-status-card order-status-loading"
+  >
+    <strong id="order-status-loading-message">
+      Loading your order...
+    </strong>
+  </div>
+
+  <div
+    id="order-status-error"
+    class="order-status-card order-status-error"
+    hidden
+  >
+    <h2 id="order-status-error-title">
+      We couldn't load this order.
+    </h2>
+
+    <p id="order-status-error-message">
+      Please check your order link and try again.
+    </p>
+
+    <div class="order-status-error-actions">
+      <button
+        id="order-status-retry"
+        type="button"
+        class="order-status-button"
+        hidden
+      >
+        Try Again
+      </button>
+
+      <a
+        href="{{ '/shop/' | relative_url }}"
+        class="order-status-button secondary"
+      >
+        Return to Shop
+      </a>
+    </div>
+  </div>
+
+  <div
+    id="order-status-content"
+    hidden
+  >
+    <section class="order-status-card">
+      <div class="order-status-summary">
+        <div>
+          <h2 id="customer-status-title">
+            Order received
+          </h2>
+
+          <div>
+            Order
+            <span
+              id="order-reference"
+              class="order-status-reference"
+            ></span>
+          </div>
+        </div>
+
+        <span
+          id="customer-status-badge"
+          class="order-status-badge"
+        >
+          Processing
+        </span>
+      </div>
+
+      <div class="order-progress">
+        <div class="order-progress-track">
+          <div
+            class="order-progress-step"
+            data-progress-step="1"
+          >
+            <div class="order-progress-dot">1</div>
+
+            <div class="order-progress-label">
+              Payment
+            </div>
+          </div>
+
+          <div
+            class="order-progress-step"
+            data-progress-step="2"
+          >
+            <div class="order-progress-dot">2</div>
+
+            <div class="order-progress-label">
+              Preparing
+            </div>
+          </div>
+
+          <div
+            class="order-progress-step"
+            data-progress-step="3"
+          >
+            <div class="order-progress-dot">3</div>
+
+            <div class="order-progress-label">
+              Shipped
+            </div>
+          </div>
+
+          <div
+            class="order-progress-step"
+            data-progress-step="4"
+          >
+            <div class="order-progress-dot">4</div>
+
+            <div class="order-progress-label">
+              Delivered
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div
+        id="order-created-date"
+        class="order-status-date"
+      ></div>
+    </section>
+
+    <section class="order-status-card">
+      <h2 class="order-status-section-title">
+        Items
+      </h2>
+
+      <div id="order-items"></div>
+    </section>
+
+    <section class="order-status-card">
+      <h2 class="order-status-section-title">
+        Order Summary
+      </h2>
+
+      <div class="order-totals-row">
+        <span>Merchandise</span>
+        <span id="total-merchandise"></span>
+      </div>
+
+      <div class="order-totals-row">
+        <span>Shipping</span>
+        <span id="total-shipping"></span>
+      </div>
+
+      <div class="order-totals-row">
+        <span>Tax</span>
+        <span id="total-tax"></span>
+      </div>
+
+      <div class="order-totals-row total">
+        <span>Total</span>
+        <span id="total-order"></span>
+      </div>
+    </section>
+
+    <section
+      id="tracking-card"
+      class="order-status-card tracking-card"
+    >
+      <h2 class="order-status-section-title">
+        Tracking
+      </h2>
+
+      <div class="tracking-details">
+        <p id="tracking-carrier-row" hidden>
+          <strong>Carrier:</strong>
+          <span id="tracking-carrier"></span>
+        </p>
+
+        <p id="tracking-number-row" hidden>
+          <strong>Tracking number:</strong>
+          <span id="tracking-number"></span>
+        </p>
+      </div>
+
+      <a
+        id="tracking-link"
+        class="order-status-button"
+        href="#"
+        target="_blank"
+        rel="noopener noreferrer"
+        hidden
+      >
+        Track Package
+      </a>
+    </section>
+
+    <div class="order-status-footer-actions">
+      <a
+        href="{{ '/shop/' | relative_url }}"
+        class="order-status-button"
+      >
+        Continue Shopping
+      </a>
+    </div>
+  </div>
+</main>
+
+<script>
+(function () {
+  "use strict";
+
+const ORDER_STATUS_ENDPOINT =
+  {{ site.data.store.commerce.order_status_endpoint | jsonify }};
+  
+const STORE_CURRENCY =
+  {{ site.data.store.store.currency | jsonify }};
+
+  const params =
+    new URLSearchParams(
+      window.location.search
+    );
+
+  const token =
+    params.get("token");
+
+  const loading =
+    document.getElementById(
+      "order-status-loading"
+    );
+
+  const loadingMessage =
+    document.getElementById(
+      "order-status-loading-message"
+    );
+
+  const errorBox =
+    document.getElementById(
+      "order-status-error"
+    );
+
+  const errorTitle =
+    document.getElementById(
+      "order-status-error-title"
+    );
+
+  const errorMessage =
+    document.getElementById(
+      "order-status-error-message"
+    );
+
+  const retryButton =
+    document.getElementById(
+      "order-status-retry"
+    );
+
+  const content =
+    document.getElementById(
+      "order-status-content"
+    );
+
+  let requestInProgress =
+    false;
+
+  function formatMoney(
+    cents,
+    currency
+  ) {
+    const numericCents =
+      Number(cents);
+
+    const amount =
+      Number.isFinite(
+        numericCents
+      )
+        ? numericCents / 100
+        : 0;
+
+    try {
+      return new Intl.NumberFormat(
+        "en-US",
+        {
+          style: "currency",
+          currency:
+            currency || STORE_CURRENCY
+        }
+      ).format(amount);
+    } catch (error) {
+      return "$" +
+        amount.toFixed(2);
+    }
+  }
+
+  function formatOptionName(name) {
+    return String(name)
+      .replace(/[_-]+/g, " ")
+      .replace(
+        /\b\w/g,
+        function (character) {
+          return character
+            .toUpperCase();
+        }
+      );
+  }
+
+  function formatDate(value) {
+    if (!value) {
+      return "";
+    }
+
+    const stringValue =
+      String(value);
+
+    /*
+     * D1 timestamps may be returned in
+     * UTC without an explicit timezone.
+     */
+    const normalized =
+      stringValue.includes("T")
+        ? stringValue
+        : stringValue.replace(
+            " ",
+            "T"
+          ) + "Z";
+
+    const date =
+      new Date(normalized);
+
+    if (
+      Number.isNaN(
+        date.getTime()
+      )
+    ) {
+      return "";
+    }
+
+    return new Intl.DateTimeFormat(
+      "en-US",
+      {
+        year: "numeric",
+        month: "long",
+        day: "numeric"
+      }
+    ).format(date);
+  }
+
+  function getCustomerStatus(
+    paymentStatus,
+    fulfillmentStatus
+  ) {
+    if (
+      paymentStatus !== "PAID"
+    ) {
+      return {
+        title:
+          "Payment pending",
+        badge:
+          "Payment Pending",
+        step: 1
+      };
+    }
+
+    switch (
+      fulfillmentStatus
+    ) {
+      case "SHIPPED":
+        return {
+          title:
+            "Your order has shipped",
+          badge:
+            "Shipped",
+          step: 3
+        };
+
+      case "DELIVERED":
+        return {
+          title:
+            "Your order was delivered",
+          badge:
+            "Delivered",
+          step: 4
+        };
+
+      case "FAILED":
+        return {
+          title:
+            "We're reviewing your order",
+          badge:
+            "Needs Attention",
+          step: 2
+        };
+
+      case "CANCELED":
+        return {
+          title:
+            "Order canceled",
+          badge:
+            "Canceled",
+          step: 1
+        };
+
+      case "SUBMITTED":
+      case "ON_HOLD":
+      case "IN_PRODUCTION":
+      case "SUBMITTING":
+      case "READY":
+      case "PENDING":
+      default:
+        return {
+          title:
+            "We're preparing your order",
+          badge:
+            "Preparing",
+          step: 2
+        };
+    }
+  }
+
+  function renderProgress(step) {
+    document
+      .querySelectorAll(
+        "[data-progress-step]"
+      )
+      .forEach(function (element) {
+        const elementStep =
+          Number(
+            element.getAttribute(
+              "data-progress-step"
+            )
+          );
+
+        element.classList.toggle(
+          "active",
+          elementStep <= step
+        );
+      });
+  }
+
+  function renderItems(
+    items,
+    currency
+  ) {
+    const container =
+      document.getElementById(
+        "order-items"
+      );
+
+    container.textContent = "";
+
+    if (
+      !Array.isArray(items) ||
+      items.length === 0
+    ) {
+      const emptyMessage =
+        document.createElement(
+          "p"
+        );
+
+      emptyMessage.className =
+        "order-items-empty";
+
+      emptyMessage.textContent =
+        "Item details are not available for this order.";
+
+      container.appendChild(
+        emptyMessage
+      );
+
+      return;
+    }
+
+    items.forEach(
+      function (item) {
+        const row =
+          document.createElement(
+            "div"
+          );
+
+        row.className =
+          "order-item";
+
+        const details =
+          document.createElement(
+            "div"
+          );
+
+        const name =
+          document.createElement(
+            "div"
+          );
+
+        name.className =
+          "order-item-name";
+
+        name.textContent =
+          item?.name ||
+          "Product";
+
+        details.appendChild(
+          name
+        );
+
+        const itemOptions =
+          item &&
+          typeof item.options ===
+            "object" &&
+          item.options !== null
+            ? item.options
+            : {};
+
+        const options =
+          Object.entries(
+            itemOptions
+          );
+
+        if (options.length) {
+          const optionsElement =
+            document.createElement(
+              "div"
+            );
+
+          optionsElement.className =
+            "order-item-options";
+
+          optionsElement.textContent =
+            options
+              .map(
+                function (entry) {
+                  return (
+                    formatOptionName(
+                      entry[0]
+                    ) +
+                    ": " +
+                    String(
+                      entry[1]
+                    )
+                  );
+                }
+              )
+              .join(" / ");
+
+          details.appendChild(
+            optionsElement
+          );
+        }
+
+        const quantityValue =
+          Math.max(
+            0,
+            Number(
+              item?.quantity || 0
+            )
+          );
+
+        const quantity =
+          document.createElement(
+            "div"
+          );
+
+        quantity.className =
+          "order-item-quantity";
+
+        quantity.textContent =
+          "Qty: " +
+          quantityValue;
+
+        details.appendChild(
+          quantity
+        );
+
+        const price =
+          document.createElement(
+            "div"
+          );
+
+        price.className =
+          "order-item-price";
+
+        price.textContent =
+          formatMoney(
+            Number(
+              item?.unitPrice || 0
+            ) *
+              quantityValue,
+            currency
+          );
+
+        row.appendChild(
+          details
+        );
+
+        row.appendChild(
+          price
+        );
+
+        container.appendChild(
+          row
+        );
+      }
+    );
+  }
+
+  function resetTracking() {
+    const card =
+      document.getElementById(
+        "tracking-card"
+      );
+
+    const carrierRow =
+      document.getElementById(
+        "tracking-carrier-row"
+      );
+
+    const numberRow =
+      document.getElementById(
+        "tracking-number-row"
+      );
+
+    const link =
+      document.getElementById(
+        "tracking-link"
+      );
+
+    card.style.display =
+      "none";
+
+    carrierRow.hidden =
+      true;
+
+    numberRow.hidden =
+      true;
+
+    link.hidden =
+      true;
+
+    link.removeAttribute(
+      "href"
+    );
+
+    document.getElementById(
+      "tracking-carrier"
+    ).textContent = "";
+
+    document.getElementById(
+      "tracking-number"
+    ).textContent = "";
+  }
+
+  function renderTracking(
+    tracking
+  ) {
+    resetTracking();
+
+    if (
+      !tracking ||
+      typeof tracking !==
+        "object"
+    ) {
+      return;
+    }
+
+    const hasTracking =
+      tracking.carrier ||
+      tracking.number ||
+      tracking.url;
+
+    if (!hasTracking) {
+      return;
+    }
+
+    const card =
+      document.getElementById(
+        "tracking-card"
+      );
+
+    card.style.display =
+      "block";
+
+    if (tracking.carrier) {
+      document.getElementById(
+        "tracking-carrier"
+      ).textContent =
+        String(
+          tracking.carrier
+        );
+
+      document.getElementById(
+        "tracking-carrier-row"
+      ).hidden =
+        false;
+    }
+
+    if (tracking.number) {
+      document.getElementById(
+        "tracking-number"
+      ).textContent =
+        String(
+          tracking.number
+        );
+
+      document.getElementById(
+        "tracking-number-row"
+      ).hidden =
+        false;
+    }
+
+    if (tracking.url) {
+      const link =
+        document.getElementById(
+          "tracking-link"
+        );
+
+      try {
+        const url =
+          new URL(
+            tracking.url
+          );
+
+        if (
+          url.protocol === "https:" ||
+          url.protocol === "http:"
+        ) {
+          link.href =
+            url.href;
+
+          link.hidden =
+            false;
+        }
+      } catch (error) {
+        console.warn(
+          "INVALID TRACKING URL",
+          error
+        );
+      }
+    }
+  }
+
+  function renderOrder(order) {
+    if (
+      !order ||
+      typeof order !==
+        "object"
+    ) {
+      throw new Error(
+        "Order response was invalid."
+      );
+    }
+
+    document.getElementById(
+      "order-reference"
+    ).textContent =
+      order.orderReference ||
+      "";
+
+    const customerStatus =
+      getCustomerStatus(
+        order.paymentStatus,
+        order.fulfillmentStatus
+      );
+
+    document.getElementById(
+      "customer-status-title"
+    ).textContent =
+      customerStatus.title;
+
+    document.getElementById(
+      "customer-status-badge"
+    ).textContent =
+      customerStatus.badge;
+
+    renderProgress(
+      customerStatus.step
+    );
+
+    const createdDate =
+      formatDate(
+        order.dates?.created
+      );
+
+    const dateElement =
+      document.getElementById(
+        "order-created-date"
+      );
+
+    dateElement.textContent =
+      createdDate
+        ? "Order placed " +
+          createdDate
+        : "";
+
+    const totals =
+      order.totals &&
+      typeof order.totals ===
+        "object"
+        ? order.totals
+        : {};
+
+    const currency =
+	  totals.currency ||
+	  STORE_CURRENCY;
+
+    renderItems(
+      order.items,
+      currency
+    );
+
+    document.getElementById(
+      "total-merchandise"
+    ).textContent =
+      formatMoney(
+        totals.merchandise,
+        currency
+      );
+
+    document.getElementById(
+      "total-shipping"
+    ).textContent =
+      formatMoney(
+        totals.shipping,
+        currency
+      );
+
+    document.getElementById(
+      "total-tax"
+    ).textContent =
+      formatMoney(
+        totals.tax,
+        currency
+      );
+
+    document.getElementById(
+      "total-order"
+    ).textContent =
+      formatMoney(
+        totals.total,
+        currency
+      );
+
+    renderTracking(
+      order.tracking
+    );
+
+    loading.hidden =
+      true;
+
+    errorBox.hidden =
+      true;
+
+    content.hidden =
+      false;
+  }
+
+  function showLoading(message) {
+    content.hidden =
+      true;
+
+    errorBox.hidden =
+      true;
+
+    loadingMessage.textContent =
+      message ||
+      "Loading your order...";
+
+    loading.hidden =
+      false;
+  }
+
+  function showError(options) {
+    const config =
+      options || {};
+
+    loading.hidden =
+      true;
+
+    content.hidden =
+      true;
+
+    errorTitle.textContent =
+      config.title ||
+      "We couldn't load this order.";
+
+    errorMessage.textContent =
+      config.message ||
+      "Please check your order link and try again.";
+
+    retryButton.hidden =
+      !config.retryable;
+
+    retryButton.disabled =
+      false;
+
+    errorBox.hidden =
+      false;
+  }
+
+  function createStatusError(
+    type,
+    status,
+    message
+  ) {
+    const error =
+      new Error(
+        message ||
+        "Order status could not be loaded."
+      );
+
+    error.type =
+      type;
+
+    error.status =
+      status || 0;
+
+    return error;
+  }
+
+  function loadOrderStatus() {
+    if (requestInProgress) {
+      return;
+    }
+
+    if (!token) {
+      showError({
+        title:
+          "This order link is incomplete.",
+        message:
+          "Use the order-status link from your confirmation email to view your order.",
+        retryable:
+          false
+      });
+
+      return;
+    }
+
+    requestInProgress =
+      true;
+
+    retryButton.disabled =
+      true;
+
+    showLoading(
+      "Loading your order..."
+    );
+
+	fetch(
+	  ORDER_STATUS_ENDPOINT +
+		"?token=" +
+		encodeURIComponent(
+		  token
+		),
+      {
+        method:
+          "GET",
+
+        headers: {
+          "Accept":
+            "application/json"
+        },
+
+        cache:
+          "no-store",
+
+        referrerPolicy:
+          "no-referrer"
+      }
+    )
+      .then(
+        function (response) {
+          return response
+            .json()
+            .catch(
+              function () {
+                return {};
+              }
+            )
+            .then(
+              function (data) {
+                if (response.ok) {
+                  return data;
+                }
+
+                if (
+                  response.status === 401 ||
+                  response.status === 403 ||
+                  response.status === 404
+                ) {
+                  throw createStatusError(
+                    "invalid-link",
+                    response.status,
+                    data.message
+                  );
+                }
+
+                if (
+                  response.status === 429
+                ) {
+                  throw createStatusError(
+                    "temporary",
+                    response.status,
+                    data.message
+                  );
+                }
+
+                if (
+                  response.status >= 500
+                ) {
+                  throw createStatusError(
+                    "temporary",
+                    response.status,
+                    data.message
+                  );
+                }
+
+                throw createStatusError(
+                  "request",
+                  response.status,
+                  data.message
+                );
+              }
+            );
+        }
+      )
+      .then(
+        function (order) {
+          renderOrder(
+            order
+          );
+        }
+      )
+      .catch(
+        function (error) {
+          console.error(
+            "ORDER STATUS PAGE ERROR",
+            {
+              type:
+                error?.type ||
+                "network",
+              status:
+                error?.status ||
+                0,
+              message:
+                error?.message ||
+                String(error)
+            }
+          );
+
+          if (
+            error?.type ===
+              "invalid-link"
+          ) {
+            showError({
+              title:
+                "This order link isn't valid.",
+              message:
+                "The order-status link may be incomplete or no longer available. Please use the link from your order confirmation email.",
+              retryable:
+                false
+            });
+
+            return;
+          }
+
+          if (
+            error?.type ===
+              "temporary"
+          ) {
+            showError({
+              title:
+                "Order status is temporarily unavailable.",
+              message:
+                "We're having trouble loading your order right now. Your order has not been affected. Please try again in a moment.",
+              retryable:
+                true
+            });
+
+            return;
+          }
+
+          if (
+            !navigator.onLine
+          ) {
+            showError({
+              title:
+                "You're offline.",
+              message:
+                "Reconnect to the internet and try loading your order again.",
+              retryable:
+                true
+            });
+
+            return;
+          }
+
+          showError({
+            title:
+              "We couldn't load your order.",
+            message:
+              "Something interrupted the request. Please try again.",
+            retryable:
+              true
+          });
+        }
+      )
+      .finally(
+        function () {
+          requestInProgress =
+            false;
+
+          retryButton.disabled =
+            false;
+        }
+      );
+  }
+
+  retryButton.addEventListener(
+    "click",
+    function () {
+      loadOrderStatus();
+    }
+  );
+
+  window.addEventListener(
+    "online",
+    function () {
+      if (
+        !errorBox.hidden &&
+        !retryButton.hidden
+      ) {
+        retryButton.disabled =
+          false;
+      }
+    }
+  );
+
+  loadOrderStatus();
+})();
+</script>

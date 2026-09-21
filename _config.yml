@@ -1,0 +1,39 @@
+# =========================================================
+# STORE SEO
+# Update these values when cloning the storefront.
+# =========================================================
+
+title: "Jekyll Commerce"
+description: "A modern storefront built with Jekyll"
+
+url: "https://chew-max.github.io"
+baseurl: "/jekyll-commerce-starter"
+
+logo: "/assets/images/logo.svg"
+
+markdown: kramdown
+permalink: pretty
+
+collections:
+  products:
+    output: true
+    permalink: /products/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: products
+    values:
+      layout: product
+      seo:
+        type: Product
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
