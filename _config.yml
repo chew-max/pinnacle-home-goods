@@ -9,7 +9,7 @@ description: "Practical home goods, apparel, and everyday essentials with person
 url: "https://chew-max.github.io"
 baseurl: "/pinnacle-home-goods"
 
-logo: "/assets/images/logo.svg"
+logo: "/assets/images/logo.png"
 
 markdown: kramdown
 permalink: pretty
