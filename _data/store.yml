@@ -1,13 +1,13 @@
 brand:
   name: "Pinnacle Home Goods"
   tagline: "Home goods with personality."
-  logo: "/assets/images/logo.svg"
+  logo: "/assets/images/logo.png"
 
 theme:
-  primary: "#111111"
-  secondary: "#666666"
-  accent: "#111111"
-  background: "#ffffff"
+  primary: "#111D27"
+  secondary: "#5F6870"
+  accent: "#B88732"
+  background: "#FFFFFF"
 
 store:
   currency: "USD"
