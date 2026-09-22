@@ -27,8 +27,8 @@ social:
 
 commerce:
   provider: "global-payments"
-  checkout_endpoint: "https://jekyll-commerce-api-sandbox.mth-commerce.workers.dev/api/checkout"
-  order_status_endpoint: "https://jekyll-commerce-api-sandbox.mth-commerce.workers.dev/api/order-status"
+  checkout_endpoint: "https://pinnacle-home-goods-api.mth-commerce.workers.dev/api/checkout"
+  order_status_endpoint: "https://pinnacle-home-goods-api.mth-commerce.workers.dev/api/order-status"
   max_quantity: 10
 
 policies:
