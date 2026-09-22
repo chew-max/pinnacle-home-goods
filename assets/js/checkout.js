@@ -3,6 +3,10 @@ window.JekyllCommerceCheckout = {
     window.JekyllCommerceConfig
       ?.checkoutEndpoint || "",
 
+  orderStatusEndpoint:
+    window.JekyllCommerceConfig
+      ?.orderStatusEndpoint || "",
+
 
   getFieldValue:
     function (id) {
@@ -396,6 +400,134 @@ getCheckoutErrorMessage(response, data) {
   );
 },
 
+waitForPayment:
+  async function (
+    statusToken,
+    paymentWindow
+  ) {
+    const maxAttempts =
+      90;
+
+    const delay =
+      2000;
+
+    for (
+      let attempt = 0;
+      attempt < maxAttempts;
+      attempt += 1
+    ) {
+      try {
+        const response =
+          await fetch(
+            this.orderStatusEndpoint +
+              "?token=" +
+              encodeURIComponent(
+                statusToken
+              ),
+            {
+              method: "GET",
+              headers: {
+                "Accept":
+                  "application/json"
+              },
+              cache: "no-store"
+            }
+          );
+
+        if (response.ok) {
+          const order =
+            await response.json();
+
+          if (
+            order.paymentStatus ===
+              "PAID"
+          ) {
+            try {
+              if (
+                paymentWindow &&
+                !paymentWindow.closed
+              ) {
+                paymentWindow.close();
+              }
+            } catch (error) {
+              /*
+               * Payment window cleanup
+               * is best effort only.
+               */
+            }
+
+            sessionStorage.removeItem(
+              "pinnaclePendingOrder"
+            );
+
+			window.location.href =
+			  window.JekyllCommerceConfig
+				.successUrl +
+			  "?order=" +
+			  encodeURIComponent(
+				order.orderReference
+			  ) +
+			  "&token=" +
+			  encodeURIComponent(
+				statusToken
+			  );
+
+            return;
+          }
+
+
+		if (
+		  order.paymentStatus ===
+			"FAILED"
+		) {
+		  try {
+			if (
+			  paymentWindow &&
+			  !paymentWindow.closed
+			) {
+			  paymentWindow.close();
+			}
+		  } catch (error) {
+			/*
+			 * Payment window cleanup
+			 * is best effort only.
+			 */
+		  }
+
+		  sessionStorage.removeItem(
+			"pinnaclePendingOrder"
+		  );
+
+		  window.location.href =
+			window.JekyllCommerceConfig
+			  .failedUrl +
+			"?reason=declined";
+
+		  return;
+		}
+        }
+      } catch (error) {
+        /*
+         * A transient network failure
+         * should not terminate payment
+         * status monitoring.
+         */
+      }
+
+      await new Promise(
+        function (resolve) {
+          setTimeout(
+            resolve,
+            delay
+          );
+        }
+      );
+    }
+
+    this.showError(
+      "Payment is still being confirmed. Your order has been saved and can be checked from the order status page."
+    );
+  },
 
   start:
     async function (cart) {
@@ -425,7 +557,13 @@ getCheckoutErrorMessage(response, data) {
 
         return;
       }
+		if (!this.orderStatusEndpoint) {
+		  this.showError(
+			"Order status service has not been configured yet."
+		  );
 
+		  return;
+		}
 
       const customer =
         this.validateCustomer();
@@ -434,7 +572,35 @@ getCheckoutErrorMessage(response, data) {
       if (!customer) {
         return;
       }
+	const paymentWindow =
+	  window.open(
+		"",
+		"pinnacle-payment"
+	  );
 
+
+	if (!paymentWindow) {
+	  this.showError(
+		"Your browser blocked the secure payment window. Please allow pop-ups for this site and try again."
+	  );
+
+	  return;
+	}
+
+
+	paymentWindow.document.write(
+	  "<!doctype html>" +
+	  "<html>" +
+	  "<head>" +
+	  "<title>Secure Checkout</title>" +
+	  "</head>" +
+	  "<body>" +
+	  "<p>Preparing secure checkout...</p>" +
+	  "</body>" +
+	  "</html>"
+	);
+
+	paymentWindow.document.close();
 
       const button =
         document.getElementById(
@@ -528,17 +694,42 @@ getCheckoutErrorMessage(response, data) {
         }
 
 
-        if (
-          data &&
-          typeof data.checkoutUrl ===
-            "string" &&
-          data.checkoutUrl.trim()
-        ) {
-          window.location.href =
-            data.checkoutUrl;
+		if (
+		  data &&
+		  typeof data.checkoutUrl ===
+			"string" &&
+		  data.checkoutUrl.trim() &&
+		  typeof data.orderReference ===
+			"string" &&
+		  data.orderReference.trim() &&
+		  typeof data.statusToken ===
+			"string" &&
+		  data.statusToken.trim()
+		) {
+		  sessionStorage.setItem(
+			"pinnaclePendingOrder",
+			JSON.stringify({
+			  orderReference:
+				data.orderReference,
 
-          return;
-        }
+			  statusToken:
+				data.statusToken,
+
+			  createdAt:
+				Date.now()
+			})
+		  );
+
+		paymentWindow.location.href =
+		  data.checkoutUrl;
+
+		this.waitForPayment(
+		  data.statusToken,
+		  paymentWindow
+		);
+
+		return;
+		}
 
 
         throw new Error(
@@ -547,6 +738,19 @@ getCheckoutErrorMessage(response, data) {
 
 
       } catch (error) {
+		try {
+		  if (
+			paymentWindow &&
+			!paymentWindow.closed
+		  ) {
+			paymentWindow.close();
+		  }
+		} catch (closeError) {
+		  /*
+		   * Payment window cleanup
+		   * is best effort only.
+		   */
+		}
         console.error(
           "Checkout error:",
           error

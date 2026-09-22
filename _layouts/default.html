@@ -34,11 +34,20 @@
   </main>
 
   {% include footer.html %}
-  
+
 <script>
   window.JekyllCommerceConfig = {
     checkoutEndpoint:
       "{{ site.data.store.commerce.checkout_endpoint }}",
+
+    orderStatusEndpoint:
+      "{{ site.data.store.commerce.order_status_endpoint }}",
+
+    successUrl:
+      "{{ '/checkout/success/' | relative_url }}",
+
+	failedUrl:
+	  "{{ '/checkout/failed/' | relative_url }}",
 
     provider:
       "{{ site.data.store.commerce.provider }}",
