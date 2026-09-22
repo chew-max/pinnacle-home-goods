@@ -1,3 +1,4 @@
+{% assign commerce_product = site.data.commerce-catalog[product.product_id] %}
 <article class="product-card">
 
   <a
@@ -39,7 +40,7 @@
       {% if product.compare_at_price %}
         <span class="product-card__price-current">
           {{ site.data.store.store.currency_symbol }}
-          {{ product.price }}
+          {{ commerce_product.price }}
         </span>
 
         <span class="product-card__price-compare">
@@ -51,7 +52,7 @@
 
         <span class="product-card__price-current">
           {{ site.data.store.store.currency_symbol }}
-          {{ product.price }}
+          {{ commerce_product.price }}
         </span>
 
       {% endif %}

@@ -11,7 +11,7 @@ featured: true
 badge: "Honey Do Collection"
 
 collections:
-  - honey-do-collections
+  - honey-do
   - shirts
   - best-sellers
 
