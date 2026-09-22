@@ -349,7 +349,7 @@ p {
 
 .hero .page-width {
   max-width: 900px;
-  margin-left: max(20px, calc((100vw - 1400px) / 2));
+  margin-left: max(48px, calc((100vw - 1400px) / 2));
 }
 
 .hero__eyebrow {
@@ -374,7 +374,12 @@ p {
   font-size: 1.15rem;
   color: #555555;
 }
-
+@media (max-width: 768px) {
+  .hero .page-width {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
 
 /* ---------------------------------------------------------
    Generic Page Content
