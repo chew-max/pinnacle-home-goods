@@ -1,235 +1,818 @@
 {
-  "WWT-001": {
-    "product_id": "WWT-001",
-    "name": "Weekend Warrior Tee",
-    "price": 24.99,
-    "price_cents": 2499,
+  "HDH-001": {
+    "product_id": "HDH-001",
+    "name": "Honey-Do Hero Graphic tee | Professional Amateur T-Shirt",
+    "price": 29.99,
+    "price_cents": 2999,
     "option_names": [
       "color",
       "size"
     ],
     "option_values": {
       "color": [
-        "Black",
         "Navy",
-        "Heather Gray"
+        "Pepper",
+        "Espresso",
+        "Ivory",
+        "White",
+        "Black",
+        "Island Reef",
+        "Brick",
+        "Graphite",
+        "Mustard",
+        "Melon",
+        "Hemp",
+        "Bright Salmon",
+        "Sage",
+        "Khaki",
+        "Blue Spruce",
+        "True Navy",
+        "Paprika"
       ],
       "size": [
         "S",
         "M",
         "L",
-        "XL",
-        "2XL",
-        "3XL"
+        "XL"
       ]
     },
     "variant_index": {
-      "Black||S": {
-        "sku": "WWT-BLK-S",
-        "price": 24.99,
-        "price_cents": 2499,
+      "Navy||S": {
+        "sku": "HDH-NAVY-S",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Black",
+          "color": "Navy",
           "size": "S"
         },
         "available": true
       },
-      "Black||M": {
-        "sku": "WWT-BLK-M",
-        "price": 24.99,
-        "price_cents": 2499,
+      "Pepper||L": {
+        "sku": "HDH-PEPPER-L",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Black",
+          "color": "Pepper",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Espresso||M": {
+        "sku": "HDH-ESPRESSO-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Espresso",
           "size": "M"
+        },
+        "available": true
+      },
+      "Ivory||XL": {
+        "sku": "HDH-IVORY-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "White||S": {
+        "sku": "HDH-WHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "S"
         },
         "available": true
       },
       "Black||L": {
-        "sku": "WWT-BLK-L",
-        "price": 24.99,
-        "price_cents": 2499,
+        "sku": "HDH-BLACK-L",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
           "color": "Black",
           "size": "L"
+        },
+        "available": true
+      },
+      "Ivory||L": {
+        "sku": "HDH-IVORY-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Pepper||XL": {
+        "sku": "HDH-PEPPER-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Navy||XL": {
+        "sku": "HDH-NAVY-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Navy",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Island Reef||S": {
+        "sku": "HDH-ISLAND-REEF-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Island Reef",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Brick||L": {
+        "sku": "HDH-BRICK-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Brick",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Graphite||M": {
+        "sku": "HDH-GRAPHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Pepper||S": {
+        "sku": "HDH-PEPPER-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Mustard||L": {
+        "sku": "HDH-MUSTARD-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Mustard",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Ivory||S": {
+        "sku": "HDH-IVORY-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Graphite||XL": {
+        "sku": "HDH-GRAPHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Pepper||M": {
+        "sku": "HDH-PEPPER-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Melon||M": {
+        "sku": "HDH-MELON-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Melon",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Hemp||M": {
+        "sku": "HDH-HEMP-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Melon||L": {
+        "sku": "HDH-MELON-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Melon",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Melon||XL": {
+        "sku": "HDH-MELON-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Melon",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Island Reef||XL": {
+        "sku": "HDH-ISLAND-REEF-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Island Reef",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Mustard||M": {
+        "sku": "HDH-MUSTARD-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Mustard",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Espresso||S": {
+        "sku": "HDH-ESPRESSO-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Espresso",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Graphite||S": {
+        "sku": "HDH-GRAPHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "S"
         },
         "available": true
       },
       "Black||XL": {
-        "sku": "WWT-BLK-XL",
-        "price": 24.99,
-        "price_cents": 2499,
+        "sku": "HDH-BLACK-XL",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
           "color": "Black",
           "size": "XL"
         },
         "available": true
       },
-      "Black||2XL": {
-        "sku": "WWT-BLK-2XL",
-        "price": 24.99,
-        "price_cents": 2499,
+      "Island Reef||L": {
+        "sku": "HDH-ISLAND-REEF-L",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Black",
-          "size": "2XL"
+          "color": "Island Reef",
+          "size": "L"
         },
         "available": true
       },
-      "Black||3XL": {
-        "sku": "WWT-BLK-3XL",
-        "price": 24.99,
-        "price_cents": 2499,
+      "Black||M": {
+        "sku": "HDH-BLACK-M",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
           "color": "Black",
-          "size": "3XL"
+          "size": "M"
         },
         "available": true
       },
-      "Navy||S": {
-        "sku": "WWT-NVY-S",
-        "price": 24.99,
-        "price_cents": 2499,
+      "Graphite||L": {
+        "sku": "HDH-GRAPHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Navy",
+          "color": "Graphite",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Black||S": {
+        "sku": "HDH-BLACK-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
           "size": "S"
         },
-        "available": false
+        "available": true
+      },
+      "White||M": {
+        "sku": "HDH-WHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Ivory||M": {
+        "sku": "HDH-IVORY-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Island Reef||M": {
+        "sku": "HDH-ISLAND-REEF-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Island Reef",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Espresso||L": {
+        "sku": "HDH-ESPRESSO-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Espresso",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Bright Salmon||S": {
+        "sku": "HDH-BRIGHT-SALMON-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Bright Salmon",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Hemp||S": {
+        "sku": "HDH-HEMP-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Sage||M": {
+        "sku": "HDH-SAGE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Bright Salmon||M": {
+        "sku": "HDH-BRIGHT-SALMON-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Bright Salmon",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Espresso||XL": {
+        "sku": "HDH-ESPRESSO-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Espresso",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Khaki||L": {
+        "sku": "HDH-KHAKI-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Khaki",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Blue Spruce||L": {
+        "sku": "HDH-BLUE-SPRUCE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Bright Salmon||XL": {
+        "sku": "HDH-BRIGHT-SALMON-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Bright Salmon",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Blue Spruce||XL": {
+        "sku": "HDH-BLUE-SPRUCE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Melon||S": {
+        "sku": "HDH-MELON-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Melon",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Blue Spruce||S": {
+        "sku": "HDH-BLUE-SPRUCE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Mustard||S": {
+        "sku": "HDH-MUSTARD-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Mustard",
+          "size": "S"
+        },
+        "available": true
+      },
+      "White||XL": {
+        "sku": "HDH-WHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "True Navy||L": {
+        "sku": "HDH-TRUE-NAVY-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "True Navy",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Khaki||M": {
+        "sku": "HDH-KHAKI-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Khaki",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Brick||S": {
+        "sku": "HDH-BRICK-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Brick",
+          "size": "S"
+        },
+        "available": true
       },
       "Navy||M": {
-        "sku": "WWT-NVY-M",
-        "price": 24.99,
-        "price_cents": 2499,
+        "sku": "HDH-NAVY-M",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
           "color": "Navy",
           "size": "M"
         },
-        "available": false
+        "available": true
+      },
+      "Brick||XL": {
+        "sku": "HDH-BRICK-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Brick",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "White||L": {
+        "sku": "HDH-WHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "L"
+        },
+        "available": true
+      },
+      "True Navy||S": {
+        "sku": "HDH-TRUE-NAVY-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "True Navy",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Brick||M": {
+        "sku": "HDH-BRICK-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Brick",
+          "size": "M"
+        },
+        "available": true
       },
       "Navy||L": {
-        "sku": "WWT-NVY-L",
-        "price": 24.99,
-        "price_cents": 2499,
+        "sku": "HDH-NAVY-L",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
           "color": "Navy",
           "size": "L"
         },
-        "available": false
+        "available": true
       },
-      "Navy||XL": {
-        "sku": "WWT-NVY-XL",
-        "price": 24.99,
-        "price_cents": 2499,
+      "Bright Salmon||L": {
+        "sku": "HDH-BRIGHT-SALMON-L",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Navy",
-          "size": "XL"
+          "color": "Bright Salmon",
+          "size": "L"
         },
-        "available": false
+        "available": true
       },
-      "Navy||2XL": {
-        "sku": "WWT-NVY-2XL",
-        "price": 24.99,
-        "price_cents": 2499,
+      "Blue Spruce||M": {
+        "sku": "HDH-BLUE-SPRUCE-M",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Navy",
-          "size": "2XL"
-        },
-        "available": false
-      },
-      "Navy||3XL": {
-        "sku": "WWT-NVY-3XL",
-        "price": 24.99,
-        "price_cents": 2499,
-        "options": {
-          "color": "Navy",
-          "size": "3XL"
-        },
-        "available": false
-      },
-      "Heather Gray||S": {
-        "sku": "WWT-HGR-S",
-        "price": 24.99,
-        "price_cents": 2499,
-        "options": {
-          "color": "Heather Gray",
-          "size": "S"
-        },
-        "available": false
-      },
-      "Heather Gray||M": {
-        "sku": "WWT-HGR-M",
-        "price": 24.99,
-        "price_cents": 2499,
-        "options": {
-          "color": "Heather Gray",
+          "color": "Blue Spruce",
           "size": "M"
         },
-        "available": false
+        "available": true
       },
-      "Heather Gray||L": {
-        "sku": "WWT-HGR-L",
-        "price": 24.99,
-        "price_cents": 2499,
+      "Hemp||XL": {
+        "sku": "HDH-HEMP-XL",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Heather Gray",
-          "size": "L"
-        },
-        "available": false
-      },
-      "Heather Gray||XL": {
-        "sku": "WWT-HGR-XL",
-        "price": 24.99,
-        "price_cents": 2499,
-        "options": {
-          "color": "Heather Gray",
+          "color": "Hemp",
           "size": "XL"
         },
-        "available": false
+        "available": true
       },
-      "Heather Gray||2XL": {
-        "sku": "WWT-HGR-2XL",
-        "price": 24.99,
-        "price_cents": 2499,
+      "True Navy||M": {
+        "sku": "HDH-TRUE-NAVY-M",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Heather Gray",
-          "size": "2XL"
+          "color": "True Navy",
+          "size": "M"
         },
-        "available": false
+        "available": true
       },
-      "Heather Gray||3XL": {
-        "sku": "WWT-HGR-3XL",
-        "price": 24.99,
-        "price_cents": 2499,
+      "Sage||S": {
+        "sku": "HDH-SAGE-S",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Heather Gray",
-          "size": "3XL"
+          "color": "Sage",
+          "size": "S"
         },
-        "available": false
+        "available": true
+      },
+      "Hemp||L": {
+        "sku": "HDH-HEMP-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Sage||XL": {
+        "sku": "HDH-SAGE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Sage||L": {
+        "sku": "HDH-SAGE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Khaki||XL": {
+        "sku": "HDH-KHAKI-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Khaki",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Mustard||XL": {
+        "sku": "HDH-MUSTARD-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Mustard",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "True Navy||XL": {
+        "sku": "HDH-TRUE-NAVY-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "True Navy",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Khaki||S": {
+        "sku": "HDH-KHAKI-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Khaki",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Paprika||M": {
+        "sku": "HDH-PAPRIKA-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Paprika||XL": {
+        "sku": "HDH-PAPRIKA-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Paprika||L": {
+        "sku": "HDH-PAPRIKA-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Paprika||S": {
+        "sku": "HDH-PAPRIKA-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "S"
+        },
+        "available": true
       }
     },
     "variants": [
       {
-        "sku": "WWT-BLK-S",
-        "price": 24.99,
-        "price_cents": 2499,
+        "sku": "HDH-NAVY-S",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Black",
+          "color": "Navy",
           "size": "S"
         },
         "available": true
       },
       {
-        "sku": "WWT-BLK-M",
-        "price": 24.99,
-        "price_cents": 2499,
+        "sku": "HDH-PEPPER-L",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Black",
+          "color": "Pepper",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-ESPRESSO-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Espresso",
           "size": "M"
         },
         "available": true
       },
       {
-        "sku": "WWT-BLK-L",
-        "price": 24.99,
-        "price_cents": 2499,
+        "sku": "HDH-IVORY-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-WHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-BLACK-L",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
           "color": "Black",
           "size": "L"
@@ -237,9 +820,199 @@
         "available": true
       },
       {
-        "sku": "WWT-BLK-XL",
-        "price": 24.99,
-        "price_cents": 2499,
+        "sku": "HDH-IVORY-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-PEPPER-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-NAVY-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Navy",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-ISLAND-REEF-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Island Reef",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-BRICK-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Brick",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-GRAPHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-PEPPER-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-MUSTARD-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Mustard",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-IVORY-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-GRAPHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-PEPPER-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-MELON-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Melon",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-HEMP-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-MELON-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Melon",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-MELON-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Melon",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-ISLAND-REEF-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Island Reef",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-MUSTARD-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Mustard",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-ESPRESSO-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Espresso",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-GRAPHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-BLACK-XL",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
           "color": "Black",
           "size": "XL"
@@ -247,248 +1020,464 @@
         "available": true
       },
       {
-        "sku": "WWT-BLK-2XL",
-        "price": 24.99,
-        "price_cents": 2499,
+        "sku": "HDH-ISLAND-REEF-L",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Black",
-          "size": "2XL"
+          "color": "Island Reef",
+          "size": "L"
         },
         "available": true
       },
       {
-        "sku": "WWT-BLK-3XL",
-        "price": 24.99,
-        "price_cents": 2499,
+        "sku": "HDH-BLACK-M",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
           "color": "Black",
-          "size": "3XL"
+          "size": "M"
         },
         "available": true
       },
       {
-        "sku": "WWT-NVY-S",
-        "price": 24.99,
-        "price_cents": 2499,
+        "sku": "HDH-GRAPHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Navy",
+          "color": "Graphite",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-BLACK-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
           "size": "S"
         },
-        "available": false
+        "available": true
       },
       {
-        "sku": "WWT-NVY-M",
-        "price": 24.99,
-        "price_cents": 2499,
+        "sku": "HDH-WHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-IVORY-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-ISLAND-REEF-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Island Reef",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-ESPRESSO-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Espresso",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-BRIGHT-SALMON-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Bright Salmon",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-HEMP-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-SAGE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-BRIGHT-SALMON-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Bright Salmon",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-ESPRESSO-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Espresso",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-KHAKI-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Khaki",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-BLUE-SPRUCE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-BRIGHT-SALMON-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Bright Salmon",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-BLUE-SPRUCE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-MELON-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Melon",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-BLUE-SPRUCE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-MUSTARD-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Mustard",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-WHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-TRUE-NAVY-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "True Navy",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-KHAKI-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Khaki",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-BRICK-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Brick",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-NAVY-M",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
           "color": "Navy",
           "size": "M"
         },
-        "available": false
+        "available": true
       },
       {
-        "sku": "WWT-NVY-L",
-        "price": 24.99,
-        "price_cents": 2499,
+        "sku": "HDH-BRICK-XL",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Navy",
-          "size": "L"
-        },
-        "available": false
-      },
-      {
-        "sku": "WWT-NVY-XL",
-        "price": 24.99,
-        "price_cents": 2499,
-        "options": {
-          "color": "Navy",
+          "color": "Brick",
           "size": "XL"
         },
-        "available": false
+        "available": true
       },
       {
-        "sku": "WWT-NVY-2XL",
-        "price": 24.99,
-        "price_cents": 2499,
+        "sku": "HDH-WHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Navy",
-          "size": "2XL"
+          "color": "White",
+          "size": "L"
         },
-        "available": false
+        "available": true
       },
       {
-        "sku": "WWT-NVY-3XL",
-        "price": 24.99,
-        "price_cents": 2499,
+        "sku": "HDH-TRUE-NAVY-S",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Navy",
-          "size": "3XL"
-        },
-        "available": false
-      },
-      {
-        "sku": "WWT-HGR-S",
-        "price": 24.99,
-        "price_cents": 2499,
-        "options": {
-          "color": "Heather Gray",
+          "color": "True Navy",
           "size": "S"
         },
-        "available": false
+        "available": true
       },
       {
-        "sku": "WWT-HGR-M",
-        "price": 24.99,
-        "price_cents": 2499,
+        "sku": "HDH-BRICK-M",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Heather Gray",
+          "color": "Brick",
           "size": "M"
         },
-        "available": false
+        "available": true
       },
       {
-        "sku": "WWT-HGR-L",
-        "price": 24.99,
-        "price_cents": 2499,
+        "sku": "HDH-NAVY-L",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Heather Gray",
+          "color": "Navy",
           "size": "L"
         },
-        "available": false
+        "available": true
       },
       {
-        "sku": "WWT-HGR-XL",
-        "price": 24.99,
-        "price_cents": 2499,
+        "sku": "HDH-BRIGHT-SALMON-L",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "Heather Gray",
+          "color": "Bright Salmon",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-BLUE-SPRUCE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-HEMP-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
           "size": "XL"
         },
-        "available": false
+        "available": true
       },
       {
-        "sku": "WWT-HGR-2XL",
-        "price": 24.99,
-        "price_cents": 2499,
-        "options": {
-          "color": "Heather Gray",
-          "size": "2XL"
-        },
-        "available": false
-      },
-      {
-        "sku": "WWT-HGR-3XL",
-        "price": 24.99,
-        "price_cents": 2499,
-        "options": {
-          "color": "Heather Gray",
-          "size": "3XL"
-        },
-        "available": false
-      }
-    ]
-  },
-  "TMB-001": {
-    "product_id": "TMB-001",
-    "name": "Test Tumbler",
-    "price": 29.99,
-    "price_cents": 2999,
-    "option_names": [
-      "color",
-      "capacity"
-    ],
-    "option_values": {
-      "color": [
-        "Black",
-        "White"
-      ],
-      "capacity": [
-        "20 oz",
-        "30 oz"
-      ]
-    },
-    "variant_index": {
-      "Black||20 oz": {
-        "sku": "TMB-BLK-20OZ",
+        "sku": "HDH-TRUE-NAVY-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
-          "color": "Black",
-          "capacity": "20 oz"
+          "color": "True Navy",
+          "size": "M"
         },
-        "available": false
+        "available": true
       },
-      "Black||30 oz": {
-        "sku": "TMB-BLK-30OZ",
-        "price": 34.99,
-        "price_cents": 3499,
-        "options": {
-          "color": "Black",
-          "capacity": "30 oz"
-        },
-        "available": false
-      },
-      "White||20 oz": {
-        "sku": "TMB-WHT-20OZ",
+      {
+        "sku": "HDH-SAGE-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
-          "color": "White",
-          "capacity": "20 oz"
+          "color": "Sage",
+          "size": "S"
         },
-        "available": false
+        "available": true
       },
-      "White||30 oz": {
-        "sku": "TMB-WHT-30OZ",
-        "price": 34.99,
-        "price_cents": 3499,
-        "options": {
-          "color": "White",
-          "capacity": "30 oz"
-        },
-        "available": false
-      }
-    },
-    "variants": [
       {
-        "sku": "TMB-BLK-20OZ",
+        "sku": "HDH-HEMP-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
-          "color": "Black",
-          "capacity": "20 oz"
+          "color": "Hemp",
+          "size": "L"
         },
-        "available": false
+        "available": true
       },
       {
-        "sku": "TMB-BLK-30OZ",
-        "price": 34.99,
-        "price_cents": 3499,
-        "options": {
-          "color": "Black",
-          "capacity": "30 oz"
-        },
-        "available": false
-      },
-      {
-        "sku": "TMB-WHT-20OZ",
+        "sku": "HDH-SAGE-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
-          "color": "White",
-          "capacity": "20 oz"
+          "color": "Sage",
+          "size": "XL"
         },
-        "available": false
+        "available": true
       },
       {
-        "sku": "TMB-WHT-30OZ",
-        "price": 34.99,
-        "price_cents": 3499,
+        "sku": "HDH-SAGE-L",
+        "price": 29.99,
+        "price_cents": 2999,
         "options": {
-          "color": "White",
-          "capacity": "30 oz"
+          "color": "Sage",
+          "size": "L"
         },
-        "available": false
+        "available": true
+      },
+      {
+        "sku": "HDH-KHAKI-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Khaki",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-MUSTARD-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Mustard",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-TRUE-NAVY-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "True Navy",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-KHAKI-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Khaki",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-PAPRIKA-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-PAPRIKA-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-PAPRIKA-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-PAPRIKA-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "S"
+        },
+        "available": true
       }
     ]
   }
