@@ -62,6 +62,7 @@ select {
 .page-width {
   width: min(100% - 40px, 1400px);
   margin-inline: auto;
+  margin-left: max(48px, calc((100vw - 1400px) / 2));
 }
 
 main {
@@ -349,7 +350,6 @@ p {
 
 .hero .page-width {
   max-width: 900px;
-  margin-left: max(48px, calc((100vw - 1400px) / 2));
 }
 
 .hero__eyebrow {
@@ -375,7 +375,7 @@ p {
   color: #555555;
 }
 @media (max-width: 768px) {
-  .hero .page-width {
+  .page-width {
     margin-left: 20px;
     margin-right: 20px;
   }
