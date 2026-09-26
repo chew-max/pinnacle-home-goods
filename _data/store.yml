@@ -50,7 +50,7 @@ policies:
 
 collections:
   - handle: honey-do
-    title: "Honey Do Collections"
+    title: "Honey-Do Hero Collections"
     description: "For the projects, the punch lists, and the people who somehow became the household expert."
     image: "/assets/images/collections/honey-do.png"
   
@@ -66,7 +66,7 @@ collections:
 
 homepage:
   hero:
-    eyebrow: "INTRODUCING HONEY DO"
+    eyebrow: "INTRODUCING HONEY DO HERO COLLECTION"
     heading: "Same House. Different Mission."
     text: "Everyday gear for the projects, personalities, and laughs that come with getting it done."
     button_label: "Shop Honey Do"
@@ -74,7 +74,7 @@ homepage:
     image: "/assets/images/home/hero.png"
 
   featured:
-    eyebrow: "HONEY DO COLLECTIONS"
+    eyebrow: "HONEY DO HERO COLLECTIONS"
     heading: "Featured Products"
     text: "Gear for getting it done—or at least looking like you know what you're doing."
 
