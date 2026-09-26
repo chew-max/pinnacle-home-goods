@@ -1,49 +1,69 @@
 ---
 layout: policy
 title: Returns & Refunds
-description: Information about returns, exchanges, and refunds.
+description: Information about returns, replacements, and refunds.
 ---
 
-> **Template notice:** Customize this policy before launching your store. Return eligibility should reflect your actual products, fulfillment provider, and business practices.
+## Made-to-Order Products
 
-## Return Window
+Many products sold by Pinnacle Home Goods are made to order specifically for each customer.
 
-Eligible items may be returned within **[NUMBER OF DAYS]** days of delivery.
+Because these products are produced after an order is placed, we generally do not accept returns or exchanges for buyer's remorse, changes of mind, or incorrect size or color selections made by the customer.
 
-## Return Eligibility
+Please review product descriptions, sizing information, colors, and order details carefully before completing your purchase.
 
-To qualify for a return, an item must **[DESCRIBE REQUIRED CONDITION, PACKAGING, PROOF OF PURCHASE, ETC.]**.
+## Damaged, Defective, Misprinted, or Incorrect Items
 
-## Non-Returnable Items
+If an item arrives damaged, defective, misprinted, or different from what you ordered, contact us at **info@mthpinnaclellc.com** within **30 days of delivery**.
 
-The following items may not be eligible for return:
+Please include:
 
-- **[CUSTOM OR MADE-TO-ORDER PRODUCTS]**
-- **[FINAL SALE ITEMS]**
-- **[OTHER EXCLUSIONS]**
+- Your order number
+- A description of the issue
+- Clear photographs showing the item and the problem
+- Photographs of the packaging when relevant
 
-Customize this list to match the products sold by your store.
+We may request additional information when necessary to evaluate the issue with our fulfillment provider.
 
-## Damaged or Incorrect Items
+## Replacements and Refunds
 
-If an item arrives damaged, defective, or different from what was ordered, contact us at **[SUPPORT EMAIL]** within **[NUMBER OF DAYS]** days of delivery.
+After reviewing an eligible issue, Pinnacle Home Goods may provide a replacement or refund, depending on the circumstances.
 
-Include your order information and any details needed to evaluate the issue.
+Approved refunds will be issued to the original payment method.
 
-## Refunds
-
-Approved refunds are issued to the original payment method.
-
-After a refund is issued, additional processing time may be required by the customer's financial institution before the funds appear.
+After a refund is issued, your bank, card issuer, or other financial institution may require additional processing time before the funds appear in your account.
 
 ## Exchanges
 
-**[DESCRIBE WHETHER EXCHANGES ARE OFFERED AND HOW THEY ARE HANDLED.]**
+We do not currently offer traditional product exchanges.
+
+If you received a damaged, defective, misprinted, or incorrect item, contact us within the 30-day reporting period so we can evaluate the issue for an appropriate replacement or refund.
+
+Orders placed with an incorrect size, color, or other product option selected by the customer are generally not eligible for exchange.
 
 ## Return Shipping
 
-**[DESCRIBE WHO IS RESPONSIBLE FOR RETURN SHIPPING COSTS AND HOW RETURN LABELS ARE HANDLED.]**
+Do not mail or return a product without first contacting us.
+
+For an eligible damaged, defective, misprinted, or incorrect item, we will provide instructions regarding whether the product must be returned and, when applicable, how the return should be handled.
+
+Customers should not send products directly to our fulfillment provider unless specifically instructed to do so by Pinnacle Home Goods.
+
+## Order Changes and Cancellations
+
+Because made-to-order products may enter production shortly after an order is placed, order changes and cancellations cannot be guaranteed.
+
+If you need to request a change or cancellation, contact us as soon as possible at **info@mthpinnaclellc.com**.
+
+If production or fulfillment has already begun, we may be unable to modify or cancel the order.
+
+## Consumer Rights
+
+Nothing in this policy is intended to limit any rights or remedies that cannot be waived under applicable law.
 
 ## Contact
 
-Questions about returns or refunds may be sent to **[SUPPORT EMAIL]**.
+Questions about returns, replacements, or refunds may be sent to **info@mthpinnaclellc.com**.
+
+Pinnacle Home Goods
+MTH Pinnacle LLC
