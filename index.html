@@ -57,7 +57,7 @@ title: Home
     </header>
 
     <div class="product-grid">
-      {% assign featured_products = site.products | slice: 0, 4 %}
+      {% assign featured_products = site.products | where: "featured", true | slice: 0, 4 %}
 
       {% for product in featured_products %}
         {% include product-card.html product=product %}
