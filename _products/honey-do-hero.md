@@ -1,7 +1,7 @@
 ---
 layout: product
 
-title: "Honey-Do Hero Graphic Tee"
+title: 'Honey-Do Hero Graphic tee | "Professional Amateur" Design'
 slug: honey-do-hero
 
 product_id: "HDH-001"
@@ -17,7 +17,6 @@ collections:
 
 image: /assets/images/products/honey-do-hero/front.jpg
 
-images:
 images:
   - /assets/images/products/honey-do-hero/front.jpg
   - /assets/images/products/honey-do-hero/back.jpg
