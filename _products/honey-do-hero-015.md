@@ -7,7 +7,7 @@ slug: honey-do-hero-015
 product_id: "HDH-015"
 
 
-featured: true
+featured: false
 badge: "Honey Do Collection"
 
 collections:
