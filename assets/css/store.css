@@ -2625,29 +2625,65 @@ body.cart-open {
 /* Hero
    --------------------------------------------------------- */
 
+/* About page hero */
 .about-hero {
-  padding: 100px 0 110px;
-  background: #f5f5f2;
+  position: relative;
+
+  min-height: 600px;
+
+  display: flex;
+  align-items: center;
+
+  padding: 100px 0;
+
+  background-image:
+    linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0.76) 0%,
+      rgba(0, 0, 0, 0.55) 42%,
+      rgba(0, 0, 0, 0.15) 72%,
+      rgba(0, 0, 0, 0.05) 100%
+    ),
+    url("../images/about/hero.jpg");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  color: #fff;
 }
 
 .about-hero__content {
-  max-width: 1050px;
+  position: relative;
+  z-index: 1;
+
+  max-width: 720px;
 }
 
-.about-eyebrow {
-  margin: 0 0 18px;
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
+.about-hero .about-eyebrow {
+  color: #fff;
 }
 
 .about-hero h1 {
-  max-width: 1000px;
+  max-width: 720px;
   margin: 0;
+
+  color: #fff;
+
   font-size: clamp(3rem, 6vw, 6.5rem);
   line-height: 0.95;
   letter-spacing: -0.045em;
+}
+
+.about-hero__intro {
+  max-width: 650px;
+
+  margin: 32px 0 0;
+
+  color: rgba(255, 255, 255, 0.9);
+
+  font-size: 1.25rem;
+  line-height: 1.6;
 }
 
 .about-hero__intro {
@@ -2696,21 +2732,26 @@ body.cart-open {
   margin-top: 18px;
 }
 
+/* About story image — full bleed */
 .about-story__image {
+  position: relative;
   min-height: 560px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 45px;
+  padding: 0;
+  overflow: hidden;
   background: #f4f4f1;
 }
 
 .about-story__image img {
-  display: block;
+  position: absolute;
+  inset: 0;
+
   width: 100%;
-  max-width: 600px;
-  height: auto;
-  object-fit: contain;
+  height: 100%;
+
+  object-fit: cover;
+  object-position: center;
+
+  display: block;
 }
 
 
@@ -2860,7 +2901,14 @@ body.cart-open {
 @media (max-width: 900px) {
 
   .about-hero {
-    padding: 70px 0 80px;
+    min-height: 500px;
+    padding: 70px 0;
+
+    background-position: center;
+  }
+
+  .about-story__image {
+    min-height: 450px;
   }
 
   .about-story {
@@ -2870,10 +2918,6 @@ body.cart-open {
   .about-story__grid {
     grid-template-columns: 1fr;
     gap: 50px;
-  }
-
-  .about-story__image {
-    min-height: 0;
   }
 
   .about-values {
@@ -2897,6 +2941,19 @@ body.cart-open {
 
 @media (max-width: 600px) {
 
+  .about-hero {
+    min-height: 460px;
+
+    background-image:
+      linear-gradient(
+        rgba(0, 0, 0, 0.62),
+        rgba(0, 0, 0, 0.62)
+      ),
+      url("../images/about/about-hero.jpg");
+
+    background-position: center;
+  }
+
   .about-hero h1 {
     font-size: 3.2rem;
   }
@@ -2906,7 +2963,7 @@ body.cart-open {
   }
 
   .about-story__image {
-    padding: 25px;
+    min-height: 400px;
   }
 
   .about-cta__actions {
