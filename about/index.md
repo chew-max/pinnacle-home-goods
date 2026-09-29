@@ -102,58 +102,17 @@ description: Discover Pinnacle Home Goods — practical, wearable, and giftable 
 
     <div class="about-values__grid">
 
-      <article class="about-value-card">
+     <div class="about-value-card">
 
-        <span class="about-value-card__number">
-          01
-        </span>
+	</div>
 
-        <h3>
-          Practical
-        </h3>
+	<div class="about-value-card">
 
-        <p>
-          Products made to be worn, used, gifted, and enjoyed in
-          everyday life.
-        </p>
+	</div>
 
-      </article>
+	<div class="about-value-card">
 
-
-      <article class="about-value-card">
-
-        <span class="about-value-card__number">
-          02
-        </span>
-
-        <h3>
-          Personal
-        </h3>
-
-        <p>
-          Designs inspired by recognizable personalities, hobbies,
-          projects, and the things people actually do.
-        </p>
-
-      </article>
-
-
-      <article class="about-value-card">
-
-        <span class="about-value-card__number">
-          03
-        </span>
-
-        <h3>
-          Giftable
-        </h3>
-
-        <p>
-          The kind of products that make you see them and immediately
-          think, "Yep. That's them."
-        </p>
-
-      </article>
+	</div>
 
     </div>
 

@@ -2943,7 +2943,30 @@ body.cart-open {
   }
 
 }
+/* =========================================
+   ABOUT HERO — MOBILE
+   ========================================= */
 
+@media (max-width: 768px) {
+
+  .about-hero {
+    min-height: 420px;
+
+    background-image:
+      linear-gradient(
+        90deg,
+        rgba(0, 0, 0, 0.70) 0%,
+        rgba(0, 0, 0, 0.40) 60%,
+        rgba(0, 0, 0, 0.20) 100%
+      ),
+      url("/assets/images/about/hero.jpg");
+
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+
+}
 
 @media (max-width: 600px) {
 
@@ -2978,3 +3001,72 @@ body.cart-open {
   }
 
 }
+
+/* =========================================
+   ABOUT PAGE — VALUE CARD BACKGROUNDS
+   ========================================= */
+
+.about-value-card {
+  position: relative;
+  min-height: 320px;
+  padding: 2rem;
+  overflow: hidden;
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+
+/* BOX 3 — PRACTICAL */
+.about-value-card:nth-child(1) {
+  background-image:
+    linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0.70) 0%,
+      rgba(0, 0, 0, 0.25) 55%,
+      rgba(0, 0, 0, 0.05) 100%
+    ),
+    url("/assets/images/about/promo1.png");
+}
+
+
+/* BOX 4 — PERSONAL */
+.about-value-card:nth-child(2) {
+  background-image:
+    linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0.70) 0%,
+      rgba(0, 0, 0, 0.25) 55%,
+      rgba(0, 0, 0, 0.05) 100%
+    ),
+    url("/assets/images/about/promo2.png");
+}
+
+
+/* BOX 5 — GIFTABLE */
+.about-value-card:nth-child(3) {
+  background-image:
+    linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0.70) 0%,
+      rgba(0, 0, 0, 0.25) 55%,
+      rgba(0, 0, 0, 0.05) 100%
+    ),
+    url("/assets/images/about/promo3.png");
+}
+
+
+/* Keep existing card text above the background */
+.about-value-card > * {
+  position: relative;
+  z-index: 2;
+}
+
+.about-value-card h3,
+.about-value-card p {
+  color: #fff;
+}
+
