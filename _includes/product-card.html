@@ -14,14 +14,14 @@
         </span>
       {% endif %}
 
-      {% if product.images and product.images.size > 0 %}
-        <img
-          src="{{ product.images[0] | relative_url }}"
-          alt="{{ product.title }}"
-          class="product-card__image"
-          loading="lazy"
-        >
-      {% endif %}
+	{% if product.image %}
+	  <img
+		src="{{ product.image | relative_url }}"
+		alt="{{ product.title | escape }}"
+		class="product-card__image"
+		loading="lazy"
+	  >
+	{% endif %}
 
     </div>
 
