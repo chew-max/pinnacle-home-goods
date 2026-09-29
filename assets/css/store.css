@@ -2903,8 +2903,14 @@ body.cart-open {
   .about-hero {
     min-height: 500px;
     padding: 70px 0;
-
+    background-image:
+      linear-gradient(
+        rgba(0, 0, 0, 0.62),
+        rgba(0, 0, 0, 0.62)
+      ),
+      url("../images/about/about-hero.jpg");
     background-position: center;
+ 
   }
 
   .about-story__image {
