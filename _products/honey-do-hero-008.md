@@ -16,9 +16,27 @@ collections:
   - shirts
   - best-sellers
 
-image: /assets/images/products/honey-do-hero/front.jpg
+image: /assets/images/products/honey-do-hero-008/military-front.jpg
 
 images:
+  - /assets/images/products/honey-do-hero-008/white-front.jpg
+  - /assets/images/products/honey-do-hero-008/white-back.jpg
+  - /assets/images/products/honey-do-hero-008/military-front.jpg
+  - /assets/images/products/honey-do-hero-008/military-back.jpg  
+  - /assets/images/products/honey-do-hero-008/heather-front.jpg
+  - /assets/images/products/honey-do-hero-008/heather-back.jpg
+  - /assets/images/products/honey-do-hero-008/grey-front.jpg
+  - /assets/images/products/honey-do-hero-008/grey-back.jpg
+  - /assets/images/products/honey-do-hero-008/green-front.jpg
+  - /assets/images/products/honey-do-hero-008/green-back.jpg
+  - /assets/images/products/honey-do-hero-008/black-front.jpg
+  - /assets/images/products/honey-do-hero-008/black-back.jpg
+  - /assets/images/products/honey-do-hero-008/sport-grey-front.jpg
+  - /assets/images/products/honey-do-hero-008/sport-grey-back.jpg
+  - /assets/images/products/honey-do-hero-008/graphite-front.jpg
+  - /assets/images/products/honey-do-hero-008/graphite-back.jpg
+  - /assets/images/products/honey-do-hero-008/black-front.jpg
+  - /assets/images/products/honey-do-hero-008/black-back.jpg  
 
 
 short_description: >

@@ -15,10 +15,23 @@ collections:
   - shirts
   - best-sellers
 
-image: /assets/images/products/honey-do-hero/front.jpg
+image: /assets/images/products/honey-do-hero-003/paprika-fold.jpg
 
 images:
-
+  - /assets/images/products/honey-do-hero-003/white-front.jpg
+  - /assets/images/products/honey-do-hero-003/white-back.jpg
+  - /assets/images/products/honey-do-hero-003/spruce-front.jpg
+  - /assets/images/products/honey-do-hero-003/spruce-back.jpg
+  - /assets/images/products/honey-do-hero-003/pepper-front.jpg
+  - /assets/images/products/honey-do-hero-003/pepper-back.jpg  
+  - /assets/images/products/honey-do-hero-003/paprika-front.jpg
+  - /assets/images/products/honey-do-hero-003/paprika-back.jpg
+  - /assets/images/products/honey-do-hero-003/paprika-fold.jpg
+  - /assets/images/products/honey-do-hero-003/ivory-front.jpg
+  - /assets/images/products/honey-do-hero-003/ivory-back.jpg
+  - /assets/images/products/honey-do-hero-003/granite-front.jpg
+  - /assets/images/products/honey-do-hero-003/granite-back.jpg
+  
 
 short_description: >
   For the professional amateur who somehow became

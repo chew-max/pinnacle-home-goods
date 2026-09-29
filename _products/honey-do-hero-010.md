@@ -16,9 +16,21 @@ collections:
   - shirts
   - best-sellers
 
-image: /assets/images/products/honey-do-hero/front.jpg
+image: /assets/images/products/honey-do-hero-010/heather-front.jpg
 
 images:
+  - /assets/images/products/honey-do-hero-010/white-front.jpg
+  - /assets/images/products/honey-do-hero-010/white-back.jpg
+  - /assets/images/products/honey-do-hero-010/sport-grey-front.jpg
+  - /assets/images/products/honey-do-hero-010/sport-grey-back.jpg
+  - /assets/images/products/honey-do-hero-010/heather-front.jpg
+  - /assets/images/products/honey-do-hero-010/heather-back.jpg
+  - /assets/images/products/honey-do-hero-010/grey-front.jpg
+  - /assets/images/products/honey-do-hero-010/grey-back.jpg
+  - /assets/images/products/honey-do-hero-010/graphite-front.jpg
+  - /assets/images/products/honey-do-hero-010/graphite-back.jpg
+  - /assets/images/products/honey-do-hero-010/black-front.jpg
+  - /assets/images/products/honey-do-hero-010/black-back.jpg  
 
 
 short_description: >

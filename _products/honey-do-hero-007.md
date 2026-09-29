@@ -15,9 +15,27 @@ collections:
   - shirts
   - best-sellers
 
-image: /assets/images/products/honey-do-hero/front.jpg
+image: /assets/images/products/honey-do-hero-007/sandstone-front.jpg
 
 images:
+  - /assets/images/products/honey-do-hero-007/white-front.jpg
+  - /assets/images/products/honey-do-hero-007/white-back.jpg
+  - /assets/images/products/honey-do-hero-007/sandstone-front.jpg
+  - /assets/images/products/honey-do-hero-007/sandstone-back.jpg  
+  - /assets/images/products/honey-do-hero-007/sage-front.jpg
+  - /assets/images/products/honey-do-hero-007/sage-back.jpg
+  - /assets/images/products/honey-do-hero-007/pepper-front.jpg
+  - /assets/images/products/honey-do-hero-007/pepper-back.jpg
+  - /assets/images/products/honey-do-hero-007/paprika-front.jpg
+  - /assets/images/products/honey-do-hero-007/paprika-back.jpg
+  - /assets/images/products/honey-do-hero-007/hemp-front.jpg
+  - /assets/images/products/honey-do-hero-007/hemp-back.jpg
+  - /assets/images/products/honey-do-hero-007/grey-front.jpg
+  - /assets/images/products/honey-do-hero-007/grey-back.jpg
+  - /assets/images/products/honey-do-hero-007/graphite-front.jpg
+  - /assets/images/products/honey-do-hero-007/graphite-back.jpg
+  - /assets/images/products/honey-do-hero-007/black-front.jpg
+  - /assets/images/products/honey-do-hero-007/black-back.jpg    
 
 
 short_description: >

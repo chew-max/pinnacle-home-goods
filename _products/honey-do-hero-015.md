@@ -15,9 +15,27 @@ collections:
   - shirts
   - best-sellers
 
-image: /assets/images/products/honey-do-hero/front.jpg
+image: /assets/images/products/honey-do-hero-015/ivory-front.jpg
 
 images:
+  - /assets/images/products/honey-do-hero-015/ivory-front.jpg
+  - /assets/images/products/honey-do-hero-015/ivory-back.jpg
+  - /assets/images/products/honey-do-hero-015/white-front.jpg
+  - /assets/images/products/honey-do-hero-015/white-back.jpg
+  - /assets/images/products/honey-do-hero-015/spruce-front.jpg
+  - /assets/images/products/honey-do-hero-015/spruce-back.jpg
+  - /assets/images/products/honey-do-hero-015/reef-front.jpg
+  - /assets/images/products/honey-do-hero-015/reef-back.jpg
+  - /assets/images/products/honey-do-hero-015/pepper-front.jpg
+  - /assets/images/products/honey-do-hero-015/pepper-back.jpg
+  - /assets/images/products/honey-do-hero-015/mustard-front.jpg
+  - /assets/images/products/honey-do-hero-015/mustard-back.jpg
+  - /assets/images/products/honey-do-hero-015/khaki-front.jpg
+  - /assets/images/products/honey-do-hero-015/khaki-back.jpg
+  - /assets/images/products/honey-do-hero-015/ivory-front.jpg
+  - /assets/images/products/honey-do-hero-015/ivory-back.jpg  
+  - /assets/images/products/honey-do-hero-015/espresso-front.jpg
+  - /assets/images/products/honey-do-hero-015/espresso-back.jpg 
 
 
 short_description: >

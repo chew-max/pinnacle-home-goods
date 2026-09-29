@@ -15,9 +15,25 @@ collections:
   - shirts
   - best-sellers
 
-image: /assets/images/products/honey-do-hero/front.jpg
+image: /assets/images/products/honey-do-hero-005/paprika-front.jpg
 
 images:
+  - /assets/images/products/honey-do-hero-005/white-front.jpg
+  - /assets/images/products/honey-do-hero-005/white-back.jpg
+  - /assets/images/products/honey-do-hero-005/sandstone-front.jpg
+  - /assets/images/products/honey-do-hero-005/sandstone-back.jpg  
+  - /assets/images/products/honey-do-hero-005/pepper-front.jpg
+  - /assets/images/products/honey-do-hero-005/pepper-back.jpg
+  - /assets/images/products/honey-do-hero-005/paprika-front.jpg
+  - /assets/images/products/honey-do-hero-005/paprika-back.jpg
+  - /assets/images/products/honey-do-hero-005/hemp-front.jpg
+  - /assets/images/products/honey-do-hero-005/hemp-back.jpg
+  - /assets/images/products/honey-do-hero-005/grey-front.jpg
+  - /assets/images/products/honey-do-hero-005/grey-back.jpg
+  - /assets/images/products/honey-do-hero-005/graphite-front.jpg
+  - /assets/images/products/honey-do-hero-005/graphite-back.jpg
+  - /assets/images/products/honey-do-hero-005/granite-front.jpg
+  - /assets/images/products/honey-do-hero-005/granite-back.jpg  
 
 
 short_description: >
