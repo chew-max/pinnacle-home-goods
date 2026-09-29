@@ -15,7 +15,7 @@ collections:
   - shirts
   - best-sellers
 
-image: /assets/images/products/honey-do-hero-009/military-front.jpg
+image: /assets/images/products/honey-do-hero-009/sandstone-front.jpg
 
 images:
   - /assets/images/products/honey-do-hero-009/white-front.jpg
