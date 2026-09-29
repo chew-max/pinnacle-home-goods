@@ -15,32 +15,32 @@ collections:
   - shirts
   - best-sellers
 
-image: /assets/images/products/honey-do-hero/front.jpg
+image: /assets/images/products/honey-do-hero-001/front.jpg
 
 images:
-  - /assets/images/products/honey-do-hero/front.jpg
-  - /assets/images/products/honey-do-hero/back.jpg
-  - /assets/images/products/honey-do-hero/white-folded2.jpg
-  - /assets/images/products/honey-do-hero/black-front.jpg
-  - /assets/images/products/honey-do-hero/black-back.jpg
-  - /assets/images/products/honey-do-hero/spruce-front.jpg
-  - /assets/images/products/honey-do-hero/brick-front.jpg
-  - /assets/images/products/honey-do-hero/salmon-front.jpg
-  - /assets/images/products/honey-do-hero/espresso-front.jpg
-  - /assets/images/products/honey-do-hero/graphite-front.jpg
-  - /assets/images/products/honey-do-hero/graphite-back.jpg
-  - /assets/images/products/honey-do-hero/hemp-front.jpg
-  - /assets/images/products/honey-do-hero/island-front.jpg
-  - /assets/images/products/honey-do-hero/ivory-front.jpg
-  - /assets/images/products/honey-do-hero/khaki-front.jpg
-  - /assets/images/products/honey-do-hero/orange-front.jpg
-  - /assets/images/products/honey-do-hero/mustard-front.jpg
-  - /assets/images/products/honey-do-hero/navy-front.jpg
-  - /assets/images/products/honey-do-hero/paprika-front.jpg
-  - /assets/images/products/honey-do-hero/pepper-front.jpg
-  - /assets/images/products/honey-do-hero/pepper-back.jpg
-  - /assets/images/products/honey-do-hero/sage-front.jpg
-  - /assets/images/products/honey-do-hero/navy2-front.jpg
+  - /assets/images/products/honey-do-hero-001/front.jpg
+  - /assets/images/products/honey-do-hero-001/back.jpg
+  - /assets/images/products/honey-do-hero-001/white-folded2.jpg
+  - /assets/images/products/honey-do-hero-001/black-front.jpg
+  - /assets/images/products/honey-do-hero-001/black-back.jpg
+  - /assets/images/products/honey-do-hero-001/spruce-front.jpg
+  - /assets/images/products/honey-do-hero-001/brick-front.jpg
+  - /assets/images/products/honey-do-hero-001/salmon-front.jpg
+  - /assets/images/products/honey-do-hero-001/espresso-front.jpg
+  - /assets/images/products/honey-do-hero-001/graphite-front.jpg
+  - /assets/images/products/honey-do-hero-001/graphite-back.jpg
+  - /assets/images/products/honey-do-hero-001/hemp-front.jpg
+  - /assets/images/products/honey-do-hero-001/island-front.jpg
+  - /assets/images/products/honey-do-hero-001/ivory-front.jpg
+  - /assets/images/products/honey-do-hero-001/khaki-front.jpg
+  - /assets/images/products/honey-do-hero-001/orange-front.jpg
+  - /assets/images/products/honey-do-hero-001/mustard-front.jpg
+  - /assets/images/products/honey-do-hero-001/navy-front.jpg
+  - /assets/images/products/honey-do-hero-001/paprika-front.jpg
+  - /assets/images/products/honey-do-hero-001/pepper-front.jpg
+  - /assets/images/products/honey-do-hero-001/pepper-back.jpg
+  - /assets/images/products/honey-do-hero-001/sage-front.jpg
+  - /assets/images/products/honey-do-hero-001/navy2-front.jpg
 
 
 short_description: >
