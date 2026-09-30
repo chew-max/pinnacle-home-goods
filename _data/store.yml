@@ -69,7 +69,7 @@ collections:
     description: "Everyday equipment for your Honey-do list."
     image: "/assets/images/collections/hats.png"
     
-   - handle: tumblers
+  - handle: tumblers
     title: "Tumblers"
     description: "Everyday equipment for your Honey-do list."
     image: "/assets/images/collections/tumblers.png"
