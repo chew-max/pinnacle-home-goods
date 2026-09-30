@@ -12851,5 +12851,245 @@
         "available": true
       }
     ]
+  },
+  "HDM-001": {
+    "product_id": "HDM-001",
+    "name": "Project Fuel logo Mug | Ceramic Coffee Cup, Home Renovation Theme",
+    "price": 19.99,
+    "price_cents": 1999,
+    "option_names": [
+      "size"
+    ],
+    "option_values": {
+      "size": [
+        "11oz"
+      ]
+    },
+    "variant_index": {
+      "11oz": {
+        "sku": "HDM--001-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDM--001-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDM-002": {
+    "product_id": "HDM-002",
+    "name": "The Honey-Do Hero Professional Amateur Mug | Handyman Comic Design",
+    "price": 19.99,
+    "price_cents": 1999,
+    "option_names": [
+      "size"
+    ],
+    "option_values": {
+      "size": [
+        "11oz"
+      ]
+    },
+    "variant_index": {
+      "11oz": {
+        "sku": "HDM-002-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDM-002-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDM-003": {
+    "product_id": "HDM-003",
+    "name": "Honey-Do Hero Mug | The Overthinker Checklist Ceramic Coffee Mug",
+    "price": 19.99,
+    "price_cents": 1999,
+    "option_names": [
+      "size"
+    ],
+    "option_values": {
+      "size": [
+        "11oz"
+      ]
+    },
+    "variant_index": {
+      "11oz": {
+        "sku": "HDM-003-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDM-003-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDHT-001": {
+    "product_id": "HDHT-001",
+    "name": "Honey-Do Hero patch Snapback | Trucker Cap, Handyman Repair Theme",
+    "price": 34.99,
+    "price_cents": 3499,
+    "option_names": [
+      "color",
+      "secondaryColor",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "Black",
+        "Loden"
+      ],
+      "secondaryColor": [
+        "Charcoal"
+      ],
+      "size": [
+        "One size"
+      ]
+    },
+    "variant_index": {
+      "Black||Charcoal||One size": {
+        "sku": "HDHT-BLACK-CHARCOAL-ONE-SIZE",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Black",
+          "secondaryColor": "Charcoal",
+          "size": "One size"
+        },
+        "available": true
+      },
+      "Loden||||One size": {
+        "sku": "HDHT-LODEN-ONE-SIZE",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Loden",
+          "size": "One size"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDHT-BLACK-CHARCOAL-ONE-SIZE",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Black",
+          "secondaryColor": "Charcoal",
+          "size": "One size"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDHT-LODEN-ONE-SIZE",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Loden",
+          "size": "One size"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDT-001": {
+    "product_id": "HDT-001",
+    "name": "Project H logo Tumbler | Black 20oz Stainless Travel Cup",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "20oz"
+      ],
+      "size": [
+        "White",
+        "Black"
+      ]
+    },
+    "variant_index": {
+      "20oz||White": {
+        "sku": "HDT-20OZ-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "20oz",
+          "size": "White"
+        },
+        "available": true
+      },
+      "20oz||Black": {
+        "sku": "HDT-20OZ-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "20oz",
+          "size": "Black"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDT-20OZ-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "20oz",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDT-20OZ-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "20oz",
+          "size": "Black"
+        },
+        "available": true
+      }
+    ]
   }
 }
