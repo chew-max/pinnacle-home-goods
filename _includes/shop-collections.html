@@ -1,0 +1,31 @@
+{% if site.data.store.collections %}
+
+<nav
+  class="shop-collections"
+  aria-label="Product collections"
+  data-collection-nav
+>
+
+  <a
+    href="{{ '/shop/' | relative_url }}"
+    class="shop-collections__link{% if include.active == 'all' %} is-active{% endif %}"
+    data-collection-handle="all"
+  >
+    All
+  </a>
+
+  {% for collection in site.data.store.collections %}
+
+    <a
+      href="{{ '/collections/' | relative_url }}?collection={{ collection.handle | url_encode }}"
+      class="shop-collections__link"
+      data-collection-handle="{{ collection.handle | escape }}"
+    >
+      {{ collection.title }}
+    </a>
+
+  {% endfor %}
+
+</nav>
+
+{% endif %}
