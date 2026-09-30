@@ -7,7 +7,7 @@ slug: honey-do-tumbler-001
 product_id: "HDT-001"
 
 
-featured: false
+featured: true
 badge: "Honey Do Collection"
 
 collections:
