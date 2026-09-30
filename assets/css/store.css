@@ -2691,7 +2691,7 @@ body.cart-open {
   margin: 32px 0 0;
   font-size: 1.25rem;
   line-height: 1.6;
-  color: #555;
+  color: rgba(255, 255, 255, 0.88);
 }
 
 
