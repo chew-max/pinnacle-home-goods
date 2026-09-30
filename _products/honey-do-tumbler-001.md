@@ -15,12 +15,12 @@ collections:
   - tumblers
   - best-sellers
 
-image: /assets/images/products/honey-do-tblr-001/smdm-full.jpg
+image: /assets/images/products/honey-do-tblr-001/shdm-full.jpg
 
 images:
-  - /assets/images/products/honey-do-tblr-001/smdm-front.jpg
-  - /assets/images/products/honey-do-tblr-001/smdm-back.jpg
-  - /assets/images/products/honey-do-tblr-001/smdm-full.jpg
+  - /assets/images/products/honey-do-tblr-001/shdm-front.jpg
+  - /assets/images/products/honey-do-tblr-001/shdm-back.jpg
+  - /assets/images/products/honey-do-tblr-001/shdm-full.jpg
   - /assets/images/products/honey-do-tblr-001/project-h-front.jpg
   - /assets/images/products/honey-do-tblr-001/project-h-back.jpg
   - /assets/images/products/honey-do-tblr-001/project-h-full.jpg
