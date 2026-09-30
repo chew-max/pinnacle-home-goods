@@ -20,35 +20,9 @@ title: Shop
       </p>
 
     </header>
-	{% if site.data.store.collections %}
 
-	  <nav
-		class="shop-collections"
-		aria-label="Product collections"
-	  >
+    {% include shop-collections.html active="all" %}
 
-		<a
-		  href="{{ '/shop/' | relative_url }}"
-		  class="shop-collections__link is-active"
-		>
-		  All
-		</a>
-
-
-		{% for collection in site.data.store.collections %}
-
-		  <a
-			href="{{ '/collections/' | relative_url }}?collection={{ collection.handle | url_encode }}"
-			class="shop-collections__link"
-		  >
-			{{ collection.title }}
-		  </a>
-
-		{% endfor %}
-
-	  </nav>
-
-	{% endif %}
     <div class="product-grid">
 
       {% for product in site.products %}

@@ -27,6 +27,8 @@ title: Collections
     </header>
 
 
+    {% include shop-collections.html %}
+
     <div
       id="collection-grid"
       class="product-grid"
@@ -168,6 +170,8 @@ title: Collections
   }
 
 
+  const collectionNav = document.querySelector("[data-collection-nav]"); if (collectionNav) { const collectionLinks = collectionNav.querySelectorAll("[data-collection-handle]"); collectionLinks.forEach(function (link) { const linkHandle = String(link.dataset.collectionHandle || "").trim().toLowerCase(); link.classList.toggle("is-active", linkHandle === requestedHandle); }); }
+
   title.textContent =
     collection.title || collection.handle;
 
@@ -254,3 +258,4 @@ title: Collections
 
 })();
 </script>
+
