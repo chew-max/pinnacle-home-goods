@@ -15,7 +15,7 @@ collections:
   - tumblers
   - best-sellers
 
-image: /assets/images/products/honey-do-hat-001/smdm-full.jpg
+image: /assets/images/products/honey-do-tblr-001/smdm-full.jpg
 
 images:
   - /assets/images/products/honey-do-tblr-001/smdm-front.jpg
