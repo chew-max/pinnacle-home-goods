@@ -2730,6 +2730,7 @@ body.cart-open {
 .about-story__content .button {
   display: inline-block;
   margin-top: 18px;
+  padding: 10px;
 }
 
 /* About story image — full bleed */
