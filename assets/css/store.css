@@ -2323,7 +2323,7 @@ body.cart-open {
 .collection-page__banner img {
   display: block;
   width: 100%;
-  height: clamp(220px, 30vw, 400px);
+  height: clamp(220px, 40vw, 400px);
   object-fit: cover;
 }
 
