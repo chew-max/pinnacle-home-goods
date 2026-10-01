@@ -16,7 +16,7 @@ collections:
   - shirts
   - best-sellers
 
-image: /assets/images/products/honey-do-hero-010/heather-front.jpg
+image: /assets/images/products/honey-do-hero-010/white-front.jpg
 
 images:
   - /assets/images/products/honey-do-hero-010/white-front.jpg
