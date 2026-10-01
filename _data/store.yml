@@ -57,7 +57,7 @@ collections:
   - handle: shirts
     title: "Shirts"
     description: "Everyday tees and apparel."
-    image:"/assets/images/home/hero.png"
+    image: "/assets/images/home/hero.png"
   
   - handle: mugs
     title: "Mugs"
