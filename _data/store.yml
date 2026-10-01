@@ -52,7 +52,7 @@ collections:
   - handle: honey-do
     title: "Honey-Do Hero Collections"
     description: "For the projects, the punch lists, and the people who somehow became the household expert."
-    image: "/assets/images/collections/honey-do.png"
+    image: "/assets/images/home/hero.png"
   
   - handle: shirts
     title: "Shirts"
