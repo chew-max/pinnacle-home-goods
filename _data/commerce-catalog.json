@@ -29,7 +29,7 @@
     },
     "variant_index": {
       "Pepper||L": {
-        "sku": "HDH-PEPPER-L",
+        "sku": "HDH-001-PEPPER-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -39,7 +39,7 @@
         "available": true
       },
       "Espresso||M": {
-        "sku": "HDH-ESPRESSO-M",
+        "sku": "HDH-001-ESPRESSO-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -49,7 +49,7 @@
         "available": true
       },
       "Ivory||XL": {
-        "sku": "HDH-IVORY-XL",
+        "sku": "HDH-001-IVORY-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -59,7 +59,7 @@
         "available": true
       },
       "White||S": {
-        "sku": "HDH-WHITE-S",
+        "sku": "HDH-001-WHITE-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -69,7 +69,7 @@
         "available": true
       },
       "Ivory||L": {
-        "sku": "HDH-IVORY-L",
+        "sku": "HDH-001-IVORY-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -79,7 +79,7 @@
         "available": true
       },
       "Pepper||XL": {
-        "sku": "HDH-PEPPER-XL",
+        "sku": "HDH-001-PEPPER-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -89,7 +89,7 @@
         "available": true
       },
       "Island Reef||S": {
-        "sku": "HDH-ISLAND-REEF-S",
+        "sku": "HDH-001-ISLAND-REEF-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -99,7 +99,7 @@
         "available": true
       },
       "Pepper||S": {
-        "sku": "HDH-PEPPER-S",
+        "sku": "HDH-001-PEPPER-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -109,7 +109,7 @@
         "available": true
       },
       "Mustard||L": {
-        "sku": "HDH-MUSTARD-L",
+        "sku": "HDH-001-MUSTARD-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -119,7 +119,7 @@
         "available": true
       },
       "Ivory||S": {
-        "sku": "HDH-IVORY-S",
+        "sku": "HDH-001-IVORY-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -129,7 +129,7 @@
         "available": true
       },
       "Pepper||M": {
-        "sku": "HDH-PEPPER-M",
+        "sku": "HDH-001-PEPPER-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -139,7 +139,7 @@
         "available": true
       },
       "Hemp||M": {
-        "sku": "HDH-HEMP-M",
+        "sku": "HDH-001-HEMP-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -149,7 +149,7 @@
         "available": true
       },
       "Island Reef||XL": {
-        "sku": "HDH-ISLAND-REEF-XL",
+        "sku": "HDH-001-ISLAND-REEF-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -159,7 +159,7 @@
         "available": true
       },
       "Mustard||M": {
-        "sku": "HDH-MUSTARD-M",
+        "sku": "HDH-001-MUSTARD-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -169,7 +169,7 @@
         "available": true
       },
       "Espresso||S": {
-        "sku": "HDH-ESPRESSO-S",
+        "sku": "HDH-001-ESPRESSO-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -179,7 +179,7 @@
         "available": true
       },
       "Island Reef||L": {
-        "sku": "HDH-ISLAND-REEF-L",
+        "sku": "HDH-001-ISLAND-REEF-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -189,7 +189,7 @@
         "available": true
       },
       "White||M": {
-        "sku": "HDH-WHITE-M",
+        "sku": "HDH-001-WHITE-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -199,7 +199,7 @@
         "available": true
       },
       "Ivory||M": {
-        "sku": "HDH-IVORY-M",
+        "sku": "HDH-001-IVORY-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -209,7 +209,7 @@
         "available": true
       },
       "Island Reef||M": {
-        "sku": "HDH-ISLAND-REEF-M",
+        "sku": "HDH-001-ISLAND-REEF-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -219,7 +219,7 @@
         "available": true
       },
       "Espresso||L": {
-        "sku": "HDH-ESPRESSO-L",
+        "sku": "HDH-001-ESPRESSO-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -229,7 +229,7 @@
         "available": true
       },
       "Hemp||S": {
-        "sku": "HDH-HEMP-S",
+        "sku": "HDH-001-HEMP-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -239,7 +239,7 @@
         "available": true
       },
       "Espresso||XL": {
-        "sku": "HDH-ESPRESSO-XL",
+        "sku": "HDH-001-ESPRESSO-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -249,7 +249,7 @@
         "available": true
       },
       "Khaki||L": {
-        "sku": "HDH-KHAKI-L",
+        "sku": "HDH-001-KHAKI-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -259,7 +259,7 @@
         "available": true
       },
       "Blue Spruce||L": {
-        "sku": "HDH-BLUE-SPRUCE-L",
+        "sku": "HDH-001-BLUE-SPRUCE-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -269,7 +269,7 @@
         "available": true
       },
       "Blue Spruce||XL": {
-        "sku": "HDH-BLUE-SPRUCE-XL",
+        "sku": "HDH-001-BLUE-SPRUCE-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -279,7 +279,7 @@
         "available": true
       },
       "Blue Spruce||S": {
-        "sku": "HDH-BLUE-SPRUCE-S",
+        "sku": "HDH-001-BLUE-SPRUCE-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -289,7 +289,7 @@
         "available": true
       },
       "Mustard||S": {
-        "sku": "HDH-MUSTARD-S",
+        "sku": "HDH-001-MUSTARD-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -299,7 +299,7 @@
         "available": true
       },
       "White||XL": {
-        "sku": "HDH-WHITE-XL",
+        "sku": "HDH-001-WHITE-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -309,7 +309,7 @@
         "available": true
       },
       "Khaki||M": {
-        "sku": "HDH-KHAKI-M",
+        "sku": "HDH-001-KHAKI-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -319,7 +319,7 @@
         "available": true
       },
       "White||L": {
-        "sku": "HDH-WHITE-L",
+        "sku": "HDH-001-WHITE-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -329,7 +329,7 @@
         "available": true
       },
       "Blue Spruce||M": {
-        "sku": "HDH-BLUE-SPRUCE-M",
+        "sku": "HDH-001-BLUE-SPRUCE-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -339,7 +339,7 @@
         "available": true
       },
       "Hemp||XL": {
-        "sku": "HDH-HEMP-XL",
+        "sku": "HDH-001-HEMP-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -349,7 +349,7 @@
         "available": true
       },
       "Hemp||L": {
-        "sku": "HDH-HEMP-L",
+        "sku": "HDH-001-HEMP-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -359,7 +359,7 @@
         "available": true
       },
       "Khaki||XL": {
-        "sku": "HDH-KHAKI-XL",
+        "sku": "HDH-001-KHAKI-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -369,7 +369,7 @@
         "available": true
       },
       "Mustard||XL": {
-        "sku": "HDH-MUSTARD-XL",
+        "sku": "HDH-001-MUSTARD-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -379,7 +379,7 @@
         "available": true
       },
       "Khaki||S": {
-        "sku": "HDH-KHAKI-S",
+        "sku": "HDH-001-KHAKI-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -391,7 +391,7 @@
     },
     "variants": [
       {
-        "sku": "HDH-PEPPER-L",
+        "sku": "HDH-001-PEPPER-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -401,7 +401,7 @@
         "available": true
       },
       {
-        "sku": "HDH-ESPRESSO-M",
+        "sku": "HDH-001-ESPRESSO-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -411,7 +411,7 @@
         "available": true
       },
       {
-        "sku": "HDH-IVORY-XL",
+        "sku": "HDH-001-IVORY-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -421,7 +421,7 @@
         "available": true
       },
       {
-        "sku": "HDH-WHITE-S",
+        "sku": "HDH-001-WHITE-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -431,7 +431,7 @@
         "available": true
       },
       {
-        "sku": "HDH-IVORY-L",
+        "sku": "HDH-001-IVORY-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -441,7 +441,7 @@
         "available": true
       },
       {
-        "sku": "HDH-PEPPER-XL",
+        "sku": "HDH-001-PEPPER-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -451,7 +451,7 @@
         "available": true
       },
       {
-        "sku": "HDH-ISLAND-REEF-S",
+        "sku": "HDH-001-ISLAND-REEF-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -461,7 +461,7 @@
         "available": true
       },
       {
-        "sku": "HDH-PEPPER-S",
+        "sku": "HDH-001-PEPPER-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -471,7 +471,7 @@
         "available": true
       },
       {
-        "sku": "HDH-MUSTARD-L",
+        "sku": "HDH-001-MUSTARD-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -481,7 +481,7 @@
         "available": true
       },
       {
-        "sku": "HDH-IVORY-S",
+        "sku": "HDH-001-IVORY-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -491,7 +491,7 @@
         "available": true
       },
       {
-        "sku": "HDH-PEPPER-M",
+        "sku": "HDH-001-PEPPER-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -501,7 +501,7 @@
         "available": true
       },
       {
-        "sku": "HDH-HEMP-M",
+        "sku": "HDH-001-HEMP-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -511,7 +511,7 @@
         "available": true
       },
       {
-        "sku": "HDH-ISLAND-REEF-XL",
+        "sku": "HDH-001-ISLAND-REEF-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -521,7 +521,7 @@
         "available": true
       },
       {
-        "sku": "HDH-MUSTARD-M",
+        "sku": "HDH-001-MUSTARD-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -531,7 +531,7 @@
         "available": true
       },
       {
-        "sku": "HDH-ESPRESSO-S",
+        "sku": "HDH-001-ESPRESSO-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -541,7 +541,7 @@
         "available": true
       },
       {
-        "sku": "HDH-ISLAND-REEF-L",
+        "sku": "HDH-001-ISLAND-REEF-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -551,7 +551,7 @@
         "available": true
       },
       {
-        "sku": "HDH-WHITE-M",
+        "sku": "HDH-001-WHITE-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -561,7 +561,7 @@
         "available": true
       },
       {
-        "sku": "HDH-IVORY-M",
+        "sku": "HDH-001-IVORY-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -571,7 +571,7 @@
         "available": true
       },
       {
-        "sku": "HDH-ISLAND-REEF-M",
+        "sku": "HDH-001-ISLAND-REEF-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -581,7 +581,7 @@
         "available": true
       },
       {
-        "sku": "HDH-ESPRESSO-L",
+        "sku": "HDH-001-ESPRESSO-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -591,7 +591,7 @@
         "available": true
       },
       {
-        "sku": "HDH-HEMP-S",
+        "sku": "HDH-001-HEMP-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -601,7 +601,7 @@
         "available": true
       },
       {
-        "sku": "HDH-ESPRESSO-XL",
+        "sku": "HDH-001-ESPRESSO-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -611,7 +611,7 @@
         "available": true
       },
       {
-        "sku": "HDH-KHAKI-L",
+        "sku": "HDH-001-KHAKI-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -621,7 +621,7 @@
         "available": true
       },
       {
-        "sku": "HDH-BLUE-SPRUCE-L",
+        "sku": "HDH-001-BLUE-SPRUCE-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -631,7 +631,7 @@
         "available": true
       },
       {
-        "sku": "HDH-BLUE-SPRUCE-XL",
+        "sku": "HDH-001-BLUE-SPRUCE-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -641,7 +641,7 @@
         "available": true
       },
       {
-        "sku": "HDH-BLUE-SPRUCE-S",
+        "sku": "HDH-001-BLUE-SPRUCE-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -651,7 +651,7 @@
         "available": true
       },
       {
-        "sku": "HDH-MUSTARD-S",
+        "sku": "HDH-001-MUSTARD-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -661,7 +661,7 @@
         "available": true
       },
       {
-        "sku": "HDH-WHITE-XL",
+        "sku": "HDH-001-WHITE-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -671,7 +671,7 @@
         "available": true
       },
       {
-        "sku": "HDH-KHAKI-M",
+        "sku": "HDH-001-KHAKI-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -681,7 +681,7 @@
         "available": true
       },
       {
-        "sku": "HDH-WHITE-L",
+        "sku": "HDH-001-WHITE-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -691,7 +691,7 @@
         "available": true
       },
       {
-        "sku": "HDH-BLUE-SPRUCE-M",
+        "sku": "HDH-001-BLUE-SPRUCE-M",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -701,7 +701,7 @@
         "available": true
       },
       {
-        "sku": "HDH-HEMP-XL",
+        "sku": "HDH-001-HEMP-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -711,7 +711,7 @@
         "available": true
       },
       {
-        "sku": "HDH-HEMP-L",
+        "sku": "HDH-001-HEMP-L",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -721,7 +721,7 @@
         "available": true
       },
       {
-        "sku": "HDH-KHAKI-XL",
+        "sku": "HDH-001-KHAKI-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -731,7 +731,7 @@
         "available": true
       },
       {
-        "sku": "HDH-MUSTARD-XL",
+        "sku": "HDH-001-MUSTARD-XL",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -741,7 +741,7 @@
         "available": true
       },
       {
-        "sku": "HDH-KHAKI-S",
+        "sku": "HDH-001-KHAKI-S",
         "price": 29.99,
         "price_cents": 2999,
         "options": {
@@ -12867,7 +12867,7 @@
     },
     "variant_index": {
       "11oz": {
-        "sku": "HDM--001-11OZ",
+        "sku": "HDM-001-11OZ",
         "price": 19.99,
         "price_cents": 1999,
         "options": {
@@ -12878,7 +12878,7 @@
     },
     "variants": [
       {
-        "sku": "HDM--001-11OZ",
+        "sku": "HDM-001-11OZ",
         "price": 19.99,
         "price_cents": 1999,
         "options": {
@@ -12890,7 +12890,7 @@
   },
   "HDM-002": {
     "product_id": "HDM-002",
-    "name": "The Honey-Do Hero Professional Amateur Mug | Handyman Comic Design",
+    "name": "The Honey-Do Hero Professional Amateur Mug | Handyman Comic Design 1",
     "price": 19.99,
     "price_cents": 1999,
     "option_names": [
@@ -12898,7 +12898,8 @@
     ],
     "option_values": {
       "size": [
-        "11oz"
+        "11oz",
+        "15oz"
       ]
     },
     "variant_index": {
@@ -12910,6 +12911,15 @@
           "size": "11oz"
         },
         "available": true
+      },
+      "15oz": {
+        "sku": "HDM-002-15OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "15oz"
+        },
+        "available": true
       }
     },
     "variants": [
@@ -12919,6 +12929,15 @@
         "price_cents": 1999,
         "options": {
           "size": "11oz"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDM-002-15OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "15oz"
         },
         "available": true
       }
@@ -12926,7 +12945,7 @@
   },
   "HDM-003": {
     "product_id": "HDM-003",
-    "name": "Honey-Do Hero Mug | The Overthinker Checklist Ceramic Coffee Mug",
+    "name": "Honey-Do Hero Mug | The Overthinker Checklist Ceramic Coffee Mug 3",
     "price": 19.99,
     "price_cents": 1999,
     "option_names": [
@@ -12934,7 +12953,8 @@
     ],
     "option_values": {
       "size": [
-        "11oz"
+        "11oz",
+        "15oz"
       ]
     },
     "variant_index": {
@@ -12946,6 +12966,15 @@
           "size": "11oz"
         },
         "available": true
+      },
+      "15oz": {
+        "sku": "HDM-003-15OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "15oz"
+        },
+        "available": true
       }
     },
     "variants": [
@@ -12955,6 +12984,15 @@
         "price_cents": 1999,
         "options": {
           "size": "11oz"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDM-003-15OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "15oz"
         },
         "available": true
       }
@@ -13087,6 +13125,7579 @@
         "options": {
           "color": "20oz",
           "size": "Black"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDH-019": {
+    "product_id": "HDH-019",
+    "name": "The Honey-Do Hero T-shirt 3 | \"It Should Only Take 20 Minutes\" Design",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "Pepper",
+        "Grey",
+        "White",
+        "Black",
+        "Graphite",
+        "Hemp",
+        "Sage",
+        "Paprika",
+        "Sandstone"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    "variant_index": {
+      "Pepper||L": {
+        "sku": "HDH-019-PEPPER-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Grey||L": {
+        "sku": "HDH-019-GREY-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "L"
+        },
+        "available": true
+      },
+      "White||S": {
+        "sku": "HDH-019-WHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Black||L": {
+        "sku": "HDH-019-BLACK-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Pepper||XL": {
+        "sku": "HDH-019-PEPPER-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Graphite||M": {
+        "sku": "HDH-019-GRAPHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Pepper||S": {
+        "sku": "HDH-019-PEPPER-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Graphite||XL": {
+        "sku": "HDH-019-GRAPHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Grey||M": {
+        "sku": "HDH-019-GREY-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Pepper||M": {
+        "sku": "HDH-019-PEPPER-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Hemp||M": {
+        "sku": "HDH-019-HEMP-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Grey||XL": {
+        "sku": "HDH-019-GREY-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Graphite||S": {
+        "sku": "HDH-019-GRAPHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Black||XL": {
+        "sku": "HDH-019-BLACK-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Black||M": {
+        "sku": "HDH-019-BLACK-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Graphite||L": {
+        "sku": "HDH-019-GRAPHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Black||S": {
+        "sku": "HDH-019-BLACK-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "S"
+        },
+        "available": true
+      },
+      "White||M": {
+        "sku": "HDH-019-WHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Hemp||S": {
+        "sku": "HDH-019-HEMP-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Sage||M": {
+        "sku": "HDH-019-SAGE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Grey||S": {
+        "sku": "HDH-019-GREY-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "S"
+        },
+        "available": true
+      },
+      "White||XL": {
+        "sku": "HDH-019-WHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "White||L": {
+        "sku": "HDH-019-WHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Hemp||XL": {
+        "sku": "HDH-019-HEMP-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Sage||S": {
+        "sku": "HDH-019-SAGE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Hemp||L": {
+        "sku": "HDH-019-HEMP-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Sage||XL": {
+        "sku": "HDH-019-SAGE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Sage||L": {
+        "sku": "HDH-019-SAGE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Paprika||M": {
+        "sku": "HDH-019-PAPRIKA-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Sandstone||XL": {
+        "sku": "HDH-019-SANDSTONE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Paprika||XL": {
+        "sku": "HDH-019-PAPRIKA-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Sandstone||L": {
+        "sku": "HDH-019-SANDSTONE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Paprika||L": {
+        "sku": "HDH-019-PAPRIKA-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Sandstone||S": {
+        "sku": "HDH-019-SANDSTONE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Paprika||S": {
+        "sku": "HDH-019-PAPRIKA-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Sandstone||M": {
+        "sku": "HDH-019-SANDSTONE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "M"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDH-019-PEPPER-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-GREY-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-WHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-BLACK-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-PEPPER-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-GRAPHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-PEPPER-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-GRAPHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-GREY-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-PEPPER-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-HEMP-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-GREY-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-GRAPHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-BLACK-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-BLACK-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-GRAPHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-BLACK-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-WHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-HEMP-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-SAGE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-GREY-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-WHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-WHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-HEMP-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-SAGE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-HEMP-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-SAGE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-SAGE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-PAPRIKA-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-SANDSTONE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-PAPRIKA-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-SANDSTONE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-PAPRIKA-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-SANDSTONE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-PAPRIKA-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-019-SANDSTONE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "M"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDH-020": {
+    "product_id": "HDH-020",
+    "name": "The Honey-Do Hero T-Shirt 3 \"It Should Only Take 20 Minutes\" |  Gray Scale Design",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "XS",
+        "L",
+        "M",
+        "S",
+        "XL"
+      ],
+      "size": [
+        "White",
+        "Black",
+        "Dark Heather",
+        "Sport Grey",
+        "Heather Military Green",
+        "Ice Grey",
+        "Graphite Heather",
+        "Military Green"
+      ]
+    },
+    "variant_index": {
+      "XS||White": {
+        "sku": "HDH-020-XS-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "White"
+        },
+        "available": true
+      },
+      "XS||Black": {
+        "sku": "HDH-020-XS-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "XS||Dark Heather": {
+        "sku": "HDH-020-XS-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "XS||Sport Grey": {
+        "sku": "HDH-020-XS-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "L||Heather Military Green": {
+        "sku": "HDH-020-L-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "M||Ice Grey": {
+        "sku": "HDH-020-M-ICE-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Ice Grey"
+        },
+        "available": true
+      },
+      "M||Graphite Heather": {
+        "sku": "HDH-020-M-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "S||Ice Grey": {
+        "sku": "HDH-020-S-ICE-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Ice Grey"
+        },
+        "available": true
+      },
+      "M||Heather Military Green": {
+        "sku": "HDH-020-M-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "L||Ice Grey": {
+        "sku": "HDH-020-L-ICE-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Ice Grey"
+        },
+        "available": true
+      },
+      "S||Heather Military Green": {
+        "sku": "HDH-020-S-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "XL||Graphite Heather": {
+        "sku": "HDH-020-XL-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "XL||Ice Grey": {
+        "sku": "HDH-020-XL-ICE-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Ice Grey"
+        },
+        "available": true
+      },
+      "S||Graphite Heather": {
+        "sku": "HDH-020-S-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "L||Graphite Heather": {
+        "sku": "HDH-020-L-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "XL||Heather Military Green": {
+        "sku": "HDH-020-XL-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "L||Military Green": {
+        "sku": "HDH-020-L-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "S||Black": {
+        "sku": "HDH-020-S-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "XL||Dark Heather": {
+        "sku": "HDH-020-XL-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "XL||Sport Grey": {
+        "sku": "HDH-020-XL-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "M||White": {
+        "sku": "HDH-020-M-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "White"
+        },
+        "available": true
+      },
+      "M||Black": {
+        "sku": "HDH-020-M-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "S||Sport Grey": {
+        "sku": "HDH-020-S-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "L||Black": {
+        "sku": "HDH-020-L-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "XL||Black": {
+        "sku": "HDH-020-XL-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "S||White": {
+        "sku": "HDH-020-S-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "White"
+        },
+        "available": true
+      },
+      "S||Dark Heather": {
+        "sku": "HDH-020-S-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "XL||Military Green": {
+        "sku": "HDH-020-XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "S||Military Green": {
+        "sku": "HDH-020-S-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "M||Sport Grey": {
+        "sku": "HDH-020-M-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "L||Sport Grey": {
+        "sku": "HDH-020-L-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "XL||White": {
+        "sku": "HDH-020-XL-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "White"
+        },
+        "available": true
+      },
+      "L||White": {
+        "sku": "HDH-020-L-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "White"
+        },
+        "available": true
+      },
+      "M||Military Green": {
+        "sku": "HDH-020-M-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "M||Dark Heather": {
+        "sku": "HDH-020-M-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "L||Dark Heather": {
+        "sku": "HDH-020-L-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Dark Heather"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDH-020-XS-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-XS-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-XS-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-XS-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-L-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-M-ICE-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Ice Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-M-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-S-ICE-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Ice Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-M-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-L-ICE-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Ice Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-S-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-XL-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-XL-ICE-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Ice Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-S-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-L-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-XL-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-L-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-S-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-XL-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-XL-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-M-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-M-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-S-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-L-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-XL-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-S-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-S-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-S-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-M-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-L-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-XL-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-L-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-M-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-M-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-020-L-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Dark Heather"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDH-021": {
+    "product_id": "HDH-021",
+    "name": "The Honey-Do Hero T-Shirt 2 | \"The Overthinker\" Design",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "Granite",
+        "Ivory",
+        "Blue Spruce",
+        "Pepper",
+        "White",
+        "Paprika"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ]
+    },
+    "variant_index": {
+      "Granite||3XL": {
+        "sku": "HDH-021-GRANITE-3XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Granite",
+          "size": "3XL"
+        },
+        "available": true
+      },
+      "Ivory||3XL": {
+        "sku": "HDH-021-IVORY-3XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "3XL"
+        },
+        "available": true
+      },
+      "Blue Spruce||3XL": {
+        "sku": "HDH-021-BLUE-SPRUCE-3XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "3XL"
+        },
+        "available": true
+      },
+      "Pepper||3XL": {
+        "sku": "HDH-021-PEPPER-3XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "3XL"
+        },
+        "available": true
+      },
+      "Pepper||L": {
+        "sku": "HDH-021-PEPPER-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Ivory||XL": {
+        "sku": "HDH-021-IVORY-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "White||S": {
+        "sku": "HDH-021-WHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Ivory||L": {
+        "sku": "HDH-021-IVORY-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Pepper||XL": {
+        "sku": "HDH-021-PEPPER-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Pepper||S": {
+        "sku": "HDH-021-PEPPER-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Ivory||S": {
+        "sku": "HDH-021-IVORY-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Pepper||M": {
+        "sku": "HDH-021-PEPPER-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "M"
+        },
+        "available": true
+      },
+      "White||M": {
+        "sku": "HDH-021-WHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Ivory||M": {
+        "sku": "HDH-021-IVORY-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Granite||L": {
+        "sku": "HDH-021-GRANITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Granite",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Granite||XL": {
+        "sku": "HDH-021-GRANITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Granite",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Blue Spruce||L": {
+        "sku": "HDH-021-BLUE-SPRUCE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Granite||S": {
+        "sku": "HDH-021-GRANITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Granite",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Blue Spruce||XL": {
+        "sku": "HDH-021-BLUE-SPRUCE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Blue Spruce||S": {
+        "sku": "HDH-021-BLUE-SPRUCE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "S"
+        },
+        "available": true
+      },
+      "White||XL": {
+        "sku": "HDH-021-WHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Granite||M": {
+        "sku": "HDH-021-GRANITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Granite",
+          "size": "M"
+        },
+        "available": true
+      },
+      "White||L": {
+        "sku": "HDH-021-WHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Blue Spruce||M": {
+        "sku": "HDH-021-BLUE-SPRUCE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Granite||2XL": {
+        "sku": "HDH-021-GRANITE-2XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Granite",
+          "size": "2XL"
+        },
+        "available": true
+      },
+      "Ivory||2XL": {
+        "sku": "HDH-021-IVORY-2XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "2XL"
+        },
+        "available": true
+      },
+      "Pepper||2XL": {
+        "sku": "HDH-021-PEPPER-2XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "2XL"
+        },
+        "available": true
+      },
+      "Blue Spruce||2XL": {
+        "sku": "HDH-021-BLUE-SPRUCE-2XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "2XL"
+        },
+        "available": true
+      },
+      "Blue Spruce||4XL": {
+        "sku": "HDH-021-BLUE-SPRUCE-4XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "4XL"
+        },
+        "available": true
+      },
+      "Pepper||4XL": {
+        "sku": "HDH-021-PEPPER-4XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "4XL"
+        },
+        "available": true
+      },
+      "Granite||4XL": {
+        "sku": "HDH-021-GRANITE-4XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Granite",
+          "size": "4XL"
+        },
+        "available": true
+      },
+      "Ivory||4XL": {
+        "sku": "HDH-021-IVORY-4XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "4XL"
+        },
+        "available": true
+      },
+      "Paprika||M": {
+        "sku": "HDH-021-PAPRIKA-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Paprika||XL": {
+        "sku": "HDH-021-PAPRIKA-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Paprika||L": {
+        "sku": "HDH-021-PAPRIKA-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Paprika||S": {
+        "sku": "HDH-021-PAPRIKA-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Paprika||2XL": {
+        "sku": "HDH-021-PAPRIKA-2XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "2XL"
+        },
+        "available": true
+      },
+      "Paprika||3XL": {
+        "sku": "HDH-021-PAPRIKA-3XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "3XL"
+        },
+        "available": true
+      },
+      "Paprika||4XL": {
+        "sku": "HDH-021-PAPRIKA-4XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "4XL"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDH-021-GRANITE-3XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Granite",
+          "size": "3XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-IVORY-3XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "3XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-BLUE-SPRUCE-3XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "3XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-PEPPER-3XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "3XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-PEPPER-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-IVORY-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-WHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-IVORY-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-PEPPER-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-PEPPER-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-IVORY-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-PEPPER-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-WHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-IVORY-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-GRANITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Granite",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-GRANITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Granite",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-BLUE-SPRUCE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-GRANITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Granite",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-BLUE-SPRUCE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-BLUE-SPRUCE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-WHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-GRANITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Granite",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-WHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-BLUE-SPRUCE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-GRANITE-2XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Granite",
+          "size": "2XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-IVORY-2XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "2XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-PEPPER-2XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "2XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-BLUE-SPRUCE-2XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "2XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-BLUE-SPRUCE-4XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue Spruce",
+          "size": "4XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-PEPPER-4XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "4XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-GRANITE-4XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Granite",
+          "size": "4XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-IVORY-4XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ivory",
+          "size": "4XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-PAPRIKA-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-PAPRIKA-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-PAPRIKA-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-PAPRIKA-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-PAPRIKA-2XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "2XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-PAPRIKA-3XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "3XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-021-PAPRIKA-4XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "4XL"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDH-022": {
+    "product_id": "HDH-022",
+    "name": "The Honey-Do Hero T-Shirt 2 | \"The Overthinker\" Gray Scale Design",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "2XL",
+        "3XL",
+        "4XL",
+        "XS",
+        "L",
+        "M",
+        "S",
+        "XL"
+      ],
+      "size": [
+        "Military Green",
+        "White",
+        "Black",
+        "Dark Heather",
+        "Sport Grey",
+        "Heather Military Green",
+        "Graphite Heather"
+      ]
+    },
+    "variant_index": {
+      "2XL||Military Green": {
+        "sku": "HDH-022-2XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "3XL||Military Green": {
+        "sku": "HDH-022-3XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "4XL||Military Green": {
+        "sku": "HDH-022-4XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "XS||White": {
+        "sku": "HDH-022-XS-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "White"
+        },
+        "available": true
+      },
+      "XS||Black": {
+        "sku": "HDH-022-XS-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "XS||Dark Heather": {
+        "sku": "HDH-022-XS-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "XS||Sport Grey": {
+        "sku": "HDH-022-XS-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "L||Heather Military Green": {
+        "sku": "HDH-022-L-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "M||Graphite Heather": {
+        "sku": "HDH-022-M-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "M||Heather Military Green": {
+        "sku": "HDH-022-M-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "S||Heather Military Green": {
+        "sku": "HDH-022-S-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "XL||Graphite Heather": {
+        "sku": "HDH-022-XL-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "S||Graphite Heather": {
+        "sku": "HDH-022-S-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "L||Graphite Heather": {
+        "sku": "HDH-022-L-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "XL||Heather Military Green": {
+        "sku": "HDH-022-XL-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "L||Military Green": {
+        "sku": "HDH-022-L-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "S||Black": {
+        "sku": "HDH-022-S-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "XL||Dark Heather": {
+        "sku": "HDH-022-XL-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "XL||Sport Grey": {
+        "sku": "HDH-022-XL-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "M||White": {
+        "sku": "HDH-022-M-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "White"
+        },
+        "available": true
+      },
+      "M||Black": {
+        "sku": "HDH-022-M-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "S||Sport Grey": {
+        "sku": "HDH-022-S-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "L||Black": {
+        "sku": "HDH-022-L-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "XL||Black": {
+        "sku": "HDH-022-XL-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "S||White": {
+        "sku": "HDH-022-S-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "White"
+        },
+        "available": true
+      },
+      "S||Dark Heather": {
+        "sku": "HDH-022-S-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "XL||Military Green": {
+        "sku": "HDH-022-XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "S||Military Green": {
+        "sku": "HDH-022-S-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "M||Sport Grey": {
+        "sku": "HDH-022-M-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "L||Sport Grey": {
+        "sku": "HDH-022-L-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "XL||White": {
+        "sku": "HDH-022-XL-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "White"
+        },
+        "available": true
+      },
+      "L||White": {
+        "sku": "HDH-022-L-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "White"
+        },
+        "available": true
+      },
+      "M||Military Green": {
+        "sku": "HDH-022-M-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "M||Dark Heather": {
+        "sku": "HDH-022-M-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "L||Dark Heather": {
+        "sku": "HDH-022-L-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Dark Heather"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDH-022-2XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-3XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-4XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-XS-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-XS-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-XS-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-XS-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-L-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-M-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-M-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-S-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-XL-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-S-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-L-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-XL-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-L-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-S-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-XL-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-XL-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-M-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-M-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-S-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-L-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-XL-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-S-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-S-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-S-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-M-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-L-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-XL-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-L-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-M-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-M-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-022-L-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Dark Heather"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDH-023": {
+    "product_id": "HDH-023",
+    "name": "The Honey-Do Hero T-shirt | \"Hardware Hustle\" Design",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "Pepper",
+        "Grey",
+        "White",
+        "Black",
+        "Graphite",
+        "Hemp",
+        "Sage",
+        "Paprika",
+        "Sandstone"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    "variant_index": {
+      "Pepper||L": {
+        "sku": "HDH-023-PEPPER-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Grey||L": {
+        "sku": "HDH-023-GREY-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "L"
+        },
+        "available": true
+      },
+      "White||S": {
+        "sku": "HDH-023-WHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Black||L": {
+        "sku": "HDH-023-BLACK-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Pepper||XL": {
+        "sku": "HDH-023-PEPPER-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Graphite||M": {
+        "sku": "HDH-023-GRAPHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Pepper||S": {
+        "sku": "HDH-023-PEPPER-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Graphite||XL": {
+        "sku": "HDH-023-GRAPHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Grey||M": {
+        "sku": "HDH-023-GREY-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Pepper||M": {
+        "sku": "HDH-023-PEPPER-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Hemp||M": {
+        "sku": "HDH-023-HEMP-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Grey||XL": {
+        "sku": "HDH-023-GREY-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Graphite||S": {
+        "sku": "HDH-023-GRAPHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Black||XL": {
+        "sku": "HDH-023-BLACK-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Black||M": {
+        "sku": "HDH-023-BLACK-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Graphite||L": {
+        "sku": "HDH-023-GRAPHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Black||S": {
+        "sku": "HDH-023-BLACK-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "S"
+        },
+        "available": true
+      },
+      "White||M": {
+        "sku": "HDH-023-WHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Hemp||S": {
+        "sku": "HDH-023-HEMP-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Sage||M": {
+        "sku": "HDH-023-SAGE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Grey||S": {
+        "sku": "HDH-023-GREY-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "S"
+        },
+        "available": true
+      },
+      "White||XL": {
+        "sku": "HDH-023-WHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "White||L": {
+        "sku": "HDH-023-WHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Hemp||XL": {
+        "sku": "HDH-023-HEMP-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Sage||S": {
+        "sku": "HDH-023-SAGE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Hemp||L": {
+        "sku": "HDH-023-HEMP-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Sage||XL": {
+        "sku": "HDH-023-SAGE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Sage||L": {
+        "sku": "HDH-023-SAGE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Paprika||M": {
+        "sku": "HDH-023-PAPRIKA-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Sandstone||XL": {
+        "sku": "HDH-023-SANDSTONE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Paprika||XL": {
+        "sku": "HDH-023-PAPRIKA-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Sandstone||L": {
+        "sku": "HDH-023-SANDSTONE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Paprika||L": {
+        "sku": "HDH-023-PAPRIKA-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Sandstone||S": {
+        "sku": "HDH-023-SANDSTONE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Paprika||S": {
+        "sku": "HDH-023-PAPRIKA-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Sandstone||M": {
+        "sku": "HDH-023-SANDSTONE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "M"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDH-023-PEPPER-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-GREY-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-WHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-BLACK-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-PEPPER-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-GRAPHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-PEPPER-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-GRAPHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-GREY-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-PEPPER-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-HEMP-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-GREY-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-GRAPHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-BLACK-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-BLACK-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-GRAPHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-BLACK-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-WHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-HEMP-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-SAGE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-GREY-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-WHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-WHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-HEMP-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-SAGE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-HEMP-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-SAGE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-SAGE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-PAPRIKA-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-SANDSTONE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-PAPRIKA-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-SANDSTONE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-PAPRIKA-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-SANDSTONE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-PAPRIKA-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-023-SANDSTONE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "M"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDH-024": {
+    "product_id": "HDH-024",
+    "name": "The Honey-Do Hero T-shirt | \"Hardware Hustle\" Design Gray Scale Design",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "2XL",
+        "3XL",
+        "4XL",
+        "XS",
+        "L",
+        "M",
+        "S",
+        "XL"
+      ],
+      "size": [
+        "Military Green",
+        "White",
+        "Black",
+        "Dark Heather",
+        "Sport Grey",
+        "Heather Military Green",
+        "Graphite Heather"
+      ]
+    },
+    "variant_index": {
+      "2XL||Military Green": {
+        "sku": "HDH-024-2XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "3XL||Military Green": {
+        "sku": "HDH-024-3XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "4XL||Military Green": {
+        "sku": "HDH-024-4XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "XS||White": {
+        "sku": "HDH-024-XS-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "White"
+        },
+        "available": true
+      },
+      "XS||Black": {
+        "sku": "HDH-024-XS-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "XS||Dark Heather": {
+        "sku": "HDH-024-XS-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "XS||Sport Grey": {
+        "sku": "HDH-024-XS-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "L||Heather Military Green": {
+        "sku": "HDH-024-L-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "M||Graphite Heather": {
+        "sku": "HDH-024-M-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "M||Heather Military Green": {
+        "sku": "HDH-024-M-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "S||Heather Military Green": {
+        "sku": "HDH-024-S-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "XL||Graphite Heather": {
+        "sku": "HDH-024-XL-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "S||Graphite Heather": {
+        "sku": "HDH-024-S-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "L||Graphite Heather": {
+        "sku": "HDH-024-L-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "XL||Heather Military Green": {
+        "sku": "HDH-024-XL-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "L||Military Green": {
+        "sku": "HDH-024-L-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "S||Black": {
+        "sku": "HDH-024-S-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "XL||Dark Heather": {
+        "sku": "HDH-024-XL-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "XL||Sport Grey": {
+        "sku": "HDH-024-XL-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "M||White": {
+        "sku": "HDH-024-M-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "White"
+        },
+        "available": true
+      },
+      "M||Black": {
+        "sku": "HDH-024-M-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "S||Sport Grey": {
+        "sku": "HDH-024-S-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "L||Black": {
+        "sku": "HDH-024-L-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "XL||Black": {
+        "sku": "HDH-024-XL-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "S||White": {
+        "sku": "HDH-024-S-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "White"
+        },
+        "available": true
+      },
+      "S||Dark Heather": {
+        "sku": "HDH-024-S-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "XL||Military Green": {
+        "sku": "HDH-024-XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "S||Military Green": {
+        "sku": "HDH-024-S-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "M||Sport Grey": {
+        "sku": "HDH-024-M-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "L||Sport Grey": {
+        "sku": "HDH-024-L-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "XL||White": {
+        "sku": "HDH-024-XL-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "White"
+        },
+        "available": true
+      },
+      "L||White": {
+        "sku": "HDH-024-L-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "White"
+        },
+        "available": true
+      },
+      "M||Military Green": {
+        "sku": "HDH-024-M-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "M||Dark Heather": {
+        "sku": "HDH-024-M-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "L||Dark Heather": {
+        "sku": "HDH-024-L-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Dark Heather"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDH-024-2XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-3XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-4XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-XS-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-XS-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-XS-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-XS-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-L-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-M-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-M-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-S-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-XL-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-S-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-L-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-XL-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-L-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-S-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-XL-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-XL-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-M-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-M-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-S-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-L-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-XL-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-S-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-S-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-S-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-M-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-L-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-XL-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-L-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-M-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-M-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-024-L-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Dark Heather"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDH-025": {
+    "product_id": "HDH-025",
+    "name": "The Honey-Do Hero T-shirt 2 | \"Hardware Hustle\" Design",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "Pepper",
+        "Grey",
+        "White",
+        "Black",
+        "Graphite",
+        "Hemp",
+        "Sage",
+        "Paprika",
+        "Sandstone"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    "variant_index": {
+      "Pepper||L": {
+        "sku": "HDH-025-PEPPER-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Grey||L": {
+        "sku": "HDH-025-GREY-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "L"
+        },
+        "available": true
+      },
+      "White||S": {
+        "sku": "HDH-025-WHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Black||L": {
+        "sku": "HDH-025-BLACK-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Pepper||XL": {
+        "sku": "HDH-025-PEPPER-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Graphite||M": {
+        "sku": "HDH-025-GRAPHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Pepper||S": {
+        "sku": "HDH-025-PEPPER-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Graphite||XL": {
+        "sku": "HDH-025-GRAPHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Grey||M": {
+        "sku": "HDH-025-GREY-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Pepper||M": {
+        "sku": "HDH-025-PEPPER-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Hemp||M": {
+        "sku": "HDH-025-HEMP-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Grey||XL": {
+        "sku": "HDH-025-GREY-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Graphite||S": {
+        "sku": "HDH-025-GRAPHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Black||XL": {
+        "sku": "HDH-025-BLACK-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Black||M": {
+        "sku": "HDH-025-BLACK-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Graphite||L": {
+        "sku": "HDH-025-GRAPHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Black||S": {
+        "sku": "HDH-025-BLACK-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "S"
+        },
+        "available": true
+      },
+      "White||M": {
+        "sku": "HDH-025-WHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Hemp||S": {
+        "sku": "HDH-025-HEMP-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Sage||M": {
+        "sku": "HDH-025-SAGE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Grey||S": {
+        "sku": "HDH-025-GREY-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "S"
+        },
+        "available": true
+      },
+      "White||XL": {
+        "sku": "HDH-025-WHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "White||L": {
+        "sku": "HDH-025-WHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Hemp||XL": {
+        "sku": "HDH-025-HEMP-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Sage||S": {
+        "sku": "HDH-025-SAGE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Hemp||L": {
+        "sku": "HDH-025-HEMP-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Sage||XL": {
+        "sku": "HDH-025-SAGE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Sage||L": {
+        "sku": "HDH-025-SAGE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Paprika||M": {
+        "sku": "HDH-025-PAPRIKA-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Sandstone||XL": {
+        "sku": "HDH-025-SANDSTONE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Paprika||XL": {
+        "sku": "HDH-025-PAPRIKA-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Sandstone||L": {
+        "sku": "HDH-025-SANDSTONE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Paprika||L": {
+        "sku": "HDH-025-PAPRIKA-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Sandstone||S": {
+        "sku": "HDH-025-SANDSTONE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Paprika||S": {
+        "sku": "HDH-025-PAPRIKA-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Sandstone||M": {
+        "sku": "HDH-025-SANDSTONE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "M"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDH-025-PEPPER-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-GREY-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-WHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-BLACK-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-PEPPER-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-GRAPHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-PEPPER-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-GRAPHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-GREY-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-PEPPER-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-HEMP-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-GREY-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-GRAPHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-BLACK-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-BLACK-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-GRAPHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-BLACK-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-WHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-HEMP-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-SAGE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-GREY-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-WHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-WHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-HEMP-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-SAGE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-HEMP-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-SAGE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-SAGE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-PAPRIKA-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-SANDSTONE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-PAPRIKA-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-SANDSTONE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-PAPRIKA-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-SANDSTONE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-PAPRIKA-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-025-SANDSTONE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "M"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDH-026": {
+    "product_id": "HDH-026",
+    "name": "The Honey-Do Hero T-shirt 2 | \"Hardware Hustle\" Design Gray Scale Design",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "2XL",
+        "3XL",
+        "4XL",
+        "XS",
+        "L",
+        "M",
+        "S",
+        "XL"
+      ],
+      "size": [
+        "Military Green",
+        "White",
+        "Black",
+        "Dark Heather",
+        "Sport Grey",
+        "Heather Military Green",
+        "Graphite Heather"
+      ]
+    },
+    "variant_index": {
+      "2XL||Military Green": {
+        "sku": "HDH-026-2XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "3XL||Military Green": {
+        "sku": "HDH-026-3XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "4XL||Military Green": {
+        "sku": "HDH-026-4XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "XS||White": {
+        "sku": "HDH-026-XS-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "White"
+        },
+        "available": true
+      },
+      "XS||Black": {
+        "sku": "HDH-026-XS-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "XS||Dark Heather": {
+        "sku": "HDH-026-XS-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "XS||Sport Grey": {
+        "sku": "HDH-026-XS-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "L||Heather Military Green": {
+        "sku": "HDH-026-L-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "M||Graphite Heather": {
+        "sku": "HDH-026-M-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "M||Heather Military Green": {
+        "sku": "HDH-026-M-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "S||Heather Military Green": {
+        "sku": "HDH-026-S-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "XL||Graphite Heather": {
+        "sku": "HDH-026-XL-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "S||Graphite Heather": {
+        "sku": "HDH-026-S-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "L||Graphite Heather": {
+        "sku": "HDH-026-L-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "XL||Heather Military Green": {
+        "sku": "HDH-026-XL-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "L||Military Green": {
+        "sku": "HDH-026-L-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "S||Black": {
+        "sku": "HDH-026-S-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "XL||Dark Heather": {
+        "sku": "HDH-026-XL-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "XL||Sport Grey": {
+        "sku": "HDH-026-XL-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "M||White": {
+        "sku": "HDH-026-M-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "White"
+        },
+        "available": true
+      },
+      "M||Black": {
+        "sku": "HDH-026-M-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "S||Sport Grey": {
+        "sku": "HDH-026-S-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "L||Black": {
+        "sku": "HDH-026-L-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "XL||Black": {
+        "sku": "HDH-026-XL-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "S||White": {
+        "sku": "HDH-026-S-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "White"
+        },
+        "available": true
+      },
+      "S||Dark Heather": {
+        "sku": "HDH-026-S-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "XL||Military Green": {
+        "sku": "HDH-026-XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "S||Military Green": {
+        "sku": "HDH-026-S-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "M||Sport Grey": {
+        "sku": "HDH-026-M-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "L||Sport Grey": {
+        "sku": "HDH-026-L-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "XL||White": {
+        "sku": "HDH-026-XL-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "White"
+        },
+        "available": true
+      },
+      "L||White": {
+        "sku": "HDH-026-L-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "White"
+        },
+        "available": true
+      },
+      "M||Military Green": {
+        "sku": "HDH-026-M-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "M||Dark Heather": {
+        "sku": "HDH-026-M-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "L||Dark Heather": {
+        "sku": "HDH-026-L-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Dark Heather"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDH-026-2XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-3XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-4XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-XS-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-XS-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-XS-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-XS-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-L-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-M-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-M-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-S-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-XL-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-S-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-L-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-XL-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-L-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-S-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-XL-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-XL-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-M-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-M-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-S-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-L-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-XL-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-S-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-S-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-S-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-M-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-L-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-XL-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-L-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-M-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-M-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-026-L-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Dark Heather"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDH-027": {
+    "product_id": "HDH-027",
+    "name": "The Honey-Do Hero T-shirt 3 | \"Hardware Hustle\" Design",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "Pepper",
+        "Grey",
+        "White",
+        "Black",
+        "Graphite",
+        "Hemp",
+        "Sage",
+        "Paprika",
+        "Sandstone"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    "variant_index": {
+      "Pepper||L": {
+        "sku": "HDH-027-PEPPER-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Grey||L": {
+        "sku": "HDH-027-GREY-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "L"
+        },
+        "available": true
+      },
+      "White||S": {
+        "sku": "HDH-027-WHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Black||L": {
+        "sku": "HDH-027-BLACK-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Pepper||XL": {
+        "sku": "HDH-027-PEPPER-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Graphite||M": {
+        "sku": "HDH-027-GRAPHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Pepper||S": {
+        "sku": "HDH-027-PEPPER-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Graphite||XL": {
+        "sku": "HDH-027-GRAPHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Grey||M": {
+        "sku": "HDH-027-GREY-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Pepper||M": {
+        "sku": "HDH-027-PEPPER-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Hemp||M": {
+        "sku": "HDH-027-HEMP-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Grey||XL": {
+        "sku": "HDH-027-GREY-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Graphite||S": {
+        "sku": "HDH-027-GRAPHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Black||XL": {
+        "sku": "HDH-027-BLACK-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Black||M": {
+        "sku": "HDH-027-BLACK-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Graphite||L": {
+        "sku": "HDH-027-GRAPHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Black||S": {
+        "sku": "HDH-027-BLACK-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "S"
+        },
+        "available": true
+      },
+      "White||M": {
+        "sku": "HDH-027-WHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Hemp||S": {
+        "sku": "HDH-027-HEMP-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Sage||M": {
+        "sku": "HDH-027-SAGE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Grey||S": {
+        "sku": "HDH-027-GREY-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "S"
+        },
+        "available": true
+      },
+      "White||XL": {
+        "sku": "HDH-027-WHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "White||L": {
+        "sku": "HDH-027-WHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Hemp||XL": {
+        "sku": "HDH-027-HEMP-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Sage||S": {
+        "sku": "HDH-027-SAGE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Hemp||L": {
+        "sku": "HDH-027-HEMP-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Sage||XL": {
+        "sku": "HDH-027-SAGE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Sage||L": {
+        "sku": "HDH-027-SAGE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Paprika||M": {
+        "sku": "HDH-027-PAPRIKA-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Sandstone||XL": {
+        "sku": "HDH-027-SANDSTONE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Paprika||XL": {
+        "sku": "HDH-027-PAPRIKA-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Sandstone||L": {
+        "sku": "HDH-027-SANDSTONE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Paprika||L": {
+        "sku": "HDH-027-PAPRIKA-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Sandstone||S": {
+        "sku": "HDH-027-SANDSTONE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Paprika||S": {
+        "sku": "HDH-027-PAPRIKA-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Sandstone||M": {
+        "sku": "HDH-027-SANDSTONE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "M"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDH-027-PEPPER-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-GREY-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-WHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-BLACK-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-PEPPER-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-GRAPHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-PEPPER-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-GRAPHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-GREY-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-PEPPER-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Pepper",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-HEMP-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-GREY-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-GRAPHITE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-BLACK-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-BLACK-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-GRAPHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Graphite",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-BLACK-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-WHITE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-HEMP-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-SAGE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-GREY-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Grey",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-WHITE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-WHITE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-HEMP-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-SAGE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-HEMP-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Hemp",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-SAGE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-SAGE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sage",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-PAPRIKA-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-SANDSTONE-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-PAPRIKA-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-SANDSTONE-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-PAPRIKA-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-SANDSTONE-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-PAPRIKA-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Paprika",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-027-SANDSTONE-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sandstone",
+          "size": "M"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDH-028": {
+    "product_id": "HDH-028",
+    "name": "The Honey-Do Hero T-shirt 3 | \"Hardware Hustle\" Design Gray Scale Design",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "2XL",
+        "3XL",
+        "4XL",
+        "XS",
+        "L",
+        "M",
+        "S",
+        "XL"
+      ],
+      "size": [
+        "Military Green",
+        "White",
+        "Black",
+        "Dark Heather",
+        "Sport Grey",
+        "Heather Military Green",
+        "Graphite Heather"
+      ]
+    },
+    "variant_index": {
+      "2XL||Military Green": {
+        "sku": "HDH-028-2XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "3XL||Military Green": {
+        "sku": "HDH-028-3XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "4XL||Military Green": {
+        "sku": "HDH-028-4XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "XS||White": {
+        "sku": "HDH-028-XS-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "White"
+        },
+        "available": true
+      },
+      "XS||Black": {
+        "sku": "HDH-028-XS-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "XS||Dark Heather": {
+        "sku": "HDH-028-XS-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "XS||Sport Grey": {
+        "sku": "HDH-028-XS-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "L||Heather Military Green": {
+        "sku": "HDH-028-L-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "M||Graphite Heather": {
+        "sku": "HDH-028-M-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "M||Heather Military Green": {
+        "sku": "HDH-028-M-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "S||Heather Military Green": {
+        "sku": "HDH-028-S-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "XL||Graphite Heather": {
+        "sku": "HDH-028-XL-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "S||Graphite Heather": {
+        "sku": "HDH-028-S-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "L||Graphite Heather": {
+        "sku": "HDH-028-L-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      "XL||Heather Military Green": {
+        "sku": "HDH-028-XL-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      "L||Military Green": {
+        "sku": "HDH-028-L-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "S||Black": {
+        "sku": "HDH-028-S-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "XL||Dark Heather": {
+        "sku": "HDH-028-XL-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "XL||Sport Grey": {
+        "sku": "HDH-028-XL-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "M||White": {
+        "sku": "HDH-028-M-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "White"
+        },
+        "available": true
+      },
+      "M||Black": {
+        "sku": "HDH-028-M-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "S||Sport Grey": {
+        "sku": "HDH-028-S-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "L||Black": {
+        "sku": "HDH-028-L-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "XL||Black": {
+        "sku": "HDH-028-XL-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "S||White": {
+        "sku": "HDH-028-S-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "White"
+        },
+        "available": true
+      },
+      "S||Dark Heather": {
+        "sku": "HDH-028-S-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "XL||Military Green": {
+        "sku": "HDH-028-XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "S||Military Green": {
+        "sku": "HDH-028-S-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "M||Sport Grey": {
+        "sku": "HDH-028-M-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "L||Sport Grey": {
+        "sku": "HDH-028-L-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      "XL||White": {
+        "sku": "HDH-028-XL-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "White"
+        },
+        "available": true
+      },
+      "L||White": {
+        "sku": "HDH-028-L-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "White"
+        },
+        "available": true
+      },
+      "M||Military Green": {
+        "sku": "HDH-028-M-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      "M||Dark Heather": {
+        "sku": "HDH-028-M-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      "L||Dark Heather": {
+        "sku": "HDH-028-L-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Dark Heather"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDH-028-2XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-3XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-4XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-XS-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-XS-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-XS-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-XS-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-L-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-M-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-M-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-S-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-XL-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-S-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-L-GRAPHITE-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Graphite Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-XL-HEATHER-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-L-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-S-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-XL-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-XL-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-M-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-M-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-S-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-L-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-XL-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-S-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-S-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-XL-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-S-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-M-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-L-SPORT-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Sport Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-XL-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-L-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-M-MILITARY-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Military Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-M-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Dark Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDH-028-L-DARK-HEATHER",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Dark Heather"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDM-004": {
+    "product_id": "HDM-004",
+    "name": "The Honey-Do Hero Professional Amateur Mug 2 | Handyman Comic Design",
+    "price": 19.99,
+    "price_cents": 1999,
+    "option_names": [
+      "size"
+    ],
+    "option_values": {
+      "size": [
+        "11oz",
+        "15oz"
+      ]
+    },
+    "variant_index": {
+      "11oz": {
+        "sku": "HDM-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      },
+      "15oz": {
+        "sku": "HDM-15OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "15oz"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDM-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDM-15OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "15oz"
         },
         "available": true
       }

@@ -23,6 +23,11 @@ images:
   - /assets/images/products/honey-do-mug-003/left.jpg
   - /assets/images/products/honey-do-mug-003/right.jpg
   - /assets/images/products/honey-do-mug-003/full.jpg
+  - /assets/images/products/honey-do-mug-003/black-front.jpg
+  - /assets/images/products/honey-do-mug-003/black-back.jpg
+  - /assets/images/products/honey-do-mug-003/black-left.jpg
+
+
 
 
 
