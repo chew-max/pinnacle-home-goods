@@ -52,33 +52,33 @@ collections:
   - handle: honey-do
     title: "Honey-Do Hero Collections"
     description: "For the projects, the punch lists, and the people who somehow became the household expert."
-    image: "/assets/images/collections/Honey-Do-Hero Workshop-Banner.png"
+    image: "/assets/images/home/hero.png"
   
   - handle: shirts
     title: "Shirts"
     description: "Everyday tees and apparel."
-    image: "/assets/images/collections/Rugged-Shirts-Collection-Banner.png"
+    image:"/assets/images/home/hero.png"
   
   - handle: mugs
     title: "Mugs"
     description: "Everyday equipment for your Honey-do list."
-    image: "/assets/images/collections/Drinkware-Collection-Workshop.png"
+    image: "/assets/images/home/hero.png"
   
   - handle: hats
     title: "Hats"
     description: "Everyday equipment for your Honey-do list."
-    image: "/assets/images/collections/Rugged-Hats-Collection-Workshop-Banner.png"
+    image: "/assets/images/home/hero.png"
     
   - handle: tumblers
     title: "Tumblers"
     description: "Everyday equipment for your Honey-do list."
-    image: "/assets/images/collections/Drinkware-Collection-Workshop.png"
+    image: "/assets/images/home/hero.png"
 
 
   - handle: best-sellers
     title: "Best Sellers"
     description: "Customer favorites from across the collection."
-    image: "/assets/images/collections/best-sellers.png"
+    image: "/assets/images/home/hero.png"
 
 homepage:
   hero:
