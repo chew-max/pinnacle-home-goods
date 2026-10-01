@@ -2177,7 +2177,13 @@ body.cart-open {
   .shop-page__header h1 {
     font-size: clamp(2.75rem, 10vw, 4rem);
   }
+	.collection-page__banner {
+	  margin-top: 24px;
+	}
 
+	.collection-page__banner img {
+	  height: 240px;
+	}
 }
 
 
@@ -2271,8 +2277,7 @@ body.cart-open {
 }
 
 .collection-page__header {
-  max-width: 680px;
-
+  width: 100%;
   margin-bottom: 50px;
 }
 
@@ -2294,7 +2299,7 @@ body.cart-open {
   font-weight: 500;
 
   line-height: 1;
-
+	max-width: 900px;
   letter-spacing: -0.045em;
 }
 
@@ -2308,7 +2313,19 @@ body.cart-open {
   font-size: 1rem;
   line-height: 1.7;
 }
+.collection-page__banner {
+  width: min(100%, 1200px);
+  margin-top: 32px;
+  overflow: hidden;
+  border-radius: 4px;
+}
 
+.collection-page__banner img {
+  display: block;
+  width: 100%;
+  height: clamp(220px, 30vw, 400px);
+  object-fit: cover;
+}
 
 /* Collection product wrapper must not alter
    the existing product-card layout. */
@@ -2396,6 +2413,9 @@ body.cart-open {
   .collection-page__header h1 {
     font-size: 2.75rem;
   }
+.collection-page__banner img {
+  height: 190px;
+}
 
 }
 /* =========================================================

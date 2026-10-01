@@ -23,7 +23,17 @@ title: Collections
         id="collection-description"
         class="collection-page__description"
       ></p>
-
+      <div
+        id="collection-banner"
+        class="collection-page__banner"
+        hidden
+      >
+        <img
+          id="collection-image"
+          src=""
+          alt=""
+        >
+      </div>
     </header>
 
 
@@ -142,7 +152,17 @@ title: Collections
       "collection-description"
     );
 
+  const banner =
+    document.getElementById(
+      "collection-banner"
+    );
 
+
+  const image =
+    document.getElementById(
+      "collection-image"
+    );
+	
   const grid =
     document.getElementById(
       "collection-grid"
@@ -187,7 +207,18 @@ title: Collections
       true;
 
   }
+  if (collection.image) {
 
+    image.src =
+      collection.image;
+
+    image.alt =
+      collection.title || collection.handle;
+
+    banner.hidden =
+      false;
+
+  }
 
   header.hidden =
     false;
