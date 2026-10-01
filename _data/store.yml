@@ -57,22 +57,22 @@ collections:
   - handle: shirts
     title: "Shirts"
     description: "Everyday tees and apparel."
-    image: "/assets/images/collections/shirts.png"
+    image: "/assets/images/collections/Rugged-Shirts-Collection-Banner.png"
   
   - handle: mugs
     title: "Mugs"
     description: "Everyday equipment for your Honey-do list."
-    image: "/assets/images/collections/mugs.png"
+    image: "/assets/images/collections/Drinkware-Collection-Workshop.png"
   
   - handle: hats
     title: "Hats"
     description: "Everyday equipment for your Honey-do list."
-    image: "/assets/images/collections/hats.png"
+    image: "/assets/images/collections/Rugged-Hats-Collection-Workshop-Banner.png"
     
   - handle: tumblers
     title: "Tumblers"
     description: "Everyday equipment for your Honey-do list."
-    image: "/assets/images/collections/tumblers.png"
+    image: "/assets/images/collections/Drinkware-Collection-Workshop.png"
 
 
   - handle: best-sellers
