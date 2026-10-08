@@ -15,7 +15,7 @@ collections:
   - shirts
   - best-sellers
 
-image: /assets/images/products/honey-do-hero-003/paprika-fold.jpg
+image: /assets/images/products/honey-do-hero-003/promo-hero.png
 
 images:
   - /assets/images/products/honey-do-hero-003/white-front.jpg
@@ -31,6 +31,7 @@ images:
   - /assets/images/products/honey-do-hero-003/ivory-back.jpg
   - /assets/images/products/honey-do-hero-003/granite-front.jpg
   - /assets/images/products/honey-do-hero-003/granite-back.jpg
+  - /assets/images/products/honey-do-hero-003/promo-hero.png
   
 
 short_description: >
