@@ -15,11 +15,9 @@ collections:
   - shirts
 
 
-image: /assets/images/products/honey-do-hero-027/white-front.jpg
+image: /assets/images/products/honey-do-hero-027/paprika-front.jpg
 
 images:
-  - /assets/images/products/honey-do-hero-027/white-front.jpg
-  - /assets/images/products/honey-do-hero-027/white-back.jpg
   - /assets/images/products/honey-do-hero-027/sandstone-front.jpg
   - /assets/images/products/honey-do-hero-027/sandstone-back.jpg
   - /assets/images/products/honey-do-hero-027/pepper-front.jpg
