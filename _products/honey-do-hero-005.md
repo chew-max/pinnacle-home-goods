@@ -15,7 +15,7 @@ collections:
   - shirts
   - best-sellers
 
-image: /assets/images/products/honey-do-hero-005/paprika-front.jpg
+image: - /assets/images/products/honey-do-hero-005/promo-hero.png
 
 images:
   - /assets/images/products/honey-do-hero-005/white-front.jpg
@@ -34,7 +34,7 @@ images:
   - /assets/images/products/honey-do-hero-005/graphite-back.jpg
   - /assets/images/products/honey-do-hero-005/granite-front.jpg
   - /assets/images/products/honey-do-hero-005/granite-back.jpg  
-
+  - /assets/images/products/honey-do-hero-005/promo-hero.png
 
 short_description: >
   For the professional amateur who somehow became

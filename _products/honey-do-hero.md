@@ -7,7 +7,7 @@ slug: honey-do-hero
 product_id: "HDH-001"
 
 
-featured: false
+featured: true
 badge: "Honey Do Collection"
 
 collections:
@@ -15,7 +15,7 @@ collections:
   - shirts
   - best-sellers
 
-image: /assets/images/products/honey-do-hero-001/front.jpg
+image: /assets/images/products/honey-do-hero-001/promo-hero.png
 
 images:
   - /assets/images/products/honey-do-hero-001/front.jpg
@@ -41,6 +41,7 @@ images:
   - /assets/images/products/honey-do-hero-001/pepper-back.jpg
   - /assets/images/products/honey-do-hero-001/sage-front.jpg
   - /assets/images/products/honey-do-hero-001/navy2-front.jpg
+  - /assets/images/products/honey-do-hero-001/promo-hero.png
 
 
 short_description: >

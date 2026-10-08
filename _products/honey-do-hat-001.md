@@ -7,7 +7,7 @@ slug: honey-do-hat-001
 product_id: "HDHT-001"
 
 
-featured: true
+featured: false
 badge: "Honey Do Collection"
 
 collections:
