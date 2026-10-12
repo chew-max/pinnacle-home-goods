@@ -1,4 +1,4 @@
----
+﻿---
 layout: product
 
 title: "The Honey-Do Hero Grill Master T-shirt"
@@ -15,7 +15,7 @@ collections:
   - shirts
   - best-sellers
 
-image: - /assets/images/products/honey-do-hero-005/promo-hero.png
+image: /assets/images/products/honey-do-hero-005/promo-hero.png
 
 images:
   - /assets/images/products/honey-do-hero-005/white-front.jpg
@@ -51,3 +51,4 @@ seo_description: >
   Shop the Honey-Do Hero Professional Amateur graphic tee,
   available in multiple colors and sizes from Pinnacle Home Goods.
 ---
+

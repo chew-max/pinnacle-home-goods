@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+﻿document.addEventListener("DOMContentLoaded", function () {
 
   const CART_STORAGE_KEY = "jekyllCommerceCart";
   const MAX_QUANTITY =
@@ -209,6 +209,16 @@ if (checkoutSubmit) {
   }
 
 
+  /* Shop collections dropdown */
+  const shopDropdown = document.querySelector(".nav-dropdown");
+  const shopToggle = shopDropdown?.querySelector(".nav-dropdown__toggle");
+  const closeShopDropdown = function () { if (!shopDropdown || !shopToggle) return; shopDropdown.classList.remove("is-open"); shopToggle.setAttribute("aria-expanded", "false"); };
+  if (shopDropdown && shopToggle) {
+    shopToggle.addEventListener("click", function () { const isOpen = shopDropdown.classList.toggle("is-open"); shopToggle.setAttribute("aria-expanded", String(isOpen)); });
+    document.addEventListener("click", function (event) { if (!shopDropdown.contains(event.target)) closeShopDropdown(); });
+    document.addEventListener("keydown", function (event) { if (event.key === "Escape") { closeShopDropdown(); if (shopDropdown.contains(document.activeElement)) shopToggle.focus(); } });
+    document.querySelector(".mobile-nav-toggle")?.addEventListener("click", function () { if (this.getAttribute("aria-expanded") === "false") closeShopDropdown(); });
+  }
   /* =======================================================
      Cart Drawer
      ======================================================= */
@@ -1111,7 +1121,7 @@ if (checkoutSubmit) {
         "button";
 
       decreaseButton.textContent =
-        "−";
+        "âˆ’";
 
       decreaseButton.setAttribute(
         "aria-label",
