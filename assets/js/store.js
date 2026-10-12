@@ -1,4 +1,4 @@
-﻿document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", function () {
 
   const CART_STORAGE_KEY = "jekyllCommerceCart";
   const MAX_QUANTITY =
@@ -214,6 +214,7 @@ if (checkoutSubmit) {
   const shopToggle = shopDropdown?.querySelector(".nav-dropdown__toggle");
   const closeShopDropdown = function () { if (!shopDropdown || !shopToggle) return; shopDropdown.classList.remove("is-open"); shopToggle.setAttribute("aria-expanded", "false"); };
   if (shopDropdown && shopToggle) {
+    shopDropdown.querySelector(".nav-dropdown__heading > a")?.addEventListener("click", function (event) { if (window.matchMedia("(max-width: 900px)").matches) { event.preventDefault(); const isOpen = shopDropdown.classList.toggle("is-open"); shopToggle.setAttribute("aria-expanded", String(isOpen)); } });
     shopToggle.addEventListener("click", function () { const isOpen = shopDropdown.classList.toggle("is-open"); shopToggle.setAttribute("aria-expanded", String(isOpen)); });
     document.addEventListener("click", function (event) { if (!shopDropdown.contains(event.target)) closeShopDropdown(); });
     document.addEventListener("keydown", function (event) { if (event.key === "Escape") { closeShopDropdown(); if (shopDropdown.contains(document.activeElement)) shopToggle.focus(); } });
