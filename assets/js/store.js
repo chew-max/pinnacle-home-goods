@@ -1122,7 +1122,7 @@ if (checkoutSubmit) {
         "button";
 
       decreaseButton.textContent =
-        "âˆ’";
+        "\u2212";
 
       decreaseButton.setAttribute(
         "aria-label",
