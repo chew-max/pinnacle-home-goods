@@ -12,8 +12,7 @@ featured: false
 badge: "Honey Do Collection"
 
 collections:
-  - honey-do
-  - hats
+
 
 
 image: /assets/images/products/honey-do-hat-001/front.jpg
