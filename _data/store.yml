@@ -75,6 +75,11 @@ collections:
     image: "/assets/images/home/hero.png"
 
 
+  - handle: accessories
+    title: "Accessories"
+    description: "Customer favorites from across the collection."
+    image: "/assets/images/home/hero.png"
+    
   - handle: best-sellers
     title: "Best Sellers"
     description: "Customer favorites from across the collection."
