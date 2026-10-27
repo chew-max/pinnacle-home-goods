@@ -50,3 +50,4 @@ description: >
 seo_description: >
   Honey-Do Hero patch Apron,
   available in multiple colors and sizes from Pinnacle Home Goods.
+---
