@@ -15,15 +15,15 @@ collections:
   - accessories
   - best-sellers
 
-image: /assets/images/products/honey-do-notebook-001/context.jpg
+image: /assets/images/products/honey-do-notebook-001/orange-front.jpg
 
 images:
-  - /assets/images/products/honey-do-notebook-001/front.jpg
-  - /assets/images/products/honey-do-notebook-001/back.jpg
-  - /assets/images/products/honey-do-notebook-001/bottom.jpg
-  - /assets/images/products/honey-do-notebook-001/left.jpg
-  - /assets/images/products/honey-do-notebook-001/front-can.jpg
-  - /assets/images/products/honey-do-notebook-001/back-can.jpg
+  - /assets/images/products/honey-do-notebook-001/orange-back.jpg
+  - /assets/images/products/honey-do-notebook-001/black-front.jpg
+  - /assets/images/products/honey-do-notebook-001/red-front.jpg
+  - /assets/images/products/honey-do-notebook-001/yellow-front.jpg
+  - /assets/images/products/honey-do-notebook-001/green-front.jpg
+
 
 
 
