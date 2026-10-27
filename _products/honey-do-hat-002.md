@@ -18,6 +18,7 @@ collections:
 image: /assets/images/products/honey-do-hat-002/white-front.jpg
 
 images:
+  - /assets/images/products/honey-do-hat-002/white-front.jpg
   - /assets/images/products/honey-do-hat-002/black-khaki-front.jpg
   - /assets/images/products/honey-do-hat-002/khaki-black-front.jpg
   - /assets/images/products/honey-do-hat-002/khaki-green-front.jpg
