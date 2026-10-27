@@ -18,6 +18,7 @@ collections:
 image: /assets/images/products/honey-do-mat-001/front.jpg
 
 images:
+  - /assets/images/products/honey-do-mat-001/front.jpg
   - /assets/images/products/honey-do-mat-001/back.jpg
   - /assets/images/products/honey-do-mat-001/context.jpg
   - /assets/images/products/honey-do-mat-001/close.jpg
