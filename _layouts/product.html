@@ -135,7 +135,7 @@ layout: default
                   type="button"
                   class="variant-button product-option-value"
                   data-option="{{ option_name }}"
-                  data-value="{{ option_value }}"
+                  data-value="{{ option_value | escape }}"
                 >
                   {{ option_value }}
                 </button>
