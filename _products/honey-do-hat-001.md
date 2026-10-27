@@ -1,4 +1,5 @@
 ---
+published: false
 layout: product
 
 title: 'Honey-Do Hero patch Snapback | Trucker Cap Handyman Repair Theme'
@@ -33,9 +34,9 @@ short_description: >
   the household expert on everything.
 
 description: >
-  A rugged, everyday trucker cap with vintage workwear energy — lightweight mesh back, 
+  A rugged, everyday trucker cap with vintage workwear energy â€” lightweight mesh back, 
   structured front, and a curved visor that keeps the sun out while adding character. 
-  The embroidered patch reads “HONEY-DO HERO” with small tool icons, giving it a tongue-in-cheek, 
+  The embroidered patch reads â€œHONEY-DO HEROâ€ with small tool icons, giving it a tongue-in-cheek, 
   handyman vibe that wears well on job sites, weekend projects, and casual outings. 
   The mid-profile crown keeps the silhouette balanced, and the breathable polyester mesh back keeps you cool during yard work or afternoon errands. 
   Snap it to fit, wear it while you tackle the to-do list, and let the patch do the talking.
