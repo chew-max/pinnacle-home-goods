@@ -26,8 +26,10 @@ title: Shop
     <div class="product-grid">
 
       {% for product in site.products %}
+        {% unless product.published == false %}
 
         {% include product-card.html product=product %}
+        {% endunless %}
 
       {% endfor %}
 
