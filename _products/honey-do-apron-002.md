@@ -1,7 +1,7 @@
 ---
 layout: product
 
-title: 'Homey Hero Graphic Apron | Heavy Twill Apron'
+title: 'Honey Hero Graphic Apron | Heavy Twill Apron'
 slug: honey-do-apron-002
 
 product_id: "HDA-002"
