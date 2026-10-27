@@ -6,7 +6,6 @@ slug: honey-do-apron-002
 
 product_id: "HDA-002"
 
-
 featured: false
 badge: "Honey Do Collection"
 
