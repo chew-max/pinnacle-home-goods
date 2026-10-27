@@ -15,12 +15,12 @@ collections:
   - accessories
   - best-sellers
 
-image: /assets/images/products/honey-do-hat-001/front.jpg
+image: /assets/images/products/honey-do-mat-001/front.jpg
 
 images:
-  - /assets/images/products/honey-do-hat-001/back.jpg
-  - /assets/images/products/honey-do-hat-001/context.jpg
-  - /assets/images/products/honey-do-hat-001/close.jpg
+  - /assets/images/products/honey-do-mat-001/back.jpg
+  - /assets/images/products/honey-do-mat-001/context.jpg
+  - /assets/images/products/honey-do-mat-001/close.jpg
 
 
 
