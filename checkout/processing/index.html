@@ -1,0 +1,85 @@
+---
+layout: default
+title: Payment Processing
+---
+
+<style>
+  .checkout-processing { min-height: 70vh; padding: 96px 24px 120px; background: #fff; }
+  .checkout-processing__inner { width: 100%; max-width: 760px; margin: 0 auto; text-align: center; }
+  .checkout-processing__icon { display: flex; align-items: center; justify-content: center; width: 52px; height: 52px; margin: 0 auto 28px; border: 2px solid #111; border-radius: 50%; color: #111; font-size: 24px; font-weight: 600; }
+  .checkout-processing__eyebrow { margin: 0 0 16px; font-size: 13px; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; }
+  .checkout-processing__title { margin: 0; font-size: clamp(42px, 6vw, 68px); font-weight: 500; line-height: 1.05; letter-spacing: -.04em; }
+  .checkout-processing__lead { max-width: 560px; margin: 24px auto 0; color: #555; font-size: 18px; line-height: 1.7; }
+  .checkout-processing__reference { display: none; margin: 40px auto 0; padding: 22px 0; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; }
+  .checkout-processing__reference-label { display: block; margin-bottom: 8px; color: #666; font-size: 12px; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; }
+  .checkout-processing__reference-value { font-size: 17px; font-weight: 600; letter-spacing: .04em; word-break: break-word; }
+  .checkout-processing__next { margin-top: 64px; text-align: left; }
+  .checkout-processing__next-heading { margin: 0 0 28px; font-size: 13px; font-weight: 700; letter-spacing: .18em; text-align: center; text-transform: uppercase; }
+  .checkout-processing__steps { border-top: 1px solid #ddd; }
+  .checkout-processing__step { display: grid; grid-template-columns: 52px 1fr; gap: 20px; padding: 26px 0; border-bottom: 1px solid #ddd; }
+  .checkout-processing__step-number { color: #777; font-size: 13px; font-weight: 700; letter-spacing: .1em; }
+  .checkout-processing__step-content strong { display: block; margin-bottom: 6px; color: #111; font-size: 17px; font-weight: 600; }
+  .checkout-processing__step-content p { margin: 0; color: #666; font-size: 15px; line-height: 1.6; }
+  .checkout-processing__notice { max-width: 560px; margin: 36px auto 0; color: #666; font-size: 14px; line-height: 1.7; }
+  .checkout-processing__actions { display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 20px; margin-top: 42px; }
+  .checkout-processing__button { box-sizing: border-box; text-decoration: none; text-transform: uppercase; font-size: 13px; font-weight: 700; letter-spacing: .08em; }
+  .checkout-processing__button--primary { display: inline-flex; align-items: center; justify-content: center; min-width: 250px; min-height: 58px; padding: 16px 28px; background: #111; border: 1px solid #111; color: #fff !important; }
+  .checkout-processing__button--primary:hover { background: #fff; color: #111 !important; text-decoration: none; }
+  .checkout-processing__button--secondary { display: inline-block; padding: 4px 0; border-bottom: 1px solid #111; color: #111 !important; }
+  .checkout-processing__button--secondary:hover { opacity: .6; text-decoration: none; }
+  @media (max-width: 600px) { .checkout-processing { padding: 64px 20px 80px; } .checkout-processing__title { font-size: 42px; } .checkout-processing__lead { font-size: 16px; } .checkout-processing__next { margin-top: 48px; } .checkout-processing__step { grid-template-columns: 40px 1fr; gap: 14px; } .checkout-processing__button--primary { width: 100%; min-width: 0; } }
+</style>
+
+<section class="checkout-processing">
+  <div class="checkout-processing__inner">
+    <div class="checkout-processing__icon" aria-hidden="true">…</div>
+    <p class="checkout-processing__eyebrow">Payment Verification</p>
+    <h1 class="checkout-processing__title">We're confirming your payment.</h1>
+    <p class="checkout-processing__lead">Your payment is being verified. Please don't submit another payment while we confirm your order.</p>
+
+    <div id="order-reference" class="checkout-processing__reference">
+      <span class="checkout-processing__reference-label">Order Reference</span>
+      <div id="order-reference-value" class="checkout-processing__reference-value"></div>
+    </div>
+
+    <div class="checkout-processing__next">
+      <h2 class="checkout-processing__next-heading">What Happens Next</h2>
+      <div class="checkout-processing__steps">
+        <div class="checkout-processing__step"><div class="checkout-processing__step-number">01</div><div class="checkout-processing__step-content"><strong>Payment verification</strong><p>We're checking the final payment result with our payment provider.</p></div></div>
+        <div class="checkout-processing__step"><div class="checkout-processing__step-number">02</div><div class="checkout-processing__step-content"><strong>Order confirmation</strong><p>Once payment is confirmed, your order will be eligible for processing and you'll receive a confirmation email.</p></div></div>
+        <div class="checkout-processing__step"><div class="checkout-processing__step-number">03</div><div class="checkout-processing__step-content"><strong>Check your status</strong><p>Use the private order-status link below, if available, to check for updates.</p></div></div>
+      </div>
+    </div>
+
+    <p class="checkout-processing__notice">Your cart has been preserved. If verification takes longer than expected, check your order status before attempting another checkout.</p>
+
+    <div class="checkout-processing__actions">
+      <a id="view-order-status" class="checkout-processing__button checkout-processing__button--primary" href="{{ '/order-status/' | relative_url }}" hidden>View Order Status</a>
+      <a class="checkout-processing__button checkout-processing__button--secondary" href="{{ '/' | relative_url }}">Return Home</a>
+    </div>
+  </div>
+</section>
+
+<script>
+(function () {
+  "use strict";
+  // Do not clear the cart while payment remains unverified.
+  const params = new URLSearchParams(window.location.search);
+  const orderReference = params.get("order");
+  const token = params.get("token");
+
+  if (orderReference) {
+    document.getElementById("order-reference-value").textContent = orderReference;
+    document.getElementById("order-reference").style.display = "block";
+  }
+
+  if (token) {
+    // The token is a private capability credential; never display it.
+    const statusUrl = new URL("{{ '/order-status/' | relative_url }}", window.location.origin);
+    statusUrl.searchParams.set("token", token);
+    const statusButton = document.getElementById("view-order-status");
+    statusButton.href = statusUrl.toString();
+    statusButton.hidden = false;
+  }
+})();
+</script>

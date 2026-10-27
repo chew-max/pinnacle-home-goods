@@ -20702,5 +20702,593 @@
         "available": true
       }
     ]
+  },
+  "HDN-001": {
+    "product_id": "HDN-001",
+    "name": "The Honey Do Hero Professional Amateur Hardcover Bound Notebook",
+    "price": 24.99,
+    "price_cents": 2499,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "Black",
+        "Lime",
+        "Orange",
+        "Red",
+        "Turquoise"
+      ],
+      "size": [
+        "5.5\" x 8.5\""
+      ]
+    },
+    "variant_index": {
+      "Black||5.5\" x 8.5\"": {
+        "sku": "HDN-001-BLACK-5-5-X-8-5",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Black",
+          "size": "5.5\" x 8.5\""
+        },
+        "available": true
+      },
+      "Lime||5.5\" x 8.5\"": {
+        "sku": "HDN-001-LIME-5-5-X-8-5",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Lime",
+          "size": "5.5\" x 8.5\""
+        },
+        "available": true
+      },
+      "Orange||5.5\" x 8.5\"": {
+        "sku": "HDN-001-ORANGE-5-5-X-8-5",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Orange",
+          "size": "5.5\" x 8.5\""
+        },
+        "available": true
+      },
+      "Red||5.5\" x 8.5\"": {
+        "sku": "HDN-001-RED-5-5-X-8-5",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Red",
+          "size": "5.5\" x 8.5\""
+        },
+        "available": true
+      },
+      "Turquoise||5.5\" x 8.5\"": {
+        "sku": "HDN-001-TURQUOISE-5-5-X-8-5",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Turquoise",
+          "size": "5.5\" x 8.5\""
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDN-001-BLACK-5-5-X-8-5",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Black",
+          "size": "5.5\" x 8.5\""
+        },
+        "available": true
+      },
+      {
+        "sku": "HDN-001-LIME-5-5-X-8-5",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Lime",
+          "size": "5.5\" x 8.5\""
+        },
+        "available": true
+      },
+      {
+        "sku": "HDN-001-ORANGE-5-5-X-8-5",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Orange",
+          "size": "5.5\" x 8.5\""
+        },
+        "available": true
+      },
+      {
+        "sku": "HDN-001-RED-5-5-X-8-5",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Red",
+          "size": "5.5\" x 8.5\""
+        },
+        "available": true
+      },
+      {
+        "sku": "HDN-001-TURQUOISE-5-5-X-8-5",
+        "price": 24.99,
+        "price_cents": 2499,
+        "options": {
+          "color": "Turquoise",
+          "size": "5.5\" x 8.5\""
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDT-002": {
+    "product_id": "HDT-002",
+    "name": "Honey-Do-Hero Professional Amateur Baseball Water Bottle",
+    "price": 39.99,
+    "price_cents": 3999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "12oz",
+        "18oz",
+        "32oz"
+      ],
+      "size": [
+        "White"
+      ]
+    },
+    "variant_index": {
+      "12oz||White": {
+        "sku": "HDT-002-12OZ-WHITE",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "12oz",
+          "size": "White"
+        },
+        "available": true
+      },
+      "18oz||White": {
+        "sku": "HDT-002-18OZ-WHITE",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "18oz",
+          "size": "White"
+        },
+        "available": true
+      },
+      "32oz||White": {
+        "sku": "HDT-002-32OZ-WHITE",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "32oz",
+          "size": "White"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDT-002-12OZ-WHITE",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "12oz",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDT-002-18OZ-WHITE",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "18oz",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDT-002-32OZ-WHITE",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "32oz",
+          "size": "White"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDT-003": {
+    "product_id": "HDT-003",
+    "name": "Honey-Do Hero and Project Fuel Can Cooler",
+    "price": 9.99,
+    "price_cents": 999,
+    "option_names": [
+      "size"
+    ],
+    "option_values": {
+      "size": [
+        "Regular Can",
+        "Slim Can"
+      ]
+    },
+    "variant_index": {
+      "Regular Can": {
+        "sku": "HDT-003-REGULAR-CAN",
+        "price": 9.99,
+        "price_cents": 999,
+        "options": {
+          "size": "Regular Can"
+        },
+        "available": true
+      },
+      "Slim Can": {
+        "sku": "HDT-003-SLIM-CAN",
+        "price": 9.99,
+        "price_cents": 999,
+        "options": {
+          "size": "Slim Can"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDT-003-REGULAR-CAN",
+        "price": 9.99,
+        "price_cents": 999,
+        "options": {
+          "size": "Regular Can"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDT-003-SLIM-CAN",
+        "price": 9.99,
+        "price_cents": 999,
+        "options": {
+          "size": "Slim Can"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDMT-001": {
+    "product_id": "HDMT-001",
+    "name": "Honey-Do Hero Home Repair Floor Mat | Same House Different Mission",
+    "price": 44.99,
+    "price_cents": 4499,
+    "option_names": [
+      "size"
+    ],
+    "option_values": {
+      "size": [
+        "18\" × 24\"",
+        "18\" × 27\""
+      ]
+    },
+    "variant_index": {
+      "18\" × 24\"": {
+        "sku": "HDMT-001-18-24",
+        "price": 44.99,
+        "price_cents": 4499,
+        "options": {
+          "size": "18\" × 24\""
+        },
+        "available": true
+      },
+      "18\" × 27\"": {
+        "sku": "HDMT-001-18-27",
+        "price": 44.99,
+        "price_cents": 4499,
+        "options": {
+          "size": "18\" × 27\""
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDMT-001-18-24",
+        "price": 44.99,
+        "price_cents": 4499,
+        "options": {
+          "size": "18\" × 24\""
+        },
+        "available": true
+      },
+      {
+        "sku": "HDMT-001-18-27",
+        "price": 44.99,
+        "price_cents": 4499,
+        "options": {
+          "size": "18\" × 27\""
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDA-001": {
+    "product_id": "HDA-001",
+    "name": "Homey Hero Graphic Apron | Heavy Twill Bib Apron",
+    "price": 44.99,
+    "price_cents": 4499,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "Sahara",
+        "White"
+      ],
+      "size": [
+        "OSFA"
+      ]
+    },
+    "variant_index": {
+      "Sahara||OSFA": {
+        "sku": "HDA-001-SAHARA-OSFA",
+        "price": 44.99,
+        "price_cents": 4499,
+        "options": {
+          "color": "Sahara",
+          "size": "OSFA"
+        },
+        "available": true
+      },
+      "White||OSFA": {
+        "sku": "HDA-001-WHITE-OSFA",
+        "price": 44.99,
+        "price_cents": 4499,
+        "options": {
+          "color": "White",
+          "size": "OSFA"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDA-001-SAHARA-OSFA",
+        "price": 44.99,
+        "price_cents": 4499,
+        "options": {
+          "color": "Sahara",
+          "size": "OSFA"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDA-001-WHITE-OSFA",
+        "price": 44.99,
+        "price_cents": 4499,
+        "options": {
+          "color": "White",
+          "size": "OSFA"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDA-002": {
+    "product_id": "HDA-002",
+    "name": "Homey Hero Graphic Apron | Heavy Twill Bib Apron",
+    "price": 44.99,
+    "price_cents": 4499,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "Sahara",
+        "White"
+      ],
+      "size": [
+        "OSFA"
+      ]
+    },
+    "variant_index": {
+      "Sahara||OSFA": {
+        "sku": "HDA-002-SAHARA-OSFA",
+        "price": 44.99,
+        "price_cents": 4499,
+        "options": {
+          "color": "Sahara",
+          "size": "OSFA"
+        },
+        "available": true
+      },
+      "White||OSFA": {
+        "sku": "HDA-002-WHITE-OSFA",
+        "price": 44.99,
+        "price_cents": 4499,
+        "options": {
+          "color": "White",
+          "size": "OSFA"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDA-002-SAHARA-OSFA",
+        "price": 44.99,
+        "price_cents": 4499,
+        "options": {
+          "color": "Sahara",
+          "size": "OSFA"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDA-002-WHITE-OSFA",
+        "price": 44.99,
+        "price_cents": 4499,
+        "options": {
+          "color": "White",
+          "size": "OSFA"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDHT-002": {
+    "product_id": "HDHT-002",
+    "name": "Honey-Do Hero Leather Patch Baseball Cap",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "color",
+      "secondaryColor",
+      "patchColor",
+      "patchShape",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "Black",
+        "Khaki"
+      ],
+      "secondaryColor": [
+        "White",
+        "Natural",
+        "Black",
+        "Dark Green"
+      ],
+      "patchColor": [
+        "Light Brown patch"
+      ],
+      "patchShape": [
+        "Rectangle"
+      ],
+      "size": [
+        "One size"
+      ]
+    },
+    "variant_index": {
+      "Black||White||Light Brown patch||Rectangle||One size": {
+        "sku": "HDHT-002-BLACK-WHITE-LIGHT-BROWN-PATCH-RECTANGLE-ONE-SIZE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "secondaryColor": "White",
+          "patchColor": "Light Brown patch",
+          "patchShape": "Rectangle",
+          "size": "One size"
+        },
+        "available": true
+      },
+      "Black||Natural||Light Brown patch||Rectangle||One size": {
+        "sku": "HDHT-002-BLACK-NATURAL-LIGHT-BROWN-PATCH-RECTANGLE-ONE-SIZE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "secondaryColor": "Natural",
+          "patchColor": "Light Brown patch",
+          "patchShape": "Rectangle",
+          "size": "One size"
+        },
+        "available": true
+      },
+      "Khaki||Black||Light Brown patch||Rectangle||One size": {
+        "sku": "HDHT-002-KHAKI-BLACK-LIGHT-BROWN-PATCH-RECTANGLE-ONE-SIZE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Khaki",
+          "secondaryColor": "Black",
+          "patchColor": "Light Brown patch",
+          "patchShape": "Rectangle",
+          "size": "One size"
+        },
+        "available": true
+      },
+      "Khaki||Dark Green||Light Brown patch||Rectangle||One size": {
+        "sku": "HDHT-002-KHAKI-DARK-GREEN-LIGHT-BROWN-PATCH-RECTANGLE-ONE-SIZE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Khaki",
+          "secondaryColor": "Dark Green",
+          "patchColor": "Light Brown patch",
+          "patchShape": "Rectangle",
+          "size": "One size"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDHT-002-BLACK-WHITE-LIGHT-BROWN-PATCH-RECTANGLE-ONE-SIZE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "secondaryColor": "White",
+          "patchColor": "Light Brown patch",
+          "patchShape": "Rectangle",
+          "size": "One size"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDHT-002-BLACK-NATURAL-LIGHT-BROWN-PATCH-RECTANGLE-ONE-SIZE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Black",
+          "secondaryColor": "Natural",
+          "patchColor": "Light Brown patch",
+          "patchShape": "Rectangle",
+          "size": "One size"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDHT-002-KHAKI-BLACK-LIGHT-BROWN-PATCH-RECTANGLE-ONE-SIZE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Khaki",
+          "secondaryColor": "Black",
+          "patchColor": "Light Brown patch",
+          "patchShape": "Rectangle",
+          "size": "One size"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDHT-002-KHAKI-DARK-GREEN-LIGHT-BROWN-PATCH-RECTANGLE-ONE-SIZE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Khaki",
+          "secondaryColor": "Dark Green",
+          "patchColor": "Light Brown patch",
+          "patchShape": "Rectangle",
+          "size": "One size"
+        },
+        "available": true
+      }
+    ]
   }
 }
