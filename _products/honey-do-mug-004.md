@@ -21,9 +21,7 @@ images:
   - /assets/images/products/honey-do-mug-004/white-front.jpg
   - /assets/images/products/honey-do-mug-004/white-back.jpg
   - /assets/images/products/honey-do-mug-004/white-left.jpg
-  - /assets/images/products/honey-do-mug-004/black-front.jpg
-  - /assets/images/products/honey-do-mug-004/black-back.jpg
-  - /assets/images/products/honey-do-mug-004/black-right.jpg
+
 
 
 

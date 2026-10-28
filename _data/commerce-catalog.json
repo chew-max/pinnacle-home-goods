@@ -12890,7 +12890,7 @@
   },
   "HDM-002": {
     "product_id": "HDM-002",
-    "name": "The Honey-Do Hero Professional Amateur Mug | Handyman Comic Design 1",
+    "name": "Honey-Do Hero Mug | Professional Amateur Ceramic Coffee Mug",
     "price": 19.99,
     "price_cents": 1999,
     "option_names": [
@@ -12945,7 +12945,7 @@
   },
   "HDM-003": {
     "product_id": "HDM-003",
-    "name": "Honey-Do Hero Mug | The Overthinker Checklist Ceramic Coffee Mug 3",
+    "name": "The Honey-Do Hero Mug 3 | The Overthinker Checklist Ceramic Coffee Cup",
     "price": 19.99,
     "price_cents": 1999,
     "option_names": [
@@ -21286,6 +21286,567 @@
           "patchColor": "Light Brown patch",
           "patchShape": "Rectangle",
           "size": "One size"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDM-005": {
+    "product_id": "HDM-005",
+    "name": "Honey-Do Hero Mug 3 | Professional Amateur Ceramic Coffee Mug ",
+    "price": 19.99,
+    "price_cents": 1999,
+    "option_names": [
+      "size"
+    ],
+    "option_values": {
+      "size": [
+        "11oz",
+        "15oz"
+      ]
+    },
+    "variant_index": {
+      "11oz": {
+        "sku": "HDM-005-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      },
+      "15oz": {
+        "sku": "HDM-005-15OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "15oz"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDM-005-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDM-005-15OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "15oz"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDM-006": {
+    "product_id": "HDM-006",
+    "name": "Honey-Do Hero Mug 2 | Professional Amateur Ceramic Coffee Mug ",
+    "price": 19.99,
+    "price_cents": 1999,
+    "option_names": [
+      "size"
+    ],
+    "option_values": {
+      "size": [
+        "11oz",
+        "15oz"
+      ]
+    },
+    "variant_index": {
+      "11oz": {
+        "sku": "HDM-006-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      },
+      "15oz": {
+        "sku": "HDM-006-15OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "15oz"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDM-006-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDM-006-15OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "15oz"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDM-007": {
+    "product_id": "HDM-007",
+    "name": "Honey-Do Hero Mug | Professional Amateur Ceramic Coffee Mug ",
+    "price": 19.99,
+    "price_cents": 1999,
+    "option_names": [
+      "size"
+    ],
+    "option_values": {
+      "size": [
+        "11oz",
+        "15oz"
+      ]
+    },
+    "variant_index": {
+      "11oz": {
+        "sku": "HDM-007-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      },
+      "15oz": {
+        "sku": "HDM-007-15OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "15oz"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDM-007-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDM-007-15OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "15oz"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDM-008": {
+    "product_id": "HDM-008",
+    "name": "Honey-Do Hero Mug 2 | The Overthinker Checklist Ceramic Coffee Mug ",
+    "price": 19.99,
+    "price_cents": 1999,
+    "option_names": [
+      "size"
+    ],
+    "option_values": {
+      "size": [
+        "11oz",
+        "15oz"
+      ]
+    },
+    "variant_index": {
+      "11oz": {
+        "sku": "HDM-008-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      },
+      "15oz": {
+        "sku": "HDM-008-15OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "15oz"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDM-008-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDM-008-15OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "15oz"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDM-009": {
+    "product_id": "HDM-009",
+    "name": "Honey-Do Hero Mug | The Overthinker Checklist Ceramic Coffee Mug ",
+    "price": 19.99,
+    "price_cents": 1999,
+    "option_names": [
+      "size"
+    ],
+    "option_values": {
+      "size": [
+        "11oz",
+        "15oz"
+      ]
+    },
+    "variant_index": {
+      "11oz": {
+        "sku": "HDM-009-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      },
+      "15oz": {
+        "sku": "HDM-009-15OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "15oz"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDM-009-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDM-009-15OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "15oz"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDM-010": {
+    "product_id": "HDM-010",
+    "name": "The Honey-Do Hero Professional Amateur Mug 3 | It Should Only Take 20 Minutes",
+    "price": 19.99,
+    "price_cents": 1999,
+    "option_names": [
+      "size"
+    ],
+    "option_values": {
+      "size": [
+        "11oz",
+        "15oz"
+      ]
+    },
+    "variant_index": {
+      "11oz": {
+        "sku": "HDM-010-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      },
+      "15oz": {
+        "sku": "HDM-010-15OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "15oz"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDM-010-11OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDM-010-15OZ",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "size": "15oz"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDA-003": {
+    "product_id": "HDA-003",
+    "name": "Yeah, I Smoke Grilling Apron",
+    "price": 39.99,
+    "price_cents": 3999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "Rich Red",
+        "True Royal",
+        "White",
+        "Brown",
+        "Deep Black"
+      ],
+      "size": [
+        "OSFA"
+      ]
+    },
+    "variant_index": {
+      "Rich Red||OSFA": {
+        "sku": "HDA-003-RICH-RED-OSFA",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "Rich Red",
+          "size": "OSFA"
+        },
+        "available": true
+      },
+      "True Royal||OSFA": {
+        "sku": "HDA-003-TRUE-ROYAL-OSFA",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "True Royal",
+          "size": "OSFA"
+        },
+        "available": true
+      },
+      "White||OSFA": {
+        "sku": "HDA-003-WHITE-OSFA",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "White",
+          "size": "OSFA"
+        },
+        "available": true
+      },
+      "Brown||OSFA": {
+        "sku": "HDA-003-BROWN-OSFA",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "Brown",
+          "size": "OSFA"
+        },
+        "available": true
+      },
+      "Deep Black||OSFA": {
+        "sku": "HDA-003-DEEP-BLACK-OSFA",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "Deep Black",
+          "size": "OSFA"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDA-003-RICH-RED-OSFA",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "Rich Red",
+          "size": "OSFA"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDA-003-TRUE-ROYAL-OSFA",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "True Royal",
+          "size": "OSFA"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDA-003-WHITE-OSFA",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "White",
+          "size": "OSFA"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDA-003-BROWN-OSFA",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "Brown",
+          "size": "OSFA"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDA-003-DEEP-BLACK-OSFA",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "Deep Black",
+          "size": "OSFA"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDA-004": {
+    "product_id": "HDA-004",
+    "name": "The Smoke Club BBQ Logo Apron",
+    "price": 39.99,
+    "price_cents": 3999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "Rich Red",
+        "True Royal",
+        "White",
+        "Deep Black"
+      ],
+      "size": [
+        "OSFA"
+      ]
+    },
+    "variant_index": {
+      "Rich Red||OSFA": {
+        "sku": "HDA-004-RICH-RED-OSFA",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "Rich Red",
+          "size": "OSFA"
+        },
+        "available": true
+      },
+      "True Royal||OSFA": {
+        "sku": "HDA-004-TRUE-ROYAL-OSFA",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "True Royal",
+          "size": "OSFA"
+        },
+        "available": true
+      },
+      "White||OSFA": {
+        "sku": "HDA-004-WHITE-OSFA",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "White",
+          "size": "OSFA"
+        },
+        "available": true
+      },
+      "Deep Black||OSFA": {
+        "sku": "HDA-004-DEEP-BLACK-OSFA",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "Deep Black",
+          "size": "OSFA"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDA-004-RICH-RED-OSFA",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "Rich Red",
+          "size": "OSFA"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDA-004-TRUE-ROYAL-OSFA",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "True Royal",
+          "size": "OSFA"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDA-004-WHITE-OSFA",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "White",
+          "size": "OSFA"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDA-004-DEEP-BLACK-OSFA",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "Deep Black",
+          "size": "OSFA"
         },
         "available": true
       }

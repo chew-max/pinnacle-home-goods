@@ -1,3 +1,14 @@
+HDHT-002 6ae0c75f54dc290edd07eb4f Honey-Do Hero Leather Patch Baseball Cap
+
+HDA-001 6ae0c27fb7c2757e9601a31e Homey Hero Graphic Apron | Heavy Twill Bib Apron
+HDA-002 6ae0c219c031266923070ebf Homey Hero Graphic Apron | Heavy Twill Bib Apron
+
+HDMT-001 6ad8f1dd62370ee3a30e0ba3 Honey-Do Hero Home Repair Floor Mat | Same House Different Mission
+
+HDT-002 6ad8f0d67f85ecd3f8022690 Honey-Do-Hero Professional Amateur Baseball Water Bottle
+HDT-003 6ad8efa862370ee3a30e09d5 Honey-Do Hero and Project Fuel Can Cooler
+
+HDN-001 6ad8ee99339ec2c23a009331 The Honey Do Hero Professional Amateur Hardcover Bound Notebook
 
 ---------------------------------------------
 
