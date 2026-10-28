@@ -21,7 +21,6 @@ images:
   - /assets/images/products/honey-do-apron-004/white-front.jpg
   - /assets/images/products/honey-do-apron-004/red-front.jpg
   - /assets/images/products/honey-do-apron-004/black-front.jpg
-  - /assets/images/products/honey-do-apron-004/brown-front.jpg
   - /assets/images/products/honey-do-apron-004/blue-front.jpg
 
 
