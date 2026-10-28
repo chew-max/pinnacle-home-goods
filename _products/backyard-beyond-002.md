@@ -15,11 +15,10 @@ collections:
   - shirts
   - best-sellers
 
-image: /assets/images/products/backyard-beyond-apron-002/white-front.jpg
+image: /assets/images/products/backyard-beyond-002/white-front.jpg
 
 images:
-images:
-  - /assets/images/products/backyard-beyond-apron-002/white-back.jpg
+  - /assets/images/products/backyard-beyond-002/white-back.jpg
 
 
 
