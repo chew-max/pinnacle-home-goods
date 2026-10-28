@@ -1,8 +1,8 @@
 ---
 layout: product
 
-title: 'Vintage "\Yeah, I Smoke"\ T-Shirt'
-slug: backyard-beyond-apron-001
+title: 'Vintage \"Yeah, I Smoke\" T-Shirt'
+slug: backyard-beyond-001
 
 product_id: "BYB-001"
 
@@ -18,8 +18,9 @@ collections:
 image: /assets/images/products/backyard-beyond-001/white-front.jpg
 
 images:
+  - /assets/images/products/backyard-beyond-001/white-front.jpg
   - /assets/images/products/backyard-beyond-001/white-front2.jpg
-  - /assets/images/products/backyard-beyond-001/back.jpg
+  - /assets/images/products/backyard-beyond-001/white-back.jpg
 
 
 
