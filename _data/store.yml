@@ -54,7 +54,7 @@ collections:
     description: "For the projects, the punch lists, and the people who somehow became the household expert."
     image: "/assets/images/home/hero.png"
     
-  - handle: backyard-beyond
+  - handle: backyard
     title: "Backyard & Beyond Collections"
     description: "Made for Life Outside. From the backyard to wherever the weekend takes you."
     image: "/assets/images/home/hero.png"
