@@ -21851,5 +21851,278 @@
         "available": true
       }
     ]
+  },
+  "BYB-001": {
+    "product_id": "BYB-001",
+    "name": "Vintage “Yeah, I Smoke” T-Shirt",
+    "price": 19.99,
+    "price_cents": 1999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "S",
+        "XL",
+        "L",
+        "M",
+        "XS",
+        "2XL"
+      ],
+      "size": [
+        "Solid White Blend"
+      ]
+    },
+    "variant_index": {
+      "S||Solid White Blend": {
+        "sku": "BYB-001-S-SOLID-WHITE-BLEND",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "S",
+          "size": "Solid White Blend"
+        },
+        "available": true
+      },
+      "XL||Solid White Blend": {
+        "sku": "BYB-001-XL-SOLID-WHITE-BLEND",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XL",
+          "size": "Solid White Blend"
+        },
+        "available": true
+      },
+      "L||Solid White Blend": {
+        "sku": "BYB-001-L-SOLID-WHITE-BLEND",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "L",
+          "size": "Solid White Blend"
+        },
+        "available": true
+      },
+      "M||Solid White Blend": {
+        "sku": "BYB-001-M-SOLID-WHITE-BLEND",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "M",
+          "size": "Solid White Blend"
+        },
+        "available": true
+      },
+      "XS||Solid White Blend": {
+        "sku": "BYB-001-XS-SOLID-WHITE-BLEND",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XS",
+          "size": "Solid White Blend"
+        },
+        "available": true
+      },
+      "2XL||Solid White Blend": {
+        "sku": "BYB-001-2XL-SOLID-WHITE-BLEND",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "2XL",
+          "size": "Solid White Blend"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "BYB-001-S-SOLID-WHITE-BLEND",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "S",
+          "size": "Solid White Blend"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYB-001-XL-SOLID-WHITE-BLEND",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XL",
+          "size": "Solid White Blend"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYB-001-L-SOLID-WHITE-BLEND",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "L",
+          "size": "Solid White Blend"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYB-001-M-SOLID-WHITE-BLEND",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "M",
+          "size": "Solid White Blend"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYB-001-XS-SOLID-WHITE-BLEND",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XS",
+          "size": "Solid White Blend"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYB-001-2XL-SOLID-WHITE-BLEND",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "2XL",
+          "size": "Solid White Blend"
+        },
+        "available": true
+      }
+    ]
+  },
+  "BYB-002": {
+    "product_id": "BYB-002",
+    "name": "The Smoke Club BBQ Logo T-Shirt",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "size": [
+        "Black"
+      ]
+    },
+    "variant_index": {
+      "S||Black": {
+        "sku": "BYB-002-S-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "M||Black": {
+        "sku": "BYB-002-M-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "L||Black": {
+        "sku": "BYB-002-L-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "XL||Black": {
+        "sku": "BYB-002-XL-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Black"
+        },
+        "available": true
+      },
+      "2XL||Black": {
+        "sku": "BYB-002-2XL-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Black"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "BYB-002-S-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYB-002-M-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYB-002-L-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYB-002-XL-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Black"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYB-002-2XL-BLACK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Black"
+        },
+        "available": true
+      }
+    ]
   }
 }
