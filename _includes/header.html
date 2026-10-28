@@ -1,4 +1,4 @@
-﻿<header class="site-header">
+<header class="site-header">
   <div class="page-width site-header__inner">
 
     <a href="{{ '/' | relative_url }}" class="site-header__brand">
@@ -33,7 +33,30 @@
       aria-label="Main navigation"
     >
       <ul>
-        {% for item in site.data.navigation.main %}<li{% if item.url == "/shop/" and site.data.store.collections %} class="nav-dropdown"{% endif %}>{% if item.url == "/shop/" and site.data.store.collections %}<div class="nav-dropdown__heading"><a href="{{ item.url | relative_url }}">{{ item.title }}</a><button class="nav-dropdown__toggle" type="button" aria-expanded="false" aria-label="Toggle Shop collections"><span aria-hidden="true">&#8964;</span></button></div><ul class="nav-dropdown__menu"><li><a href="{{ "/shop/" | relative_url }}">All Products</a></li>{% for collection in site.data.store.collections %}<li><a href="{{ "/collections/" | relative_url }}?collection={{ collection.handle | url_encode }}">{{ collection.title }}</a></li>{% endfor %}</ul>{% else %}<a href="{{ item.url | relative_url }}">{{ item.title }}</a>{% endif %}</li>{% endfor %}
+{% for item in site.data.navigation.main %}
+{% if item.url == "/shop/" and site.data.store.collections %}
+<li class="nav-dropdown">
+<div class="nav-dropdown__heading"><a href="{{ item.url | relative_url }}">{{ item.title }}</a><button class="nav-dropdown__toggle" type="button" aria-expanded="false" aria-label="Toggle Shop menu"><span aria-hidden="true">&#8964;</span></button></div>
+<ul class="nav-dropdown__menu">
+<li><a href="{{ "/shop/" | relative_url }}">All Products</a></li>
+{% assign featured_collections = site.data.store.collections | where: "navigation_group", "featured" %}
+{% if featured_collections.size > 0 %}
+<li class="nav-subdropdown"><div class="nav-subdropdown__heading"><span>Collections</span><button class="nav-subdropdown__toggle" type="button" aria-expanded="false" aria-label="Toggle featured collections"><span aria-hidden="true">&#8250;</span></button></div><ul class="nav-subdropdown__menu">
+{% for collection in featured_collections %}
+<li><a href="{{ "/collections/" | relative_url }}?collection={{ collection.handle | url_encode }}">{{ collection.title }}</a></li>
+{% endfor %}
+</ul></li>
+{% endif %}
+{% for collection in site.data.store.collections %}
+{% unless collection.navigation_group == "featured" %}
+<li><a href="{{ "/collections/" | relative_url }}?collection={{ collection.handle | url_encode }}">{{ collection.title }}</a></li>
+{% endunless %}
+{% endfor %}
+</ul></li>
+{% else %}
+<li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+{% endif %}
+{% endfor %}
       </ul>
     </nav>
 

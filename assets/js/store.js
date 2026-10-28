@@ -220,6 +220,18 @@ if (checkoutSubmit) {
     document.addEventListener("keydown", function (event) { if (event.key === "Escape") { closeShopDropdown(); if (shopDropdown.contains(document.activeElement)) shopToggle.focus(); } });
     document.querySelector(".mobile-nav-toggle")?.addEventListener("click", function () { if (this.getAttribute("aria-expanded") === "false") closeShopDropdown(); });
   }
+  /* Nested Collections submenu */
+  const collectionsSubmenu = document.querySelector(".nav-subdropdown");
+  const collectionsToggle = collectionsSubmenu?.querySelector(".nav-subdropdown__toggle");
+  const closeCollectionsSubmenu = function () { if (!collectionsSubmenu || !collectionsToggle) return; collectionsSubmenu.classList.remove("is-open"); collectionsToggle.setAttribute("aria-expanded", "false"); };
+  if (collectionsSubmenu && collectionsToggle) {
+    collectionsToggle.addEventListener("click", function (event) { event.stopPropagation(); const isOpen = collectionsSubmenu.classList.toggle("is-open"); collectionsToggle.setAttribute("aria-expanded", String(isOpen)); });
+    collectionsSubmenu.querySelector(".nav-subdropdown__heading")?.addEventListener("click", function (event) { if (event.target.closest("button")) return; const isOpen = collectionsSubmenu.classList.toggle("is-open"); collectionsToggle.setAttribute("aria-expanded", String(isOpen)); });
+    document.addEventListener("click", function (event) { if (!collectionsSubmenu.contains(event.target)) closeCollectionsSubmenu(); });
+    document.addEventListener("keydown", function (event) { if (event.key === "Escape") closeCollectionsSubmenu(); });
+    shopToggle?.addEventListener("click", function () { if (!shopDropdown.classList.contains("is-open")) closeCollectionsSubmenu(); });
+  }
+
   /* =======================================================
      Cart Drawer
      ======================================================= */

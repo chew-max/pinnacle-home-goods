@@ -14,7 +14,8 @@
     All
   </a>
 
-  {% for collection in site.data.store.collections %}
+  {% assign featured_collections = site.data.store.collections | where: "navigation_group", "featured" %}
+  {% for collection in featured_collections %}
 
     <a
       href="{{ '/collections/' | relative_url }}?collection={{ collection.handle | url_encode }}"
