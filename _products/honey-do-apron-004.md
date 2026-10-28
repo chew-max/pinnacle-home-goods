@@ -15,7 +15,7 @@ collections:
   - aprons
 
 
-image: /assets/images/products/honey-do-apron-004/blue-front.jpg
+image: /assets/images/products/honey-do-apron-004/brown-front.jpg
 
 images:
   - /assets/images/products/honey-do-apron-004/white-front.jpg
