@@ -94,10 +94,10 @@ collections:
 
 homepage:
   hero:
-    eyebrow: "INTRODUCING HONEY DO HERO COLLECTION"
-    heading: "Same House. Different Mission."
-    text: "Everyday gear for the projects, personalities, and laughs that come with getting it done."
-    button_label: "Shop Honey Do Hero"
+    eyebrow: "PINNACLE HOME GOODS"
+    heading: "Home goods with personality."
+    text: "Useful, wearable, giftable, and made for everyday life."
+    button_label: "Shop All"
     button_url: "/shop/"
     image: "/assets/images/home/pinnacle-home-goods-vhs-poster.jpg"
 
