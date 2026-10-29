@@ -22124,5 +22124,83 @@
         "available": true
       }
     ]
+  },
+  "BYBM-001": {
+    "product_id": "BYBM-001",
+    "name": "The Smoke Club BBQ Smoker Insulated Coffee Mug",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "White"
+      ],
+      "size": [
+        "10oz"
+      ]
+    },
+    "variant_index": {
+      "White||10oz": {
+        "sku": "BYBM-001-WHITE-10OZ",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "10oz"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "BYBM-001-WHITE-10OZ",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "10oz"
+        },
+        "available": true
+      }
+    ]
+  },
+  "BYBM-002": {
+    "product_id": "BYBM-002",
+    "name": "Yeah, I Smoke BBQ Smoker Color Morphing Mug",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "size"
+    ],
+    "option_values": {
+      "size": [
+        "11oz"
+      ]
+    },
+    "variant_index": {
+      "11oz": {
+        "sku": "BYBM-002-11OZ",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "BYBM-002-11OZ",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "size": "11oz"
+        },
+        "available": true
+      }
+    ]
   }
 }
