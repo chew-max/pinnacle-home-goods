@@ -2,6 +2,8 @@ HDHT-002 6ae0c75f54dc290edd07eb4f Honey-Do Hero Leather Patch Baseball Cap
 
 HDA-001 6ae0c27fb7c2757e9601a31e Homey Hero Graphic Apron | Heavy Twill Bib Apron
 HDA-002 6ae0c219c031266923070ebf Homey Hero Graphic Apron | Heavy Twill Bib Apron
+HDA-003 6ae229151071ae419e04431b Yeah, I Smoke Sewing Machine Apron
+HDA-004 6ae227c0812ae794040876b0 The Smoke Club BBQ Logo Apron
 
 HDMT-001 6ad8f1dd62370ee3a30e0ba3 Honey-Do Hero Home Repair Floor Mat | Same House Different Mission
 
@@ -21,11 +23,22 @@ HDHT-001 6abd405dc5f2d04d8f0626f2 Honey-Do Hero patch Snapback | Trucker Cap, Ha
 ---------------------------------------------
 
 HDM-001 6abd3dee16469891390d83a0 Project Fuel logo Mug | Ceramic Coffee Cup, Home Renovation Tools Design
-HDM-003 6abd41cd86775717c809d172 The Honey-Do Hero Mug | The Overthinker Checklist Ceramic Coffee Cup
-
-HDM-002 6abd412c50044b1cae05bbf5 Honey-Do Hero Professional Amateur Mug | Handyman Comic Design, 11oz 15oz
+HDM-002 6abd412c50044b1cae05bbf5 Honey-Do Hero Mug | Professional Amateur Ceramic Coffee Mug 
+HDM-003 6abd41cd86775717c809d172 The Honey-Do Hero Mug 3| The Overthinker Checklist Ceramic Coffee Cup
 HDM-004 6abe8eb3390b8e603a060c5c The Honey-Do Hero Professional Amateur Mug 2 | Handyman Comic Design
+HDM-005 6ae21920764a85d2070de18c Honey-Do Hero Mug 3 | Professional Amateur Ceramic Coffee Mug
+HDM-006 6ae21812764a85d2070de0b7 Honey-Do Hero Mug 2 | Professional Amateur Ceramic Coffee Mug
+HDM-007 6ae2175115f7d0948f00c42e Honey-Do Hero Mug | Professional Amateur Ceramic Coffee Mug
+HDM-008 6ae20f8a1d931a80a40134df Honey-Do Hero Mug 2 | The Overthinker Checklist Ceramic Coffee Mug
+HDM-009 6ae20e67b80ab0ad6d0a1412 Honey-Do Hero Mug | The Overthinker Checklist Ceramic Coffee Mug
+HDM-010 6ae1ff455a0698826f0963f5 The Honey-Do Hero Professional Amateur Mug 3 | It Should Only Take 20 Minutes
+BYBM-002 6ae372777f6416a622095cc2 Yeah, I Smoke BBQ Smoker Color Morphing Mug
+BYBM-001 6ae371bb0c4a23532d0b8b6c The Smoke Club BBQ Smoker Insulated Coffee Mug
 
+
+
+BYB-001 6ae225701071ae419e044011 Vintage "Yeah, I Smoke" T-Shirt
+BYB-002 6ae223232b96f7dc820456d1 The Smoke Club BBQ Logo T-Shirt
 
 ---------------------------------------------
 HDH-028 6abe92f72b4acb172a0dd328 The Honey-Do Hero T-shirt 3 | "Hardware Hustle" Design Gray Scale Design

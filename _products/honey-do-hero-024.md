@@ -21,8 +21,8 @@ images:
   - /assets/images/products/honey-do-hero-024/white-back.jpg
   - /assets/images/products/honey-do-hero-024/black-front.jpg
   - /assets/images/products/honey-do-hero-024/black-back.jpg
-  - /assets/images/products/honey-do-hero-024/grey-front.jpg
-  - /assets/images/products/honey-do-hero-024/grey-back.jpg
+  - /assets/images/products/honey-do-hero-024/sport-grey-front.jpg
+  - /assets/images/products/honey-do-hero-024/sport-grey-back.jpg
   - /assets/images/products/honey-do-hero-024/green-front.jpg
   - /assets/images/products/honey-do-hero-024/green-back.jpg
   - /assets/images/products/honey-do-hero-024/graphite-front.jpg

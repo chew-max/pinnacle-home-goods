@@ -2,9 +2,9 @@
 layout: product
 
 title: "The Honey-Do Hero T-shirt | \"Hardware Hustle\" Design"
-slug: honey-do-hero-022
+slug: honey-do-hero-023
 
-product_id: "HDH-022"
+product_id: "HDH-023"
 
 
 featured: false
@@ -15,27 +15,27 @@ collections:
   - shirts
 
 
-image: /assets/images/products/honey-do-hero-022/white-front.jpg
+image: /assets/images/products/honey-do-hero-023/white-front.jpg
 
 images:
-  - /assets/images/products/honey-do-hero-022/white-front.jpg
-  - /assets/images/products/honey-do-hero-022/white-back.jpg
-  - /assets/images/products/honey-do-hero-022/sandstone-front.jpg
-  - /assets/images/products/honey-do-hero-022/sandstone-back.jpg
-  - /assets/images/products/honey-do-hero-022/pepper-front.jpg
-  - /assets/images/products/honey-do-hero-022/pepper-back.jpg
-  - /assets/images/products/honey-do-hero-022/paprika-front.jpg
-  - /assets/images/products/honey-do-hero-022/paprika-back.jpg
-  - /assets/images/products/honey-do-hero-022/grey-front.jpg
-  - /assets/images/products/honey-do-hero-022/grey-back.jpg
-  - /assets/images/products/honey-do-hero-022/graphite-front.jpg
-  - /assets/images/products/honey-do-hero-022/graphite-back.jpg   
-  - /assets/images/products/honey-do-hero-022/sage-front.jpg
-  - /assets/images/products/honey-do-hero-022/sage-back.jpg     
-  - /assets/images/products/honey-do-hero-022/hemp-front.jpg
-  - /assets/images/products/honey-do-hero-022/hemp-back.jpg     
-  - /assets/images/products/honey-do-hero-022/black-front.jpg
-  - /assets/images/products/honey-do-hero-022/black-back.jpg     
+  - /assets/images/products/honey-do-hero-023/white-front.jpg
+  - /assets/images/products/honey-do-hero-023/white-back.jpg
+  - /assets/images/products/honey-do-hero-023/sandstone-front.jpg
+  - /assets/images/products/honey-do-hero-023/sandstone-back.jpg
+  - /assets/images/products/honey-do-hero-023/pepper-front.jpg
+  - /assets/images/products/honey-do-hero-023/pepper-back.jpg
+  - /assets/images/products/honey-do-hero-023/paprika-front.jpg
+  - /assets/images/products/honey-do-hero-023/paprika-back.jpg
+  - /assets/images/products/honey-do-hero-023/grey-front.jpg
+  - /assets/images/products/honey-do-hero-023/grey-back.jpg
+  - /assets/images/products/honey-do-hero-023/graphite-front.jpg
+  - /assets/images/products/honey-do-hero-023/graphite-back.jpg   
+  - /assets/images/products/honey-do-hero-023/sage-front.jpg
+  - /assets/images/products/honey-do-hero-023/sage-back.jpg     
+  - /assets/images/products/honey-do-hero-023/hemp-front.jpg
+  - /assets/images/products/honey-do-hero-023/hemp-back.jpg     
+  - /assets/images/products/honey-do-hero-023/black-front.jpg
+  - /assets/images/products/honey-do-hero-023/black-back.jpg     
 
 
 
