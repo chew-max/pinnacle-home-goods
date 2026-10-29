@@ -102,17 +102,17 @@ homepage:
     image: "/assets/images/home/pinnacle-home-goods-vhs-poster.jpg"
 
   featured:
-    eyebrow: "HONEY DO HERO COLLECTIONS"
-    heading: "Featured Products"
+    eyebrow: "HONEY DO HERO COLLECTION"
+    heading: "Featured Collection"
     text: "Gear for getting it done—or at least looking like you know what you're doing."
 
   promo:
-    eyebrow: "PINNACLE HOME GOODS"
-    heading: "Home goods with personality."
-    text: "Useful, wearable, giftable, and made for everyday life."
+    eyebrow: "Backyard & Beyond — Creative Collection"
+    heading: "Join our Smoke Club"
+    text: "GOOD FOOD. GOOD SMOKE. GOOD COMPANY."
     button_label: "Shop All"
-    button_url: "/shop/"
-    image: "/assets/images/home/promo.png"
+    button_url: "/collections/?collection=backyard"
+    image: "/assets/images/home/promo2.png"
 
   benefits:
     - title: "Free Shipping"

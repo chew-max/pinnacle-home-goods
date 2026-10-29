@@ -1,7 +1,7 @@
 ---
 layout: product
 
-title: 'Vintage \"Yeah, I Smoke\" T-Shirt'
+title: 'Vintage Yeah, I Smoke T-Shirt'
 slug: backyard-beyond-001
 
 product_id: "BYB-001"
