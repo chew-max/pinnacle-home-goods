@@ -1,0 +1,56 @@
+﻿<header class="site-header">
+  <div class="page-width site-header__inner">
+
+    <a href="{{ '/' | relative_url }}" class="site-header__brand">
+	{% if site.data.store.brand.logo %}
+	  <img
+		src="{{ site.data.store.brand.logo | relative_url }}"
+		alt="{{ site.data.store.brand.name }}"
+		class="site-header__logo"
+	  >
+	{% else %}
+	  <span class="site-header__brand-name">
+		{{ site.data.store.brand.name }}
+	  </span>
+	{% endif %}
+    </a>
+
+    <button
+      class="mobile-nav-toggle"
+      type="button"
+      aria-expanded="false"
+      aria-controls="main-navigation"
+      aria-label="Toggle navigation"
+    >
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+    <nav
+      id="main-navigation"
+      class="main-navigation"
+      aria-label="Main navigation"
+    >
+      <ul>
+        {% for item in site.data.navigation.main %}<li{% if item.url == "/shop/" and site.data.store.collections %} class="nav-dropdown"{% endif %}>{% if item.url == "/shop/" and site.data.store.collections %}<div class="nav-dropdown__heading"><a href="{{ item.url | relative_url }}">{{ item.title }}</a><button class="nav-dropdown__toggle" type="button" aria-expanded="false" aria-label="Toggle Shop collections"><span aria-hidden="true">&#8964;</span></button></div><ul class="nav-dropdown__menu"><li><a href="{{ "/shop/" | relative_url }}">All Products</a></li>{% for collection in site.data.store.collections %}<li><a href="{{ "/collections/" | relative_url }}?collection={{ collection.handle | url_encode }}">{{ collection.title }}</a></li>{% endfor %}</ul>{% else %}<a href="{{ item.url | relative_url }}">{{ item.title }}</a>{% endif %}</li>{% endfor %}
+      </ul>
+    </nav>
+
+    <div class="site-header__actions">
+      <button
+		  class="header-icon-button cart-button"
+		  id="cart-button"
+		  type="button"
+		  aria-label="Shopping cart"
+		  aria-controls="cart-drawer"
+		  aria-expanded="false"
+		>
+        <span aria-hidden="true">Bag</span>
+        <span class="cart-count" id="cart-count">0</span>
+      </button>
+    </div>
+
+  </div>
+</header>
+

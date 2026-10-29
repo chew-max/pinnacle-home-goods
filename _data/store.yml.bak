@@ -1,0 +1,123 @@
+brand:
+  name: "Pinnacle Home Goods"
+  tagline: "Home goods with personality."
+  logo: "/assets/images/logo.png"
+
+theme:
+  primary: "#111D27"
+  secondary: "#5F6870"
+  accent: "#B88732"
+  background: "#FFFFFF"
+
+store:
+  currency: "USD"
+  currency_symbol: "$"
+
+announcement:
+  enabled: true
+  text: "Free shipping on orders over $50"
+
+contact:
+  email: "info@mthpinnaclellc.com"
+
+social:
+  instagram: ""
+  facebook: ""
+  tiktok: ""
+
+commerce:
+  provider: "global-payments"
+  checkout_endpoint: "https://pinnacle-home-goods-api.mth-commerce.workers.dev/api/checkout"
+  order_status_endpoint: "https://pinnacle-home-goods-api.mth-commerce.workers.dev/api/order-status"
+  max_quantity: 10
+
+policies:
+  - handle: "shipping"
+    title: "Shipping"
+    enabled: true
+
+  - handle: "returns"
+    title: "Returns & Refunds"
+    enabled: true
+
+  - handle: "privacy"
+    title: "Privacy Policy"
+    enabled: true
+
+  - handle: "terms"
+    title: "Terms of Service"
+    enabled: true
+
+collections:
+  - handle: honey-do
+    title: "Honey-Do Hero Collections"
+    description: "For the projects, the punch lists, and the people who somehow became the household expert."
+    image: "/assets/images/home/hero.png"
+    
+  - handle: backyard
+    title: "Backyard & Beyond Collections"
+    description: "Made for Life Outside. From the backyard to wherever the weekend takes you."
+    image: "/assets/images/home/hero.png"
+  
+  - handle: shirts
+    title: "Shirts"
+    description: "Everyday tees and apparel."
+    image: "/assets/images/home/hero.png"
+  
+  - handle: mugs
+    title: "Mugs"
+    description: "Everyday equipment for your Honey-do list."
+    image: "/assets/images/home/hero.png"
+  
+  - handle: hats
+    title: "Hats"
+    description: "Everyday equipment for your Honey-do list."
+    image: "/assets/images/home/hero.png"
+    
+  - handle: tumblers
+    title: "Tumblers"
+    description: "Everyday equipment for your Honey-do list."
+    image: "/assets/images/home/hero.png"
+
+
+  - handle: accessories
+    title: "Accessories"
+    description: "Customer favorites from across the collection."
+    image: "/assets/images/home/hero.png"
+    
+  - handle: best-sellers
+    title: "Best Sellers"
+    description: "Customer favorites from across the collection."
+    image: "/assets/images/home/hero.png"
+
+homepage:
+  hero:
+    eyebrow: "INTRODUCING HONEY DO HERO COLLECTION"
+    heading: "Same House. Different Mission."
+    text: "Everyday gear for the projects, personalities, and laughs that come with getting it done."
+    button_label: "Shop Honey Do Hero"
+    button_url: "/shop/"
+    image: "/assets/images/home/hero.png"
+
+  featured:
+    eyebrow: "HONEY DO HERO COLLECTIONS"
+    heading: "Featured Products"
+    text: "Gear for getting it done—or at least looking like you know what you're doing."
+
+  promo:
+    eyebrow: "PINNACLE HOME GOODS"
+    heading: "Home goods with personality."
+    text: "Useful, wearable, giftable, and made for everyday life."
+    button_label: "Shop All"
+    button_url: "/shop/"
+    image: "/assets/images/home/promo.png"
+
+  benefits:
+    - title: "Free Shipping"
+      text: "On orders over $50"
+    - title: "Secure Checkout"
+      text: "Safe and protected payments"
+    - title: "Made to Order"
+      text: "Produced just for you"
+    - title: "Customer Support"
+      text: "We're here when you need us"

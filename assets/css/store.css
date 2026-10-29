@@ -3379,3 +3379,10 @@ body.cart-open {
 @media (min-width: 901px) and (hover: hover) { .main-navigation .nav-subdropdown:hover > .nav-subdropdown__menu { display: block; } }
 .main-navigation .nav-subdropdown:focus-within > .nav-subdropdown__menu { display: block; }
 @media (max-width: 900px) { .main-navigation .nav-subdropdown__heading { padding: 0 0 0 12px; font-size: .92rem; } .main-navigation .nav-subdropdown__toggle { width: 44px; height: 44px; } .main-navigation .nav-subdropdown__menu { position: static; min-width: 0; width: 100%; padding: 0 0 8px 18px; border: 0; box-shadow: none; background: transparent; } .main-navigation .nav-subdropdown:not(.is-open) > .nav-subdropdown__menu { display: none; } .main-navigation .nav-subdropdown.is-open > .nav-subdropdown__menu { display: block; } }
+
+/* Homepage VHS video hero */
+.home-hero { position: relative; overflow: hidden; }
+.home-hero__video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: 0; }
+.home-hero__overlay { position: absolute; inset: 0; z-index: 1; }
+.home-hero__content { position: relative; z-index: 2; }
+@media (prefers-reduced-motion: reduce) { .home-hero__video { display: none; } }
