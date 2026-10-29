@@ -13,6 +13,8 @@ badge: "Backyard & Beyond"
 collections:
   - backyard
   - aprons
+  - accessories
+
 
 
 image: /assets/images/products/honey-do-apron-004/red-front.jpg
