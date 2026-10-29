@@ -3386,3 +3386,14 @@ body.cart-open {
 .home-hero__overlay { position: absolute; inset: 0; z-index: 1; }
 .home-hero__content { position: relative; z-index: 2; }
 @media (prefers-reduced-motion: reduce) { .home-hero__video { display: none; } }
+
+/* Home Goods cinematic hero layout */
+.home-hero { position: relative; display: flex; align-items: center; overflow: hidden; isolation: isolate; }
+.home-hero > .home-hero__video { position: absolute; inset: 0; display: block; width: 100%; height: 100%; max-width: none; max-height: none; object-fit: cover; z-index: -2; }
+.home-hero > .home-hero__overlay { position: absolute; inset: 0; z-index: -1; background: linear-gradient(90deg, rgba(0,0,0,.72) 0%, rgba(0,0,0,.42) 55%, rgba(0,0,0,.15) 100%); }
+.home-hero > .home-hero__content { position: relative; z-index: 1; width: 100%; text-align: left; }
+.home-hero__content h1 { max-width: 760px; margin: 0 0 24px; font-family: Impact, 'Arial Black', sans-serif; font-size: clamp(3.5rem, 6vw, 6.75rem); font-weight: 900; line-height: .92; letter-spacing: -.025em; text-transform: uppercase; color: #fff; }
+.home-hero__content .home-eyebrow { color: #e4c16e; letter-spacing: .2em; }
+.home-hero__content .home-hero__text { max-width: 560px; color: #fff; }
+@media (max-width: 700px) { .home-hero__content h1 { font-size: clamp(3rem, 12vw, 5rem); } }
+@media (prefers-reduced-motion: reduce) { .home-hero > .home-hero__video { display: none; } }
