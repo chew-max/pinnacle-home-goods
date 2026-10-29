@@ -7,7 +7,7 @@ slug: honey-do-mug-002
 product_id: "HDM-002"
 
 
-featured: false
+featured: true
 badge: "Honey Do Collection"
 
 collections:
