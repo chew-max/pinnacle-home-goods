@@ -13,7 +13,7 @@ badge: "GARDEN CLUB COLLECTION"
 collections:
   - backyard
   - shirts
-  - best-sellers
+  - best-sellers 
 
 image: /assets/images/products/the-grow-club-002/brown-front.jpg
 
