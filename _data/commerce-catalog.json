@@ -22480,5 +22480,1974 @@
         "available": true
       }
     ]
+  },
+  "TGCR-001": {
+    "product_id": "TGCR-001",
+    "name": "Rooted plant graphic Tee | Gardening shirt, botanical roots design",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "4XL",
+        "M",
+        "L",
+        "S",
+        "XL",
+        "XS",
+        "2XL",
+        "3XL"
+      ],
+      "size": [
+        "Heather Olive",
+        "Heather Stone",
+        "Heather Mauve",
+        "Heather Tan",
+        "Heather Green",
+        "Heather Red",
+        "Heather Clay",
+        "Heather Cool Grey"
+      ]
+    },
+    "variant_index": {
+      "4XL||Heather Olive": {
+        "sku": "TGCR-001-4XL-HEATHER-OLIVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Heather Olive"
+        },
+        "available": true
+      },
+      "M||Heather Stone": {
+        "sku": "TGCR-001-M-HEATHER-STONE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      "M||Heather Mauve": {
+        "sku": "TGCR-001-M-HEATHER-MAUVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Mauve"
+        },
+        "available": true
+      },
+      "L||Heather Tan": {
+        "sku": "TGCR-001-L-HEATHER-TAN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      "S||Heather Stone": {
+        "sku": "TGCR-001-S-HEATHER-STONE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      "XL||Heather Tan": {
+        "sku": "TGCR-001-XL-HEATHER-TAN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      "M||Heather Olive": {
+        "sku": "TGCR-001-M-HEATHER-OLIVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Olive"
+        },
+        "available": true
+      },
+      "S||Heather Green": {
+        "sku": "TGCR-001-S-HEATHER-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Green"
+        },
+        "available": true
+      },
+      "XL||Heather Red": {
+        "sku": "TGCR-001-XL-HEATHER-RED",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Red"
+        },
+        "available": true
+      },
+      "XL||Heather Green": {
+        "sku": "TGCR-001-XL-HEATHER-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Green"
+        },
+        "available": true
+      },
+      "L||Heather Stone": {
+        "sku": "TGCR-001-L-HEATHER-STONE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      "S||Heather Tan": {
+        "sku": "TGCR-001-S-HEATHER-TAN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      "S||Heather Red": {
+        "sku": "TGCR-001-S-HEATHER-RED",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Red"
+        },
+        "available": true
+      },
+      "L||Heather Mauve": {
+        "sku": "TGCR-001-L-HEATHER-MAUVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Mauve"
+        },
+        "available": true
+      },
+      "S||Heather Mauve": {
+        "sku": "TGCR-001-S-HEATHER-MAUVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Mauve"
+        },
+        "available": true
+      },
+      "XL||Heather Stone": {
+        "sku": "TGCR-001-XL-HEATHER-STONE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      "XL||Heather Mauve": {
+        "sku": "TGCR-001-XL-HEATHER-MAUVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Mauve"
+        },
+        "available": true
+      },
+      "M||Heather Tan": {
+        "sku": "TGCR-001-M-HEATHER-TAN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      "S||Heather Olive": {
+        "sku": "TGCR-001-S-HEATHER-OLIVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Olive"
+        },
+        "available": true
+      },
+      "L||Heather Red": {
+        "sku": "TGCR-001-L-HEATHER-RED",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Red"
+        },
+        "available": true
+      },
+      "M||Heather Green": {
+        "sku": "TGCR-001-M-HEATHER-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Green"
+        },
+        "available": true
+      },
+      "M||Heather Red": {
+        "sku": "TGCR-001-M-HEATHER-RED",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Red"
+        },
+        "available": true
+      },
+      "XL||Heather Olive": {
+        "sku": "TGCR-001-XL-HEATHER-OLIVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Olive"
+        },
+        "available": true
+      },
+      "L||Heather Olive": {
+        "sku": "TGCR-001-L-HEATHER-OLIVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Olive"
+        },
+        "available": true
+      },
+      "L||Heather Green": {
+        "sku": "TGCR-001-L-HEATHER-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Green"
+        },
+        "available": true
+      },
+      "S||Heather Clay": {
+        "sku": "TGCR-001-S-HEATHER-CLAY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      "L||Heather Clay": {
+        "sku": "TGCR-001-L-HEATHER-CLAY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      "XL||Heather Clay": {
+        "sku": "TGCR-001-XL-HEATHER-CLAY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      "M||Heather Clay": {
+        "sku": "TGCR-001-M-HEATHER-CLAY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      "XS||Heather Stone": {
+        "sku": "TGCR-001-XS-HEATHER-STONE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      "XS||Heather Tan": {
+        "sku": "TGCR-001-XS-HEATHER-TAN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      "XS||Heather Mauve": {
+        "sku": "TGCR-001-XS-HEATHER-MAUVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Mauve"
+        },
+        "available": true
+      },
+      "L||Heather Cool Grey": {
+        "sku": "TGCR-001-L-HEATHER-COOL-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      "M||Heather Cool Grey": {
+        "sku": "TGCR-001-M-HEATHER-COOL-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      "XL||Heather Cool Grey": {
+        "sku": "TGCR-001-XL-HEATHER-COOL-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      "XS||Heather Green": {
+        "sku": "TGCR-001-XS-HEATHER-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Green"
+        },
+        "available": true
+      },
+      "XS||Heather Clay": {
+        "sku": "TGCR-001-XS-HEATHER-CLAY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      "XS||Heather Cool Grey": {
+        "sku": "TGCR-001-XS-HEATHER-COOL-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      "S||Heather Cool Grey": {
+        "sku": "TGCR-001-S-HEATHER-COOL-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      "XS||Heather Red": {
+        "sku": "TGCR-001-XS-HEATHER-RED",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Red"
+        },
+        "available": true
+      },
+      "XS||Heather Olive": {
+        "sku": "TGCR-001-XS-HEATHER-OLIVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Olive"
+        },
+        "available": true
+      },
+      "2XL||Heather Mauve": {
+        "sku": "TGCR-001-2XL-HEATHER-MAUVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Mauve"
+        },
+        "available": true
+      },
+      "2XL||Heather Green": {
+        "sku": "TGCR-001-2XL-HEATHER-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Green"
+        },
+        "available": true
+      },
+      "2XL||Heather Red": {
+        "sku": "TGCR-001-2XL-HEATHER-RED",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Red"
+        },
+        "available": true
+      },
+      "2XL||Heather Olive": {
+        "sku": "TGCR-001-2XL-HEATHER-OLIVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Olive"
+        },
+        "available": true
+      },
+      "2XL||Heather Stone": {
+        "sku": "TGCR-001-2XL-HEATHER-STONE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      "2XL||Heather Tan": {
+        "sku": "TGCR-001-2XL-HEATHER-TAN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      "2XL||Heather Clay": {
+        "sku": "TGCR-001-2XL-HEATHER-CLAY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      "2XL||Heather Cool Grey": {
+        "sku": "TGCR-001-2XL-HEATHER-COOL-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      "3XL||Heather Green": {
+        "sku": "TGCR-001-3XL-HEATHER-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Heather Green"
+        },
+        "available": true
+      },
+      "3XL||Heather Red": {
+        "sku": "TGCR-001-3XL-HEATHER-RED",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Heather Red"
+        },
+        "available": true
+      },
+      "3XL||Heather Mauve": {
+        "sku": "TGCR-001-3XL-HEATHER-MAUVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Heather Mauve"
+        },
+        "available": true
+      },
+      "3XL||Heather Tan": {
+        "sku": "TGCR-001-3XL-HEATHER-TAN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      "3XL||Heather Stone": {
+        "sku": "TGCR-001-3XL-HEATHER-STONE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      "3XL||Heather Olive": {
+        "sku": "TGCR-001-3XL-HEATHER-OLIVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Heather Olive"
+        },
+        "available": true
+      },
+      "3XL||Heather Clay": {
+        "sku": "TGCR-001-3XL-HEATHER-CLAY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      "3XL||Heather Cool Grey": {
+        "sku": "TGCR-001-3XL-HEATHER-COOL-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      "4XL||Heather Green": {
+        "sku": "TGCR-001-4XL-HEATHER-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Heather Green"
+        },
+        "available": true
+      },
+      "4XL||Heather Mauve": {
+        "sku": "TGCR-001-4XL-HEATHER-MAUVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Heather Mauve"
+        },
+        "available": true
+      },
+      "4XL||Heather Tan": {
+        "sku": "TGCR-001-4XL-HEATHER-TAN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      "4XL||Heather Red": {
+        "sku": "TGCR-001-4XL-HEATHER-RED",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Heather Red"
+        },
+        "available": true
+      },
+      "4XL||Heather Stone": {
+        "sku": "TGCR-001-4XL-HEATHER-STONE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      "4XL||Heather Cool Grey": {
+        "sku": "TGCR-001-4XL-HEATHER-COOL-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "TGCR-001-4XL-HEATHER-OLIVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Heather Olive"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-M-HEATHER-STONE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-M-HEATHER-MAUVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Mauve"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-L-HEATHER-TAN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-S-HEATHER-STONE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-XL-HEATHER-TAN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-M-HEATHER-OLIVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Olive"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-S-HEATHER-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-XL-HEATHER-RED",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Red"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-XL-HEATHER-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-L-HEATHER-STONE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-S-HEATHER-TAN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-S-HEATHER-RED",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Red"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-L-HEATHER-MAUVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Mauve"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-S-HEATHER-MAUVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Mauve"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-XL-HEATHER-STONE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-XL-HEATHER-MAUVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Mauve"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-M-HEATHER-TAN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-S-HEATHER-OLIVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Olive"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-L-HEATHER-RED",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Red"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-M-HEATHER-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-M-HEATHER-RED",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Red"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-XL-HEATHER-OLIVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Olive"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-L-HEATHER-OLIVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Olive"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-L-HEATHER-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-S-HEATHER-CLAY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-L-HEATHER-CLAY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-XL-HEATHER-CLAY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-M-HEATHER-CLAY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-XS-HEATHER-STONE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-XS-HEATHER-TAN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-XS-HEATHER-MAUVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Mauve"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-L-HEATHER-COOL-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "L",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-M-HEATHER-COOL-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "M",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-XL-HEATHER-COOL-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-XS-HEATHER-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-XS-HEATHER-CLAY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-XS-HEATHER-COOL-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-S-HEATHER-COOL-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "S",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-XS-HEATHER-RED",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Red"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-XS-HEATHER-OLIVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Olive"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-2XL-HEATHER-MAUVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Mauve"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-2XL-HEATHER-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-2XL-HEATHER-RED",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Red"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-2XL-HEATHER-OLIVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Olive"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-2XL-HEATHER-STONE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-2XL-HEATHER-TAN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-2XL-HEATHER-CLAY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-2XL-HEATHER-COOL-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-3XL-HEATHER-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Heather Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-3XL-HEATHER-RED",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Heather Red"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-3XL-HEATHER-MAUVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Heather Mauve"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-3XL-HEATHER-TAN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-3XL-HEATHER-STONE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-3XL-HEATHER-OLIVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Heather Olive"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-3XL-HEATHER-CLAY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-3XL-HEATHER-COOL-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "3XL",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-4XL-HEATHER-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Heather Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-4XL-HEATHER-MAUVE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Heather Mauve"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-4XL-HEATHER-TAN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-4XL-HEATHER-RED",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Heather Red"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-4XL-HEATHER-STONE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-001-4XL-HEATHER-COOL-GREY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "4XL",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      }
+    ]
+  },
+  "TGCR-002": {
+    "product_id": "TGCR-002",
+    "name": "Botanical Flowers \"The Garden Club\" Tee | Floral Garden Shirt",
+    "price": 19.99,
+    "price_cents": 1999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "XL",
+        "M",
+        "L",
+        "S",
+        "XS",
+        "2XL"
+      ],
+      "size": [
+        "Pebble Brown",
+        "Heather Stone",
+        "Heather Tan",
+        "Heather Clay",
+        "Heather Cool Grey"
+      ]
+    },
+    "variant_index": {
+      "XL||Pebble Brown": {
+        "sku": "TGCR-002-XL-PEBBLE-BROWN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XL",
+          "size": "Pebble Brown"
+        },
+        "available": true
+      },
+      "M||Heather Stone": {
+        "sku": "TGCR-002-M-HEATHER-STONE",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "M",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      "L||Heather Tan": {
+        "sku": "TGCR-002-L-HEATHER-TAN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "L",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      "S||Heather Stone": {
+        "sku": "TGCR-002-S-HEATHER-STONE",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "S",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      "XL||Heather Tan": {
+        "sku": "TGCR-002-XL-HEATHER-TAN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      "S||Pebble Brown": {
+        "sku": "TGCR-002-S-PEBBLE-BROWN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "S",
+          "size": "Pebble Brown"
+        },
+        "available": true
+      },
+      "L||Heather Stone": {
+        "sku": "TGCR-002-L-HEATHER-STONE",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "L",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      "S||Heather Tan": {
+        "sku": "TGCR-002-S-HEATHER-TAN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "S",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      "M||Pebble Brown": {
+        "sku": "TGCR-002-M-PEBBLE-BROWN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "M",
+          "size": "Pebble Brown"
+        },
+        "available": true
+      },
+      "XL||Heather Stone": {
+        "sku": "TGCR-002-XL-HEATHER-STONE",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      "L||Pebble Brown": {
+        "sku": "TGCR-002-L-PEBBLE-BROWN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "L",
+          "size": "Pebble Brown"
+        },
+        "available": true
+      },
+      "M||Heather Tan": {
+        "sku": "TGCR-002-M-HEATHER-TAN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "M",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      "S||Heather Clay": {
+        "sku": "TGCR-002-S-HEATHER-CLAY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "S",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      "L||Heather Clay": {
+        "sku": "TGCR-002-L-HEATHER-CLAY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "L",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      "XL||Heather Clay": {
+        "sku": "TGCR-002-XL-HEATHER-CLAY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      "M||Heather Clay": {
+        "sku": "TGCR-002-M-HEATHER-CLAY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "M",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      "XS||Heather Stone": {
+        "sku": "TGCR-002-XS-HEATHER-STONE",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      "XS||Pebble Brown": {
+        "sku": "TGCR-002-XS-PEBBLE-BROWN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XS",
+          "size": "Pebble Brown"
+        },
+        "available": true
+      },
+      "XS||Heather Tan": {
+        "sku": "TGCR-002-XS-HEATHER-TAN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      "L||Heather Cool Grey": {
+        "sku": "TGCR-002-L-HEATHER-COOL-GREY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "L",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      "M||Heather Cool Grey": {
+        "sku": "TGCR-002-M-HEATHER-COOL-GREY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "M",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      "XL||Heather Cool Grey": {
+        "sku": "TGCR-002-XL-HEATHER-COOL-GREY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      "XS||Heather Clay": {
+        "sku": "TGCR-002-XS-HEATHER-CLAY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      "XS||Heather Cool Grey": {
+        "sku": "TGCR-002-XS-HEATHER-COOL-GREY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      "S||Heather Cool Grey": {
+        "sku": "TGCR-002-S-HEATHER-COOL-GREY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "S",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      "2XL||Pebble Brown": {
+        "sku": "TGCR-002-2XL-PEBBLE-BROWN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "2XL",
+          "size": "Pebble Brown"
+        },
+        "available": true
+      },
+      "2XL||Heather Stone": {
+        "sku": "TGCR-002-2XL-HEATHER-STONE",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      "2XL||Heather Tan": {
+        "sku": "TGCR-002-2XL-HEATHER-TAN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      "2XL||Heather Clay": {
+        "sku": "TGCR-002-2XL-HEATHER-CLAY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      "2XL||Heather Cool Grey": {
+        "sku": "TGCR-002-2XL-HEATHER-COOL-GREY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "TGCR-002-XL-PEBBLE-BROWN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XL",
+          "size": "Pebble Brown"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-M-HEATHER-STONE",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "M",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-L-HEATHER-TAN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "L",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-S-HEATHER-STONE",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "S",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-XL-HEATHER-TAN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-S-PEBBLE-BROWN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "S",
+          "size": "Pebble Brown"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-L-HEATHER-STONE",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "L",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-S-HEATHER-TAN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "S",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-M-PEBBLE-BROWN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "M",
+          "size": "Pebble Brown"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-XL-HEATHER-STONE",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-L-PEBBLE-BROWN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "L",
+          "size": "Pebble Brown"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-M-HEATHER-TAN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "M",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-S-HEATHER-CLAY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "S",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-L-HEATHER-CLAY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "L",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-XL-HEATHER-CLAY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-M-HEATHER-CLAY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "M",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-XS-HEATHER-STONE",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-XS-PEBBLE-BROWN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XS",
+          "size": "Pebble Brown"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-XS-HEATHER-TAN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-L-HEATHER-COOL-GREY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "L",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-M-HEATHER-COOL-GREY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "M",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-XL-HEATHER-COOL-GREY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XL",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-XS-HEATHER-CLAY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-XS-HEATHER-COOL-GREY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "XS",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-S-HEATHER-COOL-GREY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "S",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-2XL-PEBBLE-BROWN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "2XL",
+          "size": "Pebble Brown"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-2XL-HEATHER-STONE",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Stone"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-2XL-HEATHER-TAN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Tan"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-2XL-HEATHER-CLAY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Clay"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-002-2XL-HEATHER-COOL-GREY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "2XL",
+          "size": "Heather Cool Grey"
+        },
+        "available": true
+      }
+    ]
+  },
+  "TGCR-003": {
+    "product_id": "TGCR-003",
+    "name": "Rooted botanical design Apron | floral herbs illustration, gardening theme",
+    "price": 34.99,
+    "price_cents": 3499,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "White"
+      ],
+      "size": [
+        "One size"
+      ]
+    },
+    "variant_index": {
+      "White||One size": {
+        "sku": "TGCR-003-WHITE-ONE-SIZE",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "White",
+          "size": "One size"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "TGCR-003-WHITE-ONE-SIZE",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "White",
+          "size": "One size"
+        },
+        "available": true
+      }
+    ]
   }
 }
