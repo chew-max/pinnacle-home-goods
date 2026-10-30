@@ -20,7 +20,7 @@ image: /assets/images/products/the-grow-club-001/olive-back.jpg
 images:
   - /assets/images/products/the-grow-club-001/olive-back.jpg
   - /assets/images/products/the-grow-club-001/olive-front.jpg
-  - /assets/images/products/the-grow-club-001/olive-context.jpg
+  - /assets/images/products/the-grow-club-001/olive-collar.jpg
   - /assets/images/products/the-grow-club-001/clay-back.jpg
   - /assets/images/products/the-grow-club-001/clay-front.jpg
   - /assets/images/products/the-grow-club-001/clay-context.jpg
@@ -35,7 +35,7 @@ images:
   - /assets/images/products/the-grow-club-001/stone-context.jpg
   - /assets/images/products/the-grow-club-001/tan-back.jpg
   - /assets/images/products/the-grow-club-001/tan-front.jpg
-  - /assets/images/products/the-grow-club-001/tan-context.jpg
+  - /assets/images/products/the-grow-club-001/tan-collar.jpg
   - /assets/images/products/the-grow-club-001/green-back.jpg
   - /assets/images/products/the-grow-club-001/green-front.jpg
   - /assets/images/products/the-grow-club-001/green-context.jpg
