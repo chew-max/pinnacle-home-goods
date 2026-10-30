@@ -22202,5 +22202,283 @@
         "available": true
       }
     ]
+  },
+  "HDT-004": {
+    "product_id": "HDT-004",
+    "name": "Honey-Do-Hero Professional Amateur 3 Baseball Water Bottle",
+    "price": 39.99,
+    "price_cents": 3999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "12oz",
+        "18oz",
+        "32oz"
+      ],
+      "size": [
+        "White"
+      ]
+    },
+    "variant_index": {
+      "12oz||White": {
+        "sku": "HDT-004-12OZ-WHITE",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "12oz",
+          "size": "White"
+        },
+        "available": true
+      },
+      "18oz||White": {
+        "sku": "HDT-004-18OZ-WHITE",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "18oz",
+          "size": "White"
+        },
+        "available": true
+      },
+      "32oz||White": {
+        "sku": "HDT-004-32OZ-WHITE",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "32oz",
+          "size": "White"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDT-004-12OZ-WHITE",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "12oz",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDT-004-18OZ-WHITE",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "18oz",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDT-004-32OZ-WHITE",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "32oz",
+          "size": "White"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDT-005": {
+    "product_id": "HDT-005",
+    "name": "Honey-Do-Hero Professional Amateur 2 Baseball Water Bottle",
+    "price": 39.99,
+    "price_cents": 3999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "12oz",
+        "18oz",
+        "32oz"
+      ],
+      "size": [
+        "White"
+      ]
+    },
+    "variant_index": {
+      "12oz||White": {
+        "sku": "HDT-005-12OZ-WHITE",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "12oz",
+          "size": "White"
+        },
+        "available": true
+      },
+      "18oz||White": {
+        "sku": "HDT-005-18OZ-WHITE",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "18oz",
+          "size": "White"
+        },
+        "available": true
+      },
+      "32oz||White": {
+        "sku": "HDT-005-32OZ-WHITE",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "32oz",
+          "size": "White"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDT-005-12OZ-WHITE",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "12oz",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDT-005-18OZ-WHITE",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "18oz",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDT-005-32OZ-WHITE",
+        "price": 39.99,
+        "price_cents": 3999,
+        "options": {
+          "color": "32oz",
+          "size": "White"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDT-007": {
+    "product_id": "HDT-007",
+    "name": "Honey-Do Hero Professional Amateurs 2 Can Cooler",
+    "price": 9.99,
+    "price_cents": 999,
+    "option_names": [
+      "size"
+    ],
+    "option_values": {
+      "size": [
+        "Regular Can",
+        "Slim Can"
+      ]
+    },
+    "variant_index": {
+      "Regular Can": {
+        "sku": "HDT-007-REGULAR-CAN",
+        "price": 9.99,
+        "price_cents": 999,
+        "options": {
+          "size": "Regular Can"
+        },
+        "available": true
+      },
+      "Slim Can": {
+        "sku": "HDT-007-SLIM-CAN",
+        "price": 9.99,
+        "price_cents": 999,
+        "options": {
+          "size": "Slim Can"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDT-007-REGULAR-CAN",
+        "price": 9.99,
+        "price_cents": 999,
+        "options": {
+          "size": "Regular Can"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDT-007-SLIM-CAN",
+        "price": 9.99,
+        "price_cents": 999,
+        "options": {
+          "size": "Slim Can"
+        },
+        "available": true
+      }
+    ]
+  },
+  "HDT-006": {
+    "product_id": "HDT-006",
+    "name": "Honey-Do Hero Professional Amateurs 3 Can Cooler",
+    "price": 9.99,
+    "price_cents": 999,
+    "option_names": [
+      "size"
+    ],
+    "option_values": {
+      "size": [
+        "Regular Can",
+        "Slim Can"
+      ]
+    },
+    "variant_index": {
+      "Regular Can": {
+        "sku": "HDT-006-REGULAR-CAN",
+        "price": 9.99,
+        "price_cents": 999,
+        "options": {
+          "size": "Regular Can"
+        },
+        "available": true
+      },
+      "Slim Can": {
+        "sku": "HDT-006-SLIM-CAN",
+        "price": 9.99,
+        "price_cents": 999,
+        "options": {
+          "size": "Slim Can"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "HDT-006-REGULAR-CAN",
+        "price": 9.99,
+        "price_cents": 999,
+        "options": {
+          "size": "Regular Can"
+        },
+        "available": true
+      },
+      {
+        "sku": "HDT-006-SLIM-CAN",
+        "price": 9.99,
+        "price_cents": 999,
+        "options": {
+          "size": "Slim Can"
+        },
+        "available": true
+      }
+    ]
   }
 }

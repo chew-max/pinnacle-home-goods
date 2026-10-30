@@ -13,6 +13,7 @@ badge: "Honey Do Collection"
 collections:
   - honey-do
   - tumblers
+  - mugs
   - best-sellers
 
 image: /assets/images/products/honey-do-tblr-003/context.jpg

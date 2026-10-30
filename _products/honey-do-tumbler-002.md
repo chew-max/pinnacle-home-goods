@@ -47,6 +47,6 @@ description: >
 
 
 seo_description: >
-  Project H logo Tumbler, SMDM,
+  Professional Amateur Tumbler, SMDM,
   available in multiple colors and sizes from Pinnacle Home Goods.
 ---
