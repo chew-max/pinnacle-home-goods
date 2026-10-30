@@ -2314,7 +2314,7 @@ body.cart-open {
   line-height: 1.7;
 }
 .collection-page__banner {
-  width: min(100%, 1200px);
+  width: min(100%, 100%);
   margin-top: 32px;
   overflow: hidden;
   border-radius: 4px;
