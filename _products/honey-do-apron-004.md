@@ -8,7 +8,7 @@ product_id: "HDA-004"
 
 
 featured: false
-badge: "Backyard & Beyond"
+badge: "SMOKE CLUB"
 
 collections:
   - backyard

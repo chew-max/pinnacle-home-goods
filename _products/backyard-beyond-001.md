@@ -8,7 +8,7 @@ product_id: "BYB-001"
 
 
 featured: false
-badge: "Backyard & Beyond"
+badge: "SMOKE CLUB"
 
 collections:
   - backyard
