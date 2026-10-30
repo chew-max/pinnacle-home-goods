@@ -15,7 +15,7 @@ collections:
   - shirts
   - best-sellers
 
-image: /assets/images/products/honey-do-hero-001/front.png
+image: /assets/images/products/honey-do-hero-001/front.jpg
 
 images:
   - /assets/images/products/honey-do-hero-001/front.jpg
