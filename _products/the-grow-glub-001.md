@@ -39,16 +39,15 @@ images:
   - /assets/images/products/the-grow-club-001/green-back.jpg
   - /assets/images/products/the-grow-club-001/green-front.jpg
   - /assets/images/products/the-grow-club-001/green-context.jpg
-`
 
 
 short_description: >
   Stay Rooted with a little bit of grow therapy.
 
 description: >
-Soft, lived-in tee with a quiet, grounded vibe — made for people who find calm in soil-streaked hands and slow weekend projects. The front features a small, understated chest mark; the back shows a bold plant-and-root motif with the word “ROOTED.” beneath, evoking steady growth and time spent outdoors. Lightweight, breathable cotton and a neat crew neckline make this shirt easy to layer or wear on its own. It wears like a dependable companion for garden mornings, plant swaps, and afternoons spent turning soil into stories.
+  Soft, lived-in tee with a quiet, grounded vibe — made for people who find calm in soil-streaked hands and slow weekend projects. The front features a small, understated chest mark; the back shows a bold plant-and-root motif with the word “ROOTED.” beneath, evoking steady growth and time spent outdoors. Lightweight, breathable cotton and a neat crew neckline make this shirt easy to layer or wear on its own. It wears like a dependable companion for garden mornings, plant swaps, and afternoons spent turning soil into stories.
 
-Product features
+  Product features
   - 100% Airlume combed and ring-spun cotton (lightweight, breathable)
   - Side seams and ribbed knit collar for shape retention
   - Shoulder tape for seam stability and reduced stretching

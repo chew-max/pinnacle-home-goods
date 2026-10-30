@@ -26,7 +26,6 @@ images:
   - /assets/images/products/the-grow-club-002/stone-front.jpg
   - /assets/images/products/the-grow-club-002/tan-front.jpg
 
-`
 short_description: >
   Stay Rooted with a little bit of grow therapy.
 

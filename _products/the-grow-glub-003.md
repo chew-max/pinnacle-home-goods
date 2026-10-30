@@ -23,26 +23,24 @@ images:
   - /assets/images/products/the-grow-club-003/white-context.jpg
 
 
-`
 short_description: >
   Stay Rooted with a little bit of grow therapy.
 
 description: >
-  Soft, lived-in comfort meets quiet garden charm. This lightweight crew tee drapes gently over mornings spent potting soil, swapping seeds, or sipping tea on the porch. A row of hand-drawn wildflowers arches above the understated “The Garden Club” script, printed in a muted tone that feels like dried petals against a warm, neutral background. It layers easily under a cardigan or wears solo while bending over raised beds, carrying clippings, or joining friends at a plant swap. Breathable cotton keeps you cool while the tear-away label and ribbed collar stay comfortable after many wears. It’s for people who love slow afternoons, community seed-shelves, and the small rituals of tending things to life.
+  This lightweight cotton apron brings a quiet, grounded energy to the kitchen and garden. Soft white fabric is printed with a row of hand-drawn wildflowers across the chest and a leafy emblem with the word “ROOTED.” centered below. It wears like a canvas for slow, intentional tasks—baking, potting, late-afternoon tea—and keeps movement easy with a tie-back closure and durable overlocked seams. The single-sided sublimation print stays vivid while the apron remains breathable and easy to wash. It feels like a small ritual: slip it on, settle in, and let the work connect you to the earth.
 
   Product features
-  - 100% Airlume combed ring-spun cotton; lightweight 4.2 oz fabric for breathable comfort
-  - Side seams and shoulder tape for shape retention and a structured fit
-  - Ribbed knit collar with seam and retail crew neckline for a classic look
-  - Soft, tear-away label to minimize irritation; REACH certified compliance
-  - Printed using detailed DTF or DTG techniques (varies by provider) for crisp floral artwork
+  - 100% cotton body with polyester sublimation coating for vivid, lasting print
+  - Lightweight and breathable—comfortable for long wear
+  - Overlocked seams for reinforced durability
+  - Tie-back closure with white straps for adjustable fit
+  - One-sided print, adult one-size design
 
   Care instructions
-  - Machine wash: cold (max 30C or 90F)
-  - Non-chlorine: bleach as needed
+  - Machine wash: cold (max 30C or 90F), *recommended to place a small amount of soap before placing in the washing machine
+  - Do not bleach
   - Tumble dry: low heat
-  - Iron, steam or dry: medium heat
-  - Do not dryclean
+  - Do not iron
 
 seo_description: >
   The Garden Club graphic Tee,
