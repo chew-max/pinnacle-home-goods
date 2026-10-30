@@ -8,7 +8,7 @@ product_id: "BYBM-002"
 
 
 featured: false
-badge: "SMOKE CLUB"
+badge: "SMOKE CLUB COLLECTION"
 
 collections:
   - backyard
