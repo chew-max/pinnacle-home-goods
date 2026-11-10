@@ -24588,20 +24588,32 @@
     "option_values": {
       "color": [
         "M",
-        "L",
         "S",
         "XL",
+        "L",
         "XS",
         "2XL",
         "3XL",
-        "4XL"
+        "4XL",
+        "5XL"
       ],
       "size": [
+        "Navy",
         "White",
         "Citron"
       ]
     },
     "variant_index": {
+      "M||Navy": {
+        "sku": "BYA-002-M-NAVY",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "M",
+          "size": "Navy"
+        },
+        "available": true
+      },
       "M||White": {
         "sku": "BYA-002-M-WHITE",
         "price": 30,
@@ -24612,6 +24624,26 @@
         },
         "available": true
       },
+      "S||Navy": {
+        "sku": "BYA-002-S-NAVY",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "S",
+          "size": "Navy"
+        },
+        "available": true
+      },
+      "XL||Navy": {
+        "sku": "BYA-002-XL-NAVY",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "XL",
+          "size": "Navy"
+        },
+        "available": true
+      },
       "L||White": {
         "sku": "BYA-002-L-WHITE",
         "price": 30,
@@ -24619,6 +24651,16 @@
         "options": {
           "color": "L",
           "size": "White"
+        },
+        "available": true
+      },
+      "L||Navy": {
+        "sku": "BYA-002-L-NAVY",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "L",
+          "size": "Navy"
         },
         "available": true
       },
@@ -24649,6 +24691,16 @@
         "options": {
           "color": "M",
           "size": "Citron"
+        },
+        "available": true
+      },
+      "XS||Navy": {
+        "sku": "BYA-002-XS-NAVY",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "XS",
+          "size": "Navy"
         },
         "available": true
       },
@@ -24702,6 +24754,16 @@
         },
         "available": true
       },
+      "2XL||Navy": {
+        "sku": "BYA-002-2XL-NAVY",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "2XL",
+          "size": "Navy"
+        },
+        "available": true
+      },
       "2XL||Citron": {
         "sku": "BYA-002-2XL-CITRON",
         "price": 30,
@@ -24709,6 +24771,16 @@
         "options": {
           "color": "2XL",
           "size": "Citron"
+        },
+        "available": true
+      },
+      "3XL||Navy": {
+        "sku": "BYA-002-3XL-NAVY",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "3XL",
+          "size": "Navy"
         },
         "available": true
       },
@@ -24732,6 +24804,16 @@
         },
         "available": true
       },
+      "4XL||Navy": {
+        "sku": "BYA-002-4XL-NAVY",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "4XL",
+          "size": "Navy"
+        },
+        "available": true
+      },
       "4XL||Citron": {
         "sku": "BYA-002-4XL-CITRON",
         "price": 30,
@@ -24741,9 +24823,29 @@
           "size": "Citron"
         },
         "available": true
+      },
+      "5XL||Navy": {
+        "sku": "BYA-002-5XL-NAVY",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "5XL",
+          "size": "Navy"
+        },
+        "available": true
       }
     },
     "variants": [
+      {
+        "sku": "BYA-002-M-NAVY",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "M",
+          "size": "Navy"
+        },
+        "available": true
+      },
       {
         "sku": "BYA-002-M-WHITE",
         "price": 30,
@@ -24755,12 +24857,42 @@
         "available": true
       },
       {
+        "sku": "BYA-002-S-NAVY",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "S",
+          "size": "Navy"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYA-002-XL-NAVY",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "XL",
+          "size": "Navy"
+        },
+        "available": true
+      },
+      {
         "sku": "BYA-002-L-WHITE",
         "price": 30,
         "price_cents": 3000,
         "options": {
           "color": "L",
           "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYA-002-L-NAVY",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "L",
+          "size": "Navy"
         },
         "available": true
       },
@@ -24791,6 +24923,16 @@
         "options": {
           "color": "M",
           "size": "Citron"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYA-002-XS-NAVY",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "XS",
+          "size": "Navy"
         },
         "available": true
       },
@@ -24845,12 +24987,32 @@
         "available": true
       },
       {
+        "sku": "BYA-002-2XL-NAVY",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "2XL",
+          "size": "Navy"
+        },
+        "available": true
+      },
+      {
         "sku": "BYA-002-2XL-CITRON",
         "price": 30,
         "price_cents": 3000,
         "options": {
           "color": "2XL",
           "size": "Citron"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYA-002-3XL-NAVY",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "3XL",
+          "size": "Navy"
         },
         "available": true
       },
@@ -24875,12 +25037,32 @@
         "available": true
       },
       {
+        "sku": "BYA-002-4XL-NAVY",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "4XL",
+          "size": "Navy"
+        },
+        "available": true
+      },
+      {
         "sku": "BYA-002-4XL-CITRON",
         "price": 30,
         "price_cents": 3000,
         "options": {
           "color": "4XL",
           "size": "Citron"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYA-002-5XL-NAVY",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "5XL",
+          "size": "Navy"
         },
         "available": true
       }
