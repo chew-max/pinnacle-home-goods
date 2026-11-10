@@ -24927,5 +24927,47 @@
         "available": true
       }
     ]
+  },
+  "BYA-003": {
+    "product_id": "BYA-003",
+    "name": "Crossed Paddles 2026 Classic Dad Cap",
+    "price": 27.99,
+    "price_cents": 2799,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "One size"
+      ],
+      "size": [
+        "Navy"
+      ]
+    },
+    "variant_index": {
+      "One size||Navy": {
+        "sku": "BYA-003-ONE-SIZE-NAVY",
+        "price": 27.99,
+        "price_cents": 2799,
+        "options": {
+          "color": "One size",
+          "size": "Navy"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "BYA-003-ONE-SIZE-NAVY",
+        "price": 27.99,
+        "price_cents": 2799,
+        "options": {
+          "color": "One size",
+          "size": "Navy"
+        },
+        "available": true
+      }
+    ]
   }
 }
