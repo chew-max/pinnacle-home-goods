@@ -18,6 +18,8 @@ collections:
 image: /assets/images/products/backyard-athletics-002/white-back.jpg
 
 images:
+  - /assets/images/products/backyard-athletics-002/blue-front.jpg
+  - /assets/images/products/backyard-athletics-002/blue-back.jpg
   - /assets/images/products/backyard-athletics-002/white-front.jpg
   - /assets/images/products/backyard-athletics-002/white-back.jpg
   - /assets/images/products/backyard-athletics-002/citron-front.jpg

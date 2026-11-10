@@ -24,6 +24,7 @@ images:
 
 
 
+
 short_description: >
   For the professional amateur who somehow became
   the expert on everything.
