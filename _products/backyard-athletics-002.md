@@ -15,7 +15,7 @@ collections:
   - shirts
   - best-sellers
 
-image: /assets/images/products/backyard-athletics-002/white-front.jpg
+image: /assets/images/products/backyard-athletics-002/white-back.jpg
 
 images:
   - /assets/images/products/backyard-athletics-002/white-front.jpg
