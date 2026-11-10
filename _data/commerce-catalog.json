@@ -24449,5 +24449,483 @@
         "available": true
       }
     ]
+  },
+  "TGCR-004": {
+    "product_id": "TGCR-004",
+    "name": "Rooted plant roots graphic Mug | Ceramic coffee cup, botanical design",
+    "price": 19.99,
+    "price_cents": 1999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "11oz"
+      ],
+      "size": [
+        "Almond",
+        "Forest Green",
+        "Red"
+      ]
+    },
+    "variant_index": {
+      "11oz||Almond": {
+        "sku": "TGCR-004-11OZ-ALMOND",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "11oz",
+          "size": "Almond"
+        },
+        "available": true
+      },
+      "11oz||Forest Green": {
+        "sku": "TGCR-004-11OZ-FOREST-GREEN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "11oz",
+          "size": "Forest Green"
+        },
+        "available": true
+      },
+      "11oz||Red": {
+        "sku": "TGCR-004-11OZ-RED",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "11oz",
+          "size": "Red"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "TGCR-004-11OZ-ALMOND",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "11oz",
+          "size": "Almond"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-004-11OZ-FOREST-GREEN",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "11oz",
+          "size": "Forest Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "TGCR-004-11OZ-RED",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "11oz",
+          "size": "Red"
+        },
+        "available": true
+      }
+    ]
+  },
+  "TGCR-005": {
+    "product_id": "TGCR-005",
+    "name": "Rooted botanical design Tote | canvas plant roots illustration",
+    "price": 20.99,
+    "price_cents": 2099,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "15\" x 16\""
+      ],
+      "size": [
+        "Natural"
+      ]
+    },
+    "variant_index": {
+      "15\" x 16\"||Natural": {
+        "sku": "TGCR-005-15-X-16-NATURAL",
+        "price": 20.99,
+        "price_cents": 2099,
+        "options": {
+          "color": "15\" x 16\"",
+          "size": "Natural"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "TGCR-005-15-X-16-NATURAL",
+        "price": 20.99,
+        "price_cents": 2099,
+        "options": {
+          "color": "15\" x 16\"",
+          "size": "Natural"
+        },
+        "available": true
+      }
+    ]
+  },
+  "BYA-002": {
+    "product_id": "BYA-002",
+    "name": "Backyard Athletics logo tee | T-Shirt",
+    "price": 30,
+    "price_cents": 3000,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "M",
+        "L",
+        "S",
+        "XL",
+        "XS",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "size": [
+        "White",
+        "Citron"
+      ]
+    },
+    "variant_index": {
+      "M||White": {
+        "sku": "BYA-002-M-WHITE",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "M",
+          "size": "White"
+        },
+        "available": true
+      },
+      "L||White": {
+        "sku": "BYA-002-L-WHITE",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "L",
+          "size": "White"
+        },
+        "available": true
+      },
+      "S||White": {
+        "sku": "BYA-002-S-WHITE",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "S",
+          "size": "White"
+        },
+        "available": true
+      },
+      "XL||White": {
+        "sku": "BYA-002-XL-WHITE",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "XL",
+          "size": "White"
+        },
+        "available": true
+      },
+      "M||Citron": {
+        "sku": "BYA-002-M-CITRON",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "M",
+          "size": "Citron"
+        },
+        "available": true
+      },
+      "S||Citron": {
+        "sku": "BYA-002-S-CITRON",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "S",
+          "size": "Citron"
+        },
+        "available": true
+      },
+      "L||Citron": {
+        "sku": "BYA-002-L-CITRON",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "L",
+          "size": "Citron"
+        },
+        "available": true
+      },
+      "XS||Citron": {
+        "sku": "BYA-002-XS-CITRON",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "XS",
+          "size": "Citron"
+        },
+        "available": true
+      },
+      "XL||Citron": {
+        "sku": "BYA-002-XL-CITRON",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "XL",
+          "size": "Citron"
+        },
+        "available": true
+      },
+      "2XL||White": {
+        "sku": "BYA-002-2XL-WHITE",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "2XL",
+          "size": "White"
+        },
+        "available": true
+      },
+      "2XL||Citron": {
+        "sku": "BYA-002-2XL-CITRON",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "2XL",
+          "size": "Citron"
+        },
+        "available": true
+      },
+      "3XL||White": {
+        "sku": "BYA-002-3XL-WHITE",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "3XL",
+          "size": "White"
+        },
+        "available": true
+      },
+      "3XL||Citron": {
+        "sku": "BYA-002-3XL-CITRON",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "3XL",
+          "size": "Citron"
+        },
+        "available": true
+      },
+      "4XL||Citron": {
+        "sku": "BYA-002-4XL-CITRON",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "4XL",
+          "size": "Citron"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "BYA-002-M-WHITE",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "M",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYA-002-L-WHITE",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "L",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYA-002-S-WHITE",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "S",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYA-002-XL-WHITE",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "XL",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYA-002-M-CITRON",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "M",
+          "size": "Citron"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYA-002-S-CITRON",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "S",
+          "size": "Citron"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYA-002-L-CITRON",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "L",
+          "size": "Citron"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYA-002-XS-CITRON",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "XS",
+          "size": "Citron"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYA-002-XL-CITRON",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "XL",
+          "size": "Citron"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYA-002-2XL-WHITE",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "2XL",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYA-002-2XL-CITRON",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "2XL",
+          "size": "Citron"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYA-002-3XL-WHITE",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "3XL",
+          "size": "White"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYA-002-3XL-CITRON",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "3XL",
+          "size": "Citron"
+        },
+        "available": true
+      },
+      {
+        "sku": "BYA-002-4XL-CITRON",
+        "price": 30,
+        "price_cents": 3000,
+        "options": {
+          "color": "4XL",
+          "size": "Citron"
+        },
+        "available": true
+      }
+    ]
+  },
+  "BYA-001": {
+    "product_id": "BYA-001",
+    "name": "2026 Trucker Cap | Backyard Athletics Chef Hat",
+    "price": 19.99,
+    "price_cents": 1999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "One size"
+      ],
+      "size": [
+        "Dark Navy"
+      ]
+    },
+    "variant_index": {
+      "One size||Dark Navy": {
+        "sku": "BYA-001-ONE-SIZE-DARK-NAVY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "One size",
+          "size": "Dark Navy"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "BYA-001-ONE-SIZE-DARK-NAVY",
+        "price": 19.99,
+        "price_cents": 1999,
+        "options": {
+          "color": "One size",
+          "size": "Dark Navy"
+        },
+        "available": true
+      }
+    ]
   }
 }
