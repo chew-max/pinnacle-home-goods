@@ -15,13 +15,13 @@ collections:
   - shirts
   - best-sellers
 
-image: /assets/images/products/backyard-beyond-002/white-front.jpg
+image: /assets/images/products/backyard-athletics-002/white-front.jpg
 
 images:
-  - /assets/images/products/backyard-beyond-002/white-front.jpg
-  - /assets/images/products/backyard-beyond-002/white-back.jpg
-  - /assets/images/products/backyard-beyond-002/citron-front.jpg
-  - /assets/images/products/backyard-beyond-002/citron-back.jpg
+  - /assets/images/products/backyard-athletics-002/white-front.jpg
+  - /assets/images/products/backyard-athletics-002/white-back.jpg
+  - /assets/images/products/backyard-athletics-002/citron-front.jpg
+  - /assets/images/products/backyard-athletics-002/citron-back.jpg
 
 
 
