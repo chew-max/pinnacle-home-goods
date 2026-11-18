@@ -1,6 +1,13 @@
+BYA-001 6ae513e5a6ca3b20f605bfde 2026 Trucker Cap | Backyard Athletics Hat 1999
+BYA-002 6ae50f4c3f434b5fde0beddc Backyard Athletics logo tee | T-Shirt 3000
+BYA-003 6af36f6f43c414fdd4098356 Crossed Paddles 2026 Classic Dad Cap 2799
+
+
 TGCR-003 6ae4ed8a28a141bb460b9b27 Rooted botanical design Apron | floral herbs illustration, gardening theme
 TGCR-001 6ae4eb4c56ca05b4b30c6045 Rooted plant graphic Tee | Gardening shirt, botanical roots design 2999
 TGCR-002 6ae4e4960092c1cc6a0c20c3 Botanical Flowers "The Garden Club" Tee | Floral Garden Shirt 1999
+TGCR-004 6ae50f4d308bdc0c0e07deeb Rooted plant roots graphic Mug | Ceramic coffee cup, botanical design 1999
+TGCR-005 6ae50f4d308bdc0c0e07deea Rooted botanical design Tote | canvas plant roots illustration 2099
 
 
 HDHT-002 6ae0c75f54dc290edd07eb4f Honey-Do Hero Leather Patch Baseball Cap
