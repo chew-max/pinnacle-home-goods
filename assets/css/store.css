@@ -3417,8 +3417,7 @@ body.cart-open {
 }
 .site-footer__payments img {
   display: block;
-  width: 100%;
-  max-width: 680px;
+  width: 25%;
   height: auto;
   object-fit: contain;
 }
