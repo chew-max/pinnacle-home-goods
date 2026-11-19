@@ -6,9 +6,11 @@ description: Shipping information and order delivery policies.
 
 ## Order Processing
 
-Pinnacle Home Goods is operated by MTH Pinnacle LLC. Many of our products are made to order and require production time before they are shipped.
+Pinnacle Home Goods is operated by MTH Pinnacle LLC. Many of our products are made to order, meaning each item is produced specifically for you after your purchase is confirmed.
 
-Processing and production times may vary depending on the product, destination, holidays, promotional periods, or periods of unusually high order volume.
+Most orders require approximately **1–5 business days for processing and production** before shipment. Certain products, specialty items, or orders placed during high-volume periods may require additional processing time.
+
+Processing and production times may vary depending on the product, destination, availability, holidays, promotional periods, or periods of unusually high order volume.
 
 Once an order enters production, we may not be able to modify or cancel it.
 
@@ -20,13 +22,25 @@ For orders that do not qualify for free shipping, available shipping rates and m
 
 ## Estimated Delivery
 
-Delivery estimates depend on production time, destination, carrier, and the shipping method available for the order.
+We work to get your order delivered as quickly as possible while maintaining the quality of our made-to-order products.
 
-Any delivery dates or timeframes provided are estimates and are not guaranteed. Carrier delays, weather, holidays, and other circumstances outside our control may affect delivery.
+Our estimated delivery timeframes are:
+
+- **Standard U.S. Orders:** Approximately **5–12 business days**.
+- **Specialty or Internationally Fulfilled Products:** Approximately **10–20 business days**.
+- **International Orders:** Delivery times vary depending on destination, shipping method, customs processing, and local carrier services.
+
+These estimates generally include both production and shipping time and begin once your order has been confirmed.
+
+Orders containing multiple products may arrive in separate shipments, depending on production and fulfillment locations.
+
+Delivery estimates depend on the product, destination, carrier, and shipping method available for the order.
+
+**All delivery timeframes are estimates and are not guaranteed.** Carrier delays, weather conditions, holidays, customs processing, high order volumes, and other circumstances outside our control may affect delivery.
 
 ## Order Tracking
 
-When tracking information becomes available, we may send shipment details and a tracking link to the email address provided with your order.
+Once your order ships and tracking information becomes available, we may send shipment details and a tracking link to the email address provided with your order.
 
 Tracking information may take additional time to become active after a shipping label is created.
 
@@ -54,5 +68,5 @@ Please include your order number, a description of the problem, and photographs 
 
 Questions about shipping may be sent to **info@mthpinnaclellc.com**.
 
-Pinnacle Home Goods
+Pinnacle Home Goods  
 MTH Pinnacle LLC
