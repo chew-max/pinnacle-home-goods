@@ -1,69 +1,107 @@
 ---
 layout: policy
 title: Returns & Refunds
-description: Information about returns, replacements, and refunds.
+description: Information about returns, exchanges, and refunds.
 ---
 
-## Made-to-Order Products
+## Return Window
 
-Many products sold by Pinnacle Home Goods are made to order specifically for each customer.
+We want you to be satisfied with your purchase.
 
-Because these products are produced after an order is placed, we generally do not accept returns or exchanges for buyer's remorse, changes of mind, or incorrect size or color selections made by the customer.
+Because many of our products are made to order, we do not generally accept returns or exchanges for correctly produced items due to changes of mind, incorrect size or color selections, or personal preferences.
 
-Please review product descriptions, sizing information, colors, and order details carefully before completing your purchase.
+However, if your order arrives damaged, defective, misprinted, or incorrect, please contact us within **30 calendar days of delivery** so we can review the issue and determine an appropriate resolution.
 
-## Damaged, Defective, Misprinted, or Incorrect Items
+This policy does not limit any rights or remedies available under applicable consumer protection laws.
 
-If an item arrives damaged, defective, misprinted, or different from what you ordered, contact us at **info@mthpinnaclellc.com** within **30 days of delivery**.
+## Return Eligibility
+
+Returns, replacements, or refunds may be available when:
+
+- An item arrives damaged or defective.
+- A product has a significant printing or manufacturing error.
+- You receive an incorrect item, size, color, or design that differs from your confirmed order.
+- An order is confirmed lost in transit or cannot be delivered due to a verified shipping or fulfillment error.
+
+To request assistance, please provide your order number, a description of the issue, and clear photographs of the product and packaging when applicable.
+
+All requests are reviewed based on the circumstances of the order.
+
+## Non-Returnable Items
+
+Because our products are frequently produced specifically for each customer, the following items are generally not eligible for return or exchange unless defective, incorrect, or otherwise required by law:
+
+- Made-to-order and custom-printed products that were produced correctly.
+- Items ordered in the wrong size or color by the customer.
+- Products returned due to a change of mind or personal preference.
+- Final-sale or clearance items, where clearly identified at purchase.
+- Items damaged through improper use, washing, handling, or alterations after delivery.
+- Personal-use or hygiene-sensitive products where returns are restricted for health or safety reasons.
+
+Normal manufacturing variations that fall within published product specifications or reasonable production tolerances may not qualify as defects.
+
+## Damaged or Incorrect Items
+
+If your order arrives damaged, defective, misprinted, or different from what you ordered, please contact us at **info@mthpinnaclellc.com** within **30 calendar days of delivery**.
 
 Please include:
 
-- Your order number
-- A description of the issue
-- Clear photographs showing the item and the problem
-- Photographs of the packaging when relevant
+- Your order number.
+- A description of the problem.
+- Clear photographs showing the affected item, printing error, or damage.
+- Photographs of the packaging when relevant.
 
-We may request additional information when necessary to evaluate the issue with our fulfillment provider.
+We will review the information and may request additional details to investigate the issue.
 
-## Replacements and Refunds
+For approved claims, we may offer a replacement, refund, or another appropriate resolution, subject to applicable law.
 
-After reviewing an eligible issue, Pinnacle Home Goods may provide a replacement or refund, depending on the circumstances.
+In many cases, defective or incorrect items will not need to be returned. Please do not discard an affected item until we have completed our review or provided instructions.
 
-Approved refunds will be issued to the original payment method.
+## Refunds
 
-After a refund is issued, your bank, card issuer, or other financial institution may require additional processing time before the funds appear in your account.
+Approved refunds are issued to the original payment method used for the purchase whenever possible.
+
+After a refund is processed, additional time may be required for your bank or payment provider to make the funds available.
+
+If an order is canceled before production begins, a refund may be available.
+
+Once production has started, cancellation or refund requests may be limited because materials and production costs may already have been incurred.
+
+These limitations do not affect refunds or other remedies required by applicable law.
 
 ## Exchanges
 
-We do not currently offer traditional product exchanges.
+We do not currently offer routine exchanges for made-to-order products, including exchanges requested because of an incorrect size, color selection, or change of preference.
 
-If you received a damaged, defective, misprinted, or incorrect item, contact us within the 30-day reporting period so we can evaluate the issue for an appropriate replacement or refund.
+We encourage customers to review product descriptions, sizing charts, colors, and order details carefully before completing a purchase.
 
-Orders placed with an incorrect size, color, or other product option selected by the customer are generally not eligible for exchange.
+If you receive an incorrect or defective product, please contact us so we can review your request for a replacement or other appropriate resolution.
 
 ## Return Shipping
 
-Do not mail or return a product without first contacting us.
+Please contact us before returning any merchandise. **Do not send products back without receiving return instructions.**
 
-For an eligible damaged, defective, misprinted, or incorrect item, we will provide instructions regarding whether the product must be returned and, when applicable, how the return should be handled.
+For approved returns resulting from a verified defect, incorrect item, or fulfillment error, we will provide instructions and arrange or cover reasonable return shipping costs when a return is necessary.
 
-Customers should not send products directly to our fulfillment provider unless specifically instructed to do so by Pinnacle Home Goods.
+For discretionary returns that we agree to accept, customers may be responsible for return shipping costs unless otherwise agreed or required by law.
 
-## Order Changes and Cancellations
+Original shipping charges may be nonrefundable for discretionary returns, but this does not affect any refund rights required by law.
 
-Because made-to-order products may enter production shortly after an order is placed, order changes and cancellations cannot be guaranteed.
+## Lost or Undelivered Orders
 
-If you need to request a change or cancellation, contact us as soon as possible at **info@mthpinnaclellc.com**.
+If your package appears lost, is significantly delayed, or has not arrived despite its tracking status, please contact us at **info@mthpinnaclellc.com**.
 
-If production or fulfillment has already begun, we may be unable to modify or cancel the order.
+We will review the available tracking information and investigate the issue.
 
-## Consumer Rights
+Where a shipment is confirmed lost or a fulfillment error has occurred, we will work toward an appropriate resolution, which may include a replacement or refund.
 
-Nothing in this policy is intended to limit any rights or remedies that cannot be waived under applicable law.
+Customers are responsible for providing accurate and complete shipping information. Additional costs caused by incorrect or incomplete addresses may be the customer's responsibility where permitted by law.
 
 ## Contact
 
-Questions about returns, replacements, or refunds may be sent to **info@mthpinnaclellc.com**.
+For questions about returns, refunds, exchanges, or order issues, contact:
 
-Pinnacle Home Goods
-MTH Pinnacle LLC
+**MTH Pinnacle Home Goods LLC**  
+**Email:** info@mthpinnaclellc.com
+
+Please include your order number whenever possible so we can assist you efficiently.
