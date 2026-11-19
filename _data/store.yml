@@ -64,33 +64,33 @@ collections:
   - handle: shirts
     title: "Shirts"
     description: "Everyday tees and apparel."
-    image: "/assets/images/home/hero.png"
+
   
   - handle: mugs
     title: "Mugs"
     description: "Everyday equipment for your Honey-do list."
-    image: "/assets/images/home/hero.png"
+
   
   - handle: hats
     title: "Hats"
     description: "Everyday equipment for your Honey-do list."
-    image: "/assets/images/home/hero.png"
+
     
   - handle: tumblers
     title: "Tumblers"
     description: "Everyday equipment for your Honey-do list."
-    image: "/assets/images/home/hero.png"
+
 
 
   - handle: accessories
     title: "Accessories"
     description: "Customer favorites from across the collection."
-    image: "/assets/images/home/hero.png"
+
     
   - handle: best-sellers
     title: "Best Sellers"
     description: "Customer favorites from across the collection."
-    image: "/assets/images/home/hero.png"
+
 
 homepage:
   hero:
