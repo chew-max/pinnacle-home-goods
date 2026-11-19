@@ -3397,3 +3397,32 @@ body.cart-open {
 .home-hero__content .home-hero__text { max-width: 560px; color: #fff; }
 @media (max-width: 700px) { .home-hero__content h1 { font-size: clamp(3rem, 12vw, 5rem); } }
 @media (prefers-reduced-motion: reduce) { .home-hero > .home-hero__video { display: none; } }
+
+
+/* Payment methods footer */
+.site-footer__payments {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  padding: 28px 16px;
+  border-top: 1px solid rgba(128,128,128,.25);
+  text-align: center;
+}
+.site-footer__payments h3 {
+  margin: 0;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .14em;
+}
+.site-footer__payments img {
+  display: block;
+  width: 100%;
+  max-width: 680px;
+  height: auto;
+  object-fit: contain;
+}
+@media (max-width: 600px) {
+  .site-footer__payments { padding: 24px 8px; }
+  .site-footer__payments img { max-width: 100%; }
+}
