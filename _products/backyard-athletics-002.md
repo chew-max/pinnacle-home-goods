@@ -7,7 +7,7 @@ slug: backyard-athletics-002
 product_id: "BYA-002"
 
 
-featured: false
+featured: true
 badge: "BACKYARD ATHLETICS COLLECTION"
 
 collections:
